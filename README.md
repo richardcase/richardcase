@@ -5,6 +5,7 @@
 - 🔭 I’m currently working at [weaveworks](https://github.com/weaveworks) as a engineer/architect
 - 👯 I’m contributing to [Cluster API](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Aissue+is%3Apr+author%3Arichardcase+)
 - 💬 I'm reading [How to build a habitable planet](https://www.amazon.co.uk/How-Build-Habitable-Planet-Humankind/dp/0691140065)
+- 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@fruit_case-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fruit_case "Follow on Twitter")
 
 ### GitHub Activity 
 
