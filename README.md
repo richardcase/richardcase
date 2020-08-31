@@ -2,7 +2,7 @@
 
 <h3 align="left">Software Engineer ✨ Cluster API & OSS Contributor ✨ Geek ✨ Architect ✨ Retro Gaming Addict ✨ Lego Fan ✨</h3>
 
-- 🔭 I’m currently working @weaveworks as a engineer/architect
+- 🔭 I’m currently working at [weaveworks](https://github.com/weaveworks) as a engineer/architect
 - 👯 I’m contributing to [Cluster API](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Aissue+is%3Apr+author%3Arichardcase+)
 - 💬 I'm reading [How to build a habitable planet](https://www.amazon.co.uk/How-Build-Habitable-Planet-Humankind/dp/0691140065)
 
