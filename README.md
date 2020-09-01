@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1894](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1894) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#1902](https://github.com//kubernetes-sigs/cluster-api-provider-aws/pull/1902) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1815](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1815) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#1815](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1815) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#1894](https://github.com//kubernetes-sigs/cluster-api-provider-aws/pull/1894) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1877](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1877) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#1907](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1907) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#67](https://github.com//fidelity/kconnect/issues/67) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+4. 🗣 Commented on [#67](https://github.com//fidelity/kconnect/issues/67) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+5. ❗️ Opened issue [#1908](https://github.com//kubernetes-sigs/cluster-api-provider-aws/issues/1908) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com//kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
