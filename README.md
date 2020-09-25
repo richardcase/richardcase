@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com//fidelity/kconnect/pull/86) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
-2. 💪 Opened PR [#86](https://github.com//fidelity/kconnect/pull/86) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
-3. 🎉 Merged PR [#85](https://github.com//fidelity/kconnect/pull/85) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
-4. 💪 Opened PR [#85](https://github.com//fidelity/kconnect/pull/85) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
-5. 🎉 Merged PR [#84](https://github.com//fidelity/kconnect/pull/84) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+1. 💪 Opened PR [#88](https://github.com//fidelity/kconnect/pull/88) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+2. 🎉 Merged PR [#87](https://github.com//fidelity/kconnect/pull/87) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+3. 💪 Opened PR [#87](https://github.com//fidelity/kconnect/pull/87) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+4. 🎉 Merged PR [#86](https://github.com//fidelity/kconnect/pull/86) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
+5. 💪 Opened PR [#86](https://github.com//fidelity/kconnect/pull/86) in [fidelity/kconnect](https://github.com//fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
