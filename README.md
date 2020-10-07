@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#129](https://github.com/fidelity/kconnect/issues/129) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-2. ❗️ Opened issue [#128](https://github.com/fidelity/kconnect/issues/128) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-3. 🗣 Commented on [#116](https://github.com/fidelity/kconnect/issues/116) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-4. 🗣 Commented on [#116](https://github.com/fidelity/kconnect/issues/116) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-5. 🎉 Merged PR [#127](https://github.com/fidelity/kconnect/pull/127) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+1. 🎉 Merged PR [#135](https://github.com/fidelity/kconnect/pull/135) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+2. 💪 Opened PR [#135](https://github.com/fidelity/kconnect/pull/135) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+3. 🎉 Merged PR [#134](https://github.com/fidelity/kconnect/pull/134) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+4. 🎉 Merged PR [#124](https://github.com/fidelity/kconnect/pull/124) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+5. ❗️ Closed issue [#104](https://github.com/fidelity/kconnect/issues/104) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
