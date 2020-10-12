@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/fidelity/kconnect/pull/146) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-2. 🗣 Commented on [#2006](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2006) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2006](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2006) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❗️ Opened issue [#145](https://github.com/fidelity/kconnect/issues/145) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-5. ❗️ Opened issue [#144](https://github.com/fidelity/kconnect/issues/144) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+1. ❗️ Opened issue [#149](https://github.com/fidelity/kconnect/issues/149) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+2. 🎉 Merged PR [#148](https://github.com/fidelity/kconnect/pull/148) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+3. ❗️ Closed issue [#145](https://github.com/fidelity/kconnect/issues/145) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+4. 💪 Opened PR [#148](https://github.com/fidelity/kconnect/pull/148) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+5. 🎉 Merged PR [#146](https://github.com/fidelity/kconnect/pull/146) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
