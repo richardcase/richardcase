@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/fidelity/kconnect/pull/241) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-2. 🗣 Commented on [#241](https://github.com/fidelity/kconnect/issues/241) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-3. 🎉 Merged PR [#245](https://github.com/fidelity/kconnect/pull/245) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-4. 🗣 Commented on [#20244](https://github.com/kubernetes/test-infra/issues/20244) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#2387](https://github.com/kubernetes/org/issues/2387) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🎉 Merged PR [#248](https://github.com/fidelity/kconnect/pull/248) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+2. 💪 Opened PR [#248](https://github.com/fidelity/kconnect/pull/248) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+3. 🎉 Merged PR [#241](https://github.com/fidelity/kconnect/pull/241) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+4. 🗣 Commented on [#241](https://github.com/fidelity/kconnect/issues/241) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+5. 🎉 Merged PR [#245](https://github.com/fidelity/kconnect/pull/245) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
