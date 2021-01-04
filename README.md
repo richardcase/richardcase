@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1484](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/1484) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. ❗️ Opened issue [#2181](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2181) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2179](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2179) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#255](https://github.com/fidelity/kconnect/issues/255) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+2. 🗣 Commented on [#255](https://github.com/fidelity/kconnect/issues/255) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+3. 🗣 Commented on [#255](https://github.com/fidelity/kconnect/issues/255) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 4. 🗣 Commented on [#2175](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2175) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2175](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2175) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#2183](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2183) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
