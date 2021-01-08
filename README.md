@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2188](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2188) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#2188](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2188) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2188](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2188) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2188](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2188) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#266](https://github.com/fidelity/kconnect/pull/266) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+2. 💪 Opened PR [#270](https://github.com/fidelity/kconnect/pull/270) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+3. 💪 Opened PR [#269](https://github.com/fidelity/kconnect/pull/269) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+4. ❗️ Opened issue [#268](https://github.com/fidelity/kconnect/issues/268) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+5. ❗️ Opened issue [#267](https://github.com/fidelity/kconnect/issues/267) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
