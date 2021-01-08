@@ -3,8 +3,8 @@
 <h3 align="left">Software Engineer ✨ Cluster API & OSS Contributor ✨ Geek ✨ Architect ✨ Retro Gaming Addict ✨ Lego Fan ✨</h3>
 
 - 🔭 I’m currently working at [weaveworks](https://github.com/weaveworks) as a engineer/architect
-- 👯 I’m a mainter of [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-- 💬 I'm reading [How to build a habitable planet](https://www.amazon.co.uk/How-Build-Habitable-Planet-Humankind/dp/0691140065)
+- 👯 I’m a maintainer of [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+- 💬 I'm reading [Patch & Tweak](https://bjooks.com/products/patch-tweak-exploring-modular-synthesis)
 - 📫 How to reach me: [![Twitter Badge](https://img.shields.io/badge/-@fruit_case-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=fruit_case "Follow on Twitter")
 
 ### GitHub Activity 
