@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/kubecoins/test-infra/issues/6) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-2. 💪 Opened PR [#6](https://github.com/kubecoins/test-infra/pull/6) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-3. 🎉 Merged PR [#5](https://github.com/kubecoins/test-infra/pull/5) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-4. 🗣 Commented on [#286](https://github.com/fidelity/kconnect/issues/286) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
-5. 🗣 Commented on [#5](https://github.com/kubecoins/test-infra/issues/5) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+1. 🗣 Commented on [#9](https://github.com/kubecoins/test-infra/issues/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+2. 🗣 Commented on [#9](https://github.com/kubecoins/test-infra/issues/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+3. 💪 Opened PR [#9](https://github.com/kubecoins/test-infra/pull/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+4. ❌ Closed PR [#8](https://github.com/kubecoins/test-infra/pull/8) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+5. 🗣 Commented on [#8](https://github.com/kubecoins/test-infra/issues/8) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
