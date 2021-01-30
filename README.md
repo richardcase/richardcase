@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/kubecoins/test-infra/issues/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-2. 🗣 Commented on [#9](https://github.com/kubecoins/test-infra/issues/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-3. 💪 Opened PR [#9](https://github.com/kubecoins/test-infra/pull/9) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-4. ❌ Closed PR [#8](https://github.com/kubecoins/test-infra/pull/8) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-5. 🗣 Commented on [#8](https://github.com/kubecoins/test-infra/issues/8) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+1. 🗣 Commented on [#11](https://github.com/kubecoins/test-infra/issues/11) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+2. 🗣 Commented on [#11](https://github.com/kubecoins/test-infra/issues/11) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+3. 💪 Opened PR [#11](https://github.com/kubecoins/test-infra/pull/11) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+4. ❌ Closed PR [#10](https://github.com/kubecoins/test-infra/pull/10) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+5. 🗣 Commented on [#10](https://github.com/kubecoins/test-infra/issues/10) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
