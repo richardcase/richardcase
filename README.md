@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/kubernetes-sigs/boskos/issues/70) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-2. 🗣 Commented on [#2241](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2241) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2234](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2234) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❌ Closed PR [#14](https://github.com/kubecoins/test-infra/pull/14) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-5. 🗣 Commented on [#14](https://github.com/kubecoins/test-infra/issues/14) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+1. 🗣 Commented on [#1786](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/1786) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#70](https://github.com/kubernetes-sigs/boskos/issues/70) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
+3. 🗣 Commented on [#2241](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2241) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2234](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2234) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ❌ Closed PR [#14](https://github.com/kubecoins/test-infra/pull/14) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
