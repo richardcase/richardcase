@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/kubecoins/test-infra/pull/17) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-2. 🗣 Commented on [#2250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2250) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2250) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#17](https://github.com/kubecoins/test-infra/pull/17) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
 3. 🗣 Commented on [#2250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2250) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#16](https://github.com/kubecoins/test-infra/pull/16) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
-5. ❌ Closed PR [#15](https://github.com/kubecoins/test-infra/pull/15) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
+4. 🗣 Commented on [#2250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2250) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#16](https://github.com/kubecoins/test-infra/pull/16) in [kubecoins/test-infra](https://github.com/kubecoins/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
