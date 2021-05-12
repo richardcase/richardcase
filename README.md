@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3901](https://github.com/weaveworks/weave/issues/3901) in [weaveworks/weave](https://github.com/weaveworks/weave)
-2. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#69](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/69) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
-4. 🗣 Commented on [#2239](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2239) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2238](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2238) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Opened issue [#2399](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2399) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗️ Opened issue [#3901](https://github.com/weaveworks/weave/issues/3901) in [weaveworks/weave](https://github.com/weaveworks/weave)
+3. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#69](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/69) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
+5. 🗣 Commented on [#2239](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2239) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
