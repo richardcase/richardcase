@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2073](https://github.com/kubernetes/k8s.io/issues/2073) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🗣 Commented on [#2248](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2248) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2248](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2248) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2406](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2406) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#2408](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2408) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2427](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2427) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2425) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2073](https://github.com/kubernetes/k8s.io/issues/2073) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🗣 Commented on [#2248](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2248) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2248](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2248) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
