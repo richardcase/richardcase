@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/richardcase/release-notes-test/pull/5) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
-2. 💪 Opened PR [#5](https://github.com/richardcase/release-notes-test/pull/5) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
-3. 🎉 Merged PR [#4](https://github.com/richardcase/release-notes-test/pull/4) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
-4. 💪 Opened PR [#4](https://github.com/richardcase/release-notes-test/pull/4) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
-5. 🎉 Merged PR [#3](https://github.com/richardcase/release-notes-test/pull/3) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
+1. 💪 Opened PR [#6](https://github.com/richardcase/release-notes-test/pull/6) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
+2. 🎉 Merged PR [#1](https://github.com/richardcase/release-note-action/pull/1) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
+3. 💪 Opened PR [#1](https://github.com/richardcase/release-note-action/pull/1) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
+4. 🎉 Merged PR [#5](https://github.com/richardcase/release-notes-test/pull/5) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
+5. 💪 Opened PR [#5](https://github.com/richardcase/release-notes-test/pull/5) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
