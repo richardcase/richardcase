@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/richardcase/release-note-action/pull/3) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
-2. 💪 Opened PR [#3](https://github.com/richardcase/release-note-action/pull/3) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
-3. 🎉 Merged PR [#2](https://github.com/richardcase/release-note-action/pull/2) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
-4. 💪 Opened PR [#2](https://github.com/richardcase/release-note-action/pull/2) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
-5. 💪 Opened PR [#6](https://github.com/richardcase/release-notes-test/pull/6) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
+1. 🗣 Commented on [#2468](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2468) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2560](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2560) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2505](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2505) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#3](https://github.com/richardcase/release-note-action/pull/3) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
+5. 💪 Opened PR [#3](https://github.com/richardcase/release-note-action/pull/3) in [richardcase/release-note-action](https://github.com/richardcase/release-note-action)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
