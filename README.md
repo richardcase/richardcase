@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/weaveworks/metal-janitor-action/pull/1) in [weaveworks/metal-janitor-action](https://github.com/weaveworks/metal-janitor-action)
-2. 🗣 Commented on [#2570](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2570) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. ❗️ Opened issue [#2570](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2570) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#1](https://github.com/weaveworks/release-note-action/pull/1) in [weaveworks/release-note-action](https://github.com/weaveworks/release-note-action)
-5. 🗣 Commented on [#2422](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2422) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2572](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2572) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2549](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2549) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2573](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2573) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2572](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2572) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🎉 Merged PR [#1](https://github.com/weaveworks/metal-janitor-action/pull/1) in [weaveworks/metal-janitor-action](https://github.com/weaveworks/metal-janitor-action)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
