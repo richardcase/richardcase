@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2588](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#2588](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5152](https://github.com/kubernetes-sigs/cluster-api/issues/5152) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#2588](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5152](https://github.com/kubernetes-sigs/cluster-api/issues/5152) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 💪 Opened PR [#2714](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2714) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2713](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2713) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2713](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2713) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#2713](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/2713) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2712](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2712) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
