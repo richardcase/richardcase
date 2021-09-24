@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/weaveworks/reignite/issues/95) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-2. 🗣 Commented on [#1292](https://github.com/firecracker-microvm/firecracker/issues/1292) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-3. 🗣 Commented on [#1292](https://github.com/firecracker-microvm/firecracker/issues/1292) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-4. 🗣 Commented on [#2145](https://github.com/firecracker-microvm/firecracker/issues/2145) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-5. 🗣 Commented on [#2055](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2055) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2789](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2789) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗️ Opened issue [#96](https://github.com/weaveworks/reignite/issues/96) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+3. ❗️ Opened issue [#95](https://github.com/weaveworks/reignite/issues/95) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+4. 🗣 Commented on [#1292](https://github.com/firecracker-microvm/firecracker/issues/1292) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+5. 🗣 Commented on [#1292](https://github.com/firecracker-microvm/firecracker/issues/1292) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
