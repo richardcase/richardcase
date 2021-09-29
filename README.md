@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#78](https://github.com/weaveworks/reignite/pull/78) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-2. 🗣 Commented on [#78](https://github.com/weaveworks/reignite/issues/78) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-3. ❌ Closed PR [#88](https://github.com/weaveworks/reignite/pull/88) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-4. 🗣 Commented on [#88](https://github.com/weaveworks/reignite/issues/88) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-5. ❌ Closed PR [#89](https://github.com/weaveworks/reignite/pull/89) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+1. 🎉 Merged PR [#99](https://github.com/weaveworks/reignite/pull/99) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+2. 🗣 Commented on [#96](https://github.com/weaveworks/reignite/issues/96) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+3. 💪 Opened PR [#100](https://github.com/weaveworks/reignite/pull/100) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+4. ❌ Closed PR [#78](https://github.com/weaveworks/reignite/pull/78) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+5. 🗣 Commented on [#78](https://github.com/weaveworks/reignite/issues/78) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
