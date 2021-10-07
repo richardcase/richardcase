@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/weaveworks/reignite/pull/117) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-2. 🎉 Merged PR [#116](https://github.com/weaveworks/reignite/pull/116) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-3. 🗣 Commented on [#98380](https://github.com/kubernetes/kubernetes/issues/98380) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-4. 🗣 Commented on [#5152](https://github.com/kubernetes-sigs/cluster-api/issues/5152) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#5152](https://github.com/kubernetes-sigs/cluster-api/issues/5152) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. ❗️ Opened issue [#3](https://github.com/richardcase/templatetest/issues/3) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
+2. ❗️ Opened issue [#2](https://github.com/richardcase/templatetest/issues/2) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
+3. ❗️ Opened issue [#1](https://github.com/richardcase/templatetest/issues/1) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
+4. ❌ Closed PR [#114](https://github.com/weaveworks/reignite/pull/114) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+5. ❌ Closed PR [#109](https://github.com/weaveworks/reignite/pull/109) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
