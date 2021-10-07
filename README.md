@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/richardcase/templatetest/issues/3) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
-2. ❗️ Opened issue [#2](https://github.com/richardcase/templatetest/issues/2) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
-3. ❗️ Opened issue [#1](https://github.com/richardcase/templatetest/issues/1) in [richardcase/templatetest](https://github.com/richardcase/templatetest)
-4. ❌ Closed PR [#114](https://github.com/weaveworks/reignite/pull/114) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-5. ❌ Closed PR [#109](https://github.com/weaveworks/reignite/pull/109) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+1. 🎉 Merged PR [#120](https://github.com/weaveworks/reignite/pull/120) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+2. 🎉 Merged PR [#119](https://github.com/weaveworks/reignite/pull/119) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+3. ❌ Closed PR [#100](https://github.com/weaveworks/reignite/pull/100) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+4. 🎉 Merged PR [#3](https://github.com/richardcase/releasetest/pull/3) in [richardcase/releasetest](https://github.com/richardcase/releasetest)
+5. 💪 Opened PR [#3](https://github.com/richardcase/releasetest/pull/3) in [richardcase/releasetest](https://github.com/richardcase/releasetest)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
