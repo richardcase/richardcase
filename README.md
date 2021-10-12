@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/weaveworks/reignite/pull/131) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-2. ❗️ Opened issue [#130](https://github.com/weaveworks/reignite/issues/130) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-3. 💪 Opened PR [#129](https://github.com/weaveworks/reignite/pull/129) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-4. ❗️ Opened issue [#128](https://github.com/weaveworks/reignite/issues/128) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-5. 🗣 Commented on [#2836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2836) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Opened issue [#134](https://github.com/weaveworks/reignite/issues/134) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+2. 💪 Opened PR [#131](https://github.com/weaveworks/reignite/pull/131) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+3. ❗️ Opened issue [#130](https://github.com/weaveworks/reignite/issues/130) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+4. 💪 Opened PR [#129](https://github.com/weaveworks/reignite/pull/129) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+5. ❗️ Opened issue [#128](https://github.com/weaveworks/reignite/issues/128) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
