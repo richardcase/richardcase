@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/weaveworks/reignite/pull/150) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-2. 🗣 Commented on [#90](https://github.com/weaveworks/reignite/issues/90) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+1. 🗣 Commented on [#152](https://github.com/weaveworks/reignite/issues/152) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+2. 💪 Opened PR [#150](https://github.com/weaveworks/reignite/pull/150) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
 3. 🗣 Commented on [#90](https://github.com/weaveworks/reignite/issues/90) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-4. 🗣 Commented on [#144](https://github.com/weaveworks/reignite/issues/144) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
-5. 🗣 Commented on [#1292](https://github.com/firecracker-microvm/firecracker/issues/1292) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+4. 🗣 Commented on [#90](https://github.com/weaveworks/reignite/issues/90) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
+5. 🗣 Commented on [#144](https://github.com/weaveworks/reignite/issues/144) in [weaveworks/reignite](https://github.com/weaveworks/reignite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
