@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2758](https://github.com/firecracker-microvm/firecracker/pull/2758) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-2. 🗣 Commented on [#164](https://github.com/weaveworks/flintlock/issues/164) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-3. 🗣 Commented on [#164](https://github.com/weaveworks/flintlock/issues/164) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-4. 💪 Opened PR [#2](https://github.com/weaveworks/cluster-api-provider-microvm/pull/2) in [weaveworks/cluster-api-provider-microvm](https://github.com/weaveworks/cluster-api-provider-microvm)
-5. 🗣 Commented on [#162](https://github.com/weaveworks/flintlock/issues/162) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+1. 🗣 Commented on [#2758](https://github.com/firecracker-microvm/firecracker/issues/2758) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+2. 🗣 Commented on [#2758](https://github.com/firecracker-microvm/firecracker/issues/2758) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+3. ❗️ Closed issue [#43](https://github.com/weaveworks/flintlock/issues/43) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+4. 🗣 Commented on [#43](https://github.com/weaveworks/flintlock/issues/43) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+5. 🗣 Commented on [#91](https://github.com/weaveworks/flintlock/issues/91) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
