@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2764](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2764) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#2239](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2239) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2908](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2908) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2914](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2914) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#231](https://github.com/weaveworks/flintlock/pull/231) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+2. 🗣 Commented on [#2764](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2764) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2239](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2239) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2908](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2908) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
