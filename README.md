@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/weaveworks/image-builder/issues/2) in [weaveworks/image-builder](https://github.com/weaveworks/image-builder)
-2. 🗣 Commented on [#1](https://github.com/weaveworks/image-builder/issues/1) in [weaveworks/image-builder](https://github.com/weaveworks/image-builder)
-3. 🗣 Commented on [#1](https://github.com/weaveworks/image-builder/issues/1) in [weaveworks/image-builder](https://github.com/weaveworks/image-builder)
-4. ❗️ Opened issue [#243](https://github.com/weaveworks/flintlock/issues/243) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-5. ❗️ Opened issue [#242](https://github.com/weaveworks/flintlock/issues/242) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+1. 🗣 Commented on [#235](https://github.com/weaveworks/flintlock/issues/235) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+2. 🗣 Commented on [#225](https://github.com/weaveworks/flintlock/issues/225) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+3. 🗣 Commented on [#206](https://github.com/weaveworks/flintlock/issues/206) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+4. 🗣 Commented on [#205](https://github.com/weaveworks/flintlock/issues/205) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+5. 🗣 Commented on [#204](https://github.com/weaveworks/flintlock/issues/204) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
