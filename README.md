@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#316](https://github.com/weaveworks/flintlock/pull/316) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-2. 💪 Opened PR [#316](https://github.com/weaveworks/flintlock/pull/316) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-3. 🗣 Commented on [#2029](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2029) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❗️ Closed issue [#300](https://github.com/weaveworks/flintlock/issues/300) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-5. 🗣 Commented on [#300](https://github.com/weaveworks/flintlock/issues/300) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+1. ❗️ Closed issue [#310](https://github.com/weaveworks/flintlock/issues/310) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+2. 🎉 Merged PR [#322](https://github.com/weaveworks/flintlock/pull/322) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+3. 💪 Opened PR [#322](https://github.com/weaveworks/flintlock/pull/322) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+4. 🎉 Merged PR [#316](https://github.com/weaveworks/flintlock/pull/316) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+5. 💪 Opened PR [#316](https://github.com/weaveworks/flintlock/pull/316) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
