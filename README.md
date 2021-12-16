@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/weaveworks/microvm-scheduler-api/issues/2) in [weaveworks/microvm-scheduler-api](https://github.com/weaveworks/microvm-scheduler-api)
-2. ❗️ Opened issue [#325](https://github.com/weaveworks/flintlock/issues/325) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-3. ❗️ Opened issue [#1](https://github.com/weaveworks/microvm-scheduler-api/issues/1) in [weaveworks/microvm-scheduler-api](https://github.com/weaveworks/microvm-scheduler-api)
-4. 🗣 Commented on [#3033](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3033) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5073](https://github.com/kubernetes-sigs/cluster-api/issues/5073) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#3024](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3024) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗️ Opened issue [#2](https://github.com/weaveworks/microvm-scheduler-api/issues/2) in [weaveworks/microvm-scheduler-api](https://github.com/weaveworks/microvm-scheduler-api)
+3. ❗️ Opened issue [#325](https://github.com/weaveworks/flintlock/issues/325) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+4. ❗️ Opened issue [#1](https://github.com/weaveworks/microvm-scheduler-api/issues/1) in [weaveworks/microvm-scheduler-api](https://github.com/weaveworks/microvm-scheduler-api)
+5. 🗣 Commented on [#3033](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3033) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
