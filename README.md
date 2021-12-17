@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#326](https://github.com/weaveworks/flintlock/issues/326) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+1. 🗣 Commented on [#187](https://github.com/kgshank/gse-sound-output-device-chooser/issues/187) in [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser)
 2. 🗣 Commented on [#326](https://github.com/weaveworks/flintlock/issues/326) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 3. 🗣 Commented on [#326](https://github.com/weaveworks/flintlock/issues/326) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 4. 🗣 Commented on [#326](https://github.com/weaveworks/flintlock/issues/326) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-5. 🗣 Commented on [#3024](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3024) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#326](https://github.com/weaveworks/flintlock/issues/326) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
