@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2864](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2864) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#128](https://github.com/weaveworks/flintlock/issues/128) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-3. 💪 Opened PR [#3069](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3069) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2884](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2884) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2251](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2251) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#2610](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2610) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2271](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2271) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2864](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2864) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#128](https://github.com/weaveworks/flintlock/issues/128) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+5. 💪 Opened PR [#3069](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3069) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
