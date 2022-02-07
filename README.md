@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3153](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3153) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3357](https://github.com/kubernetes/k8s.io/issues/3357) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#3059](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3059) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#384](https://github.com/weaveworks/flintlock/issues/384) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
-5. 🗣 Commented on [#3233](https://github.com/kubernetes/org/issues/3233) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#2704](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2704) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3152](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3152) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3153](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3153) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2224](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2224) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#2224](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2224) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
