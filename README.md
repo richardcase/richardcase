@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25266](https://github.com/kubernetes/test-infra/issues/25266) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 💪 Opened PR [#25266](https://github.com/kubernetes/test-infra/pull/25266) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#394](https://github.com/weaveworks/flintlock/pull/394) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 3. 🗣 Commented on [#3194](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3194) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#25264](https://github.com/kubernetes/test-infra/issues/25264) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 💪 Opened PR [#25264](https://github.com/kubernetes/test-infra/pull/25264) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+4. 🗣 Commented on [#390](https://github.com/weaveworks/flintlock/issues/390) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
+5. 💪 Opened PR [#393](https://github.com/weaveworks/flintlock/pull/393) in [weaveworks/flintlock](https://github.com/weaveworks/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
