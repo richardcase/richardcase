@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1499](https://github.com/weaveworks/weave-gitops/issues/1499) in [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops)
-2. ❗️ Opened issue [#1499](https://github.com/weaveworks/weave-gitops/issues/1499) in [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops)
-3. 🗣 Commented on [#3244](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3244) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2588](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3244](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3244) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3259](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3259) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3229](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3229) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3157](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3157) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3099](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3099) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3099](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3099) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
