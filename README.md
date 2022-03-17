@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3319](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3319) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. ❗️ Opened issue [#3319](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3319) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#512](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/512) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#3316](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3316) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3152](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3152) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3318](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3318) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3257](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3257) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3290](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3290) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3661](https://github.com/kubernetes-sigs/cluster-api/issues/3661) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#3328](https://github.com/kubernetes/org/issues/3328) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
