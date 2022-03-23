@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/vburenin/ifacemaker/issues/47) in [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker)
-2. 🗣 Commented on [#47](https://github.com/vburenin/ifacemaker/issues/47) in [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker)
-3. 💪 Opened PR [#3337](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3337) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❗️ Opened issue [#3336](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3336) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3257](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3257) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3327](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3327) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3330](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3330) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3340](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3340) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3336](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3336) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3340](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3340) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
