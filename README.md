@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25762](https://github.com/kubernetes/test-infra/issues/25762) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🎉 Merged PR [#15](https://github.com/weaveworks/image-builder/pull/15) in [weaveworks/image-builder](https://github.com/weaveworks/image-builder)
-3. 💪 Opened PR [#15](https://github.com/weaveworks/image-builder/pull/15) in [weaveworks/image-builder](https://github.com/weaveworks/image-builder)
-4. 🗣 Commented on [#25762](https://github.com/kubernetes/test-infra/issues/25762) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#3355](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3345](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3345) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3343](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3343) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5073](https://github.com/kubernetes-sigs/cluster-api/issues/5073) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#2271](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2271) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3257](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3257) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
