@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3592](https://github.com/kubernetes/k8s.io/issues/3592) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. ❌ Closed PR [#1](https://github.com/richardcase/gha_pr_test/pull/1) in [richardcase/gha_pr_test](https://github.com/richardcase/gha_pr_test)
-3. 🗣 Commented on [#2898](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2898) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3376](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3376) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3388](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3388) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3592](https://github.com/kubernetes/k8s.io/issues/3592) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. ❌ Closed PR [#1](https://github.com/richardcase/gha_pr_test/pull/1) in [richardcase/gha_pr_test](https://github.com/richardcase/gha_pr_test)
+4. 🗣 Commented on [#2898](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2898) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#3376](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3376) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
