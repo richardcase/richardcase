@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#667](https://github.com/alexellis/arkade/pull/667) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#3388](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3388) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3592](https://github.com/kubernetes/k8s.io/issues/3592) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. ❌ Closed PR [#1](https://github.com/richardcase/gha_pr_test/pull/1) in [richardcase/gha_pr_test](https://github.com/richardcase/gha_pr_test)
+2. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#667](https://github.com/alexellis/arkade/pull/667) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#3388](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3388) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
