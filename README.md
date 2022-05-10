@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/weaveworks-liquidmetal/image-builder/pull/20) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-2. 🎉 Merged PR [#431](https://github.com/weaveworks-liquidmetal/flintlock/pull/431) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🗣 Commented on [#436](https://github.com/weaveworks-liquidmetal/flintlock/issues/436) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-4. 🎉 Merged PR [#433](https://github.com/weaveworks-liquidmetal/flintlock/pull/433) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-5. 🎉 Merged PR [#435](https://github.com/weaveworks-liquidmetal/flintlock/pull/435) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. 🎉 Merged PR [#25](https://github.com/weaveworks-liquidmetal/image-builder/pull/25) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+2. 💪 Opened PR [#25](https://github.com/weaveworks-liquidmetal/image-builder/pull/25) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. 🎉 Merged PR [#24](https://github.com/weaveworks-liquidmetal/image-builder/pull/24) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+4. 💪 Opened PR [#24](https://github.com/weaveworks-liquidmetal/image-builder/pull/24) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+5. 🎉 Merged PR [#23](https://github.com/weaveworks-liquidmetal/image-builder/pull/23) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
