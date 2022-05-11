@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/weaveworks-liquidmetal/.github/pull/2) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-2. 💪 Opened PR [#2](https://github.com/weaveworks-liquidmetal/.github/pull/2) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-3. 🎉 Merged PR [#1](https://github.com/weaveworks-liquidmetal/.github/pull/1) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-4. 💪 Opened PR [#1](https://github.com/weaveworks-liquidmetal/.github/pull/1) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-5. 🎉 Merged PR [#171](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/171) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
+1. 🎉 Merged PR [#3](https://github.com/weaveworks-liquidmetal/.github/pull/3) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
+2. 💪 Opened PR [#3](https://github.com/weaveworks-liquidmetal/.github/pull/3) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
+3. ❗️ Opened issue [#2](https://github.com/weaveworks-liquidmetal/getting-started/issues/2) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+4. ❗️ Opened issue [#1](https://github.com/weaveworks-liquidmetal/getting-started/issues/1) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+5. 🎉 Merged PR [#2](https://github.com/weaveworks-liquidmetal/.github/pull/2) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
