@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-2. 💪 Opened PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-3. 🗣 Commented on [#656](https://github.com/cncf/mentoring/issues/656) in [cncf/mentoring](https://github.com/cncf/mentoring)
-4. 🗣 Commented on [#3490](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3490) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#659](https://github.com/cncf/mentoring/pull/659) in [cncf/mentoring](https://github.com/cncf/mentoring)
+2. 🎉 Merged PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. 💪 Opened PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+4. 🗣 Commented on [#656](https://github.com/cncf/mentoring/issues/656) in [cncf/mentoring](https://github.com/cncf/mentoring)
 5. 🗣 Commented on [#3490](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3490) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
