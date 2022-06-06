@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/weaveworks-liquidmetal/flintlock/issues/198) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 💪 Opened PR [#659](https://github.com/cncf/mentoring/pull/659) in [cncf/mentoring](https://github.com/cncf/mentoring)
-3. 🎉 Merged PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-4. 💪 Opened PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-5. 🗣 Commented on [#656](https://github.com/cncf/mentoring/issues/656) in [cncf/mentoring](https://github.com/cncf/mentoring)
+1. 🎉 Merged PR [#27](https://github.com/weaveworks-liquidmetal/image-builder/pull/27) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+2. 💪 Opened PR [#27](https://github.com/weaveworks-liquidmetal/image-builder/pull/27) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. 🗣 Commented on [#198](https://github.com/weaveworks-liquidmetal/flintlock/issues/198) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. 💪 Opened PR [#659](https://github.com/cncf/mentoring/pull/659) in [cncf/mentoring](https://github.com/cncf/mentoring)
+5. 🎉 Merged PR [#26](https://github.com/weaveworks-liquidmetal/image-builder/pull/26) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
