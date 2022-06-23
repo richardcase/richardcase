@@ -11,10 +11,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#3549](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3549) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3548](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3548) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#3548](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3548) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#22](https://github.com/weaveworks-experiments/fleeet/pull/22) in [weaveworks-experiments/fleeet](https://github.com/weaveworks-experiments/fleeet)
+2. 🗣 Commented on [#3550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#3549](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3549) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3548](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3548) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#3548](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3548) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
