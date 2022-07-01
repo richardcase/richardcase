@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26491](https://github.com/kubernetes/test-infra/issues/26491) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3568](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3568) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Opened issue [#478](https://github.com/weaveworks-liquidmetal/flintlock/issues/478) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+2. ❗️ Closed issue [#468](https://github.com/weaveworks-liquidmetal/flintlock/issues/468) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+3. 🗣 Commented on [#468](https://github.com/weaveworks-liquidmetal/flintlock/issues/468) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. 🗣 Commented on [#26491](https://github.com/kubernetes/test-infra/issues/26491) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 5. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
