@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#480](https://github.com/weaveworks-liquidmetal/flintlock/issues/480) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 🗣 Commented on [#3591](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3591) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2169](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2169) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3568](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3568) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3564](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3564) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#482](https://github.com/weaveworks-liquidmetal/flintlock/issues/482) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. ❗️ Opened issue [#482](https://github.com/weaveworks-liquidmetal/flintlock/issues/482) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🗣 Commented on [#480](https://github.com/weaveworks-liquidmetal/flintlock/issues/480) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
