@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2355](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. ❗️ Reopened issue [#371](https://github.com/weaveworks-liquidmetal/flintlock/issues/371) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3594](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3594) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3594](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3594) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#3610](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3610) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#3609](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3609) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🎉 Merged PR [#2](https://github.com/kubecoins/stacked-test/pull/2) in [kubecoins/stacked-test](https://github.com/kubecoins/stacked-test)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
