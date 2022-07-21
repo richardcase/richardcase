@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#3610](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3610) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#3609](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/3609) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3518](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#2](https://github.com/kubecoins/stacked-test/pull/2) in [kubecoins/stacked-test](https://github.com/kubecoins/stacked-test)
+1. 🗣 Commented on [#3604](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3604) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3607](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3607) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3611](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3611) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3610](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3610) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3610](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3610) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
