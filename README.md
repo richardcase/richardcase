@@ -10,9 +10,9 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3063](https://github.com/firecracker-microvm/firecracker/issues/3063) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-2. 🗣 Commented on [#3612](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3612) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3612](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3612) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3618](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3618) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3611](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3611) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❗️ Opened issue [#3063](https://github.com/firecracker-microvm/firecracker/issues/3063) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
 4. 🗣 Commented on [#3612](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3612) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#3612](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3612) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
