@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3632](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3632) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3632](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3632) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3644](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3644) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3645](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3645) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#26973](https://github.com/kubernetes/test-infra/issues/26973) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 💪 Opened PR [#494](https://github.com/weaveworks-liquidmetal/flintlock/pull/494) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+2. ❗️ Reopened issue [#390](https://github.com/weaveworks-liquidmetal/flintlock/issues/390) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+3. 🗣 Commented on [#3632](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3632) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3632](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3632) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3632](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3632) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
