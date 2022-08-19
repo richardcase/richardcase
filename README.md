@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3063](https://github.com/firecracker-microvm/firecracker/issues/3063) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-2. 🎉 Merged PR [#211](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/211) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-3. 💪 Opened PR [#211](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/211) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-4. 🎉 Merged PR [#504](https://github.com/weaveworks-liquidmetal/flintlock/pull/504) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-5. 🎉 Merged PR [#209](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/209) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
+1. 💪 Opened PR [#511](https://github.com/weaveworks-liquidmetal/flintlock/pull/511) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+2. ❌ Closed PR [#510](https://github.com/weaveworks-liquidmetal/flintlock/pull/510) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+3. 💪 Opened PR [#510](https://github.com/weaveworks-liquidmetal/flintlock/pull/510) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. ❗️ Closed issue [#390](https://github.com/weaveworks-liquidmetal/flintlock/issues/390) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🎉 Merged PR [#507](https://github.com/weaveworks-liquidmetal/flintlock/pull/507) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
