@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#518](https://github.com/weaveworks-liquidmetal/flintlock/issues/518) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 🎉 Merged PR [#519](https://github.com/weaveworks-liquidmetal/flintlock/pull/519) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/issues/934) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 💪 Opened PR [#522](https://github.com/weaveworks-liquidmetal/flintlock/pull/522) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-5. ❗️ Closed issue [#520](https://github.com/weaveworks-liquidmetal/flintlock/issues/520) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. ❌ Closed PR [#418](https://github.com/weaveworks-liquidmetal/flintlock/pull/418) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+2. 🗣 Commented on [#418](https://github.com/weaveworks-liquidmetal/flintlock/issues/418) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+3. 💪 Opened PR [#523](https://github.com/weaveworks-liquidmetal/flintlock/pull/523) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. ❗️ Closed issue [#518](https://github.com/weaveworks-liquidmetal/flintlock/issues/518) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🎉 Merged PR [#519](https://github.com/weaveworks-liquidmetal/flintlock/pull/519) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
