@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3094](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3094) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3694](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3694) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#701](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/701) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🎉 Merged PR [#6](https://github.com/weaveworks-liquidmetal/.github/pull/6) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-5. 💪 Opened PR [#6](https://github.com/weaveworks-liquidmetal/.github/pull/6) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
+1. 🗣 Commented on [#3700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3700) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3700) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3094](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3094) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3694](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3694) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#701](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/701) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
