@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
-2. 🗣 Commented on [#3720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3737](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3737) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+2. 💪 Opened PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+3. 🗣 Commented on [#3720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 4. 🗣 Commented on [#3737](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3737) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#1](https://github.com/capi-samples/cluster-api-provider-podman/pull/1) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
+5. 🗣 Commented on [#3737](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3737) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
