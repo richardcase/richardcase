@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
-2. 💪 Opened PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
-3. 🗣 Commented on [#3720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3737](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3737) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3722](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3722) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+3. 💪 Opened PR [#6](https://github.com/weaveworks-liquidmetal/getting-started/pull/6) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+4. 🗣 Commented on [#3720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#3737](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3737) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
