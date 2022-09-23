@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/77) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
-2. 🎉 Merged PR [#1](https://github.com/capi-samples/cluster-api-provider-podman/pull/1) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
-3. 🎉 Merged PR [#2](https://github.com/capi-samples/cluster-api-provider-podman/pull/2) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
-4. 🗣 Commented on [#3740](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3740) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3740](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3740) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3746](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3746) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#77](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/77) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
+3. 🗣 Commented on [#19](https://github.com/weaveworks-liquidmetal/image-builder/issues/19) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+4. 💪 Opened PR [#77](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/77) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
+5. 🎉 Merged PR [#1](https://github.com/capi-samples/cluster-api-provider-podman/pull/1) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
