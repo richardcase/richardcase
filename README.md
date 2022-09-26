@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/weaveworks-liquidmetal/image-builder/pull/37) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-2. 🎉 Merged PR [#36](https://github.com/weaveworks-liquidmetal/image-builder/pull/36) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-3. 💪 Opened PR [#36](https://github.com/weaveworks-liquidmetal/image-builder/pull/36) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-4. ❗️ Closed issue [#17](https://github.com/weaveworks-liquidmetal/image-builder/issues/17) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-5. 🎉 Merged PR [#33](https://github.com/weaveworks-liquidmetal/image-builder/pull/33) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+1. 🎉 Merged PR [#37](https://github.com/weaveworks-liquidmetal/image-builder/pull/37) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+2. 🎉 Merged PR [#38](https://github.com/weaveworks-liquidmetal/image-builder/pull/38) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. 💪 Opened PR [#38](https://github.com/weaveworks-liquidmetal/image-builder/pull/38) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+4. 💪 Opened PR [#37](https://github.com/weaveworks-liquidmetal/image-builder/pull/37) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+5. 🎉 Merged PR [#36](https://github.com/weaveworks-liquidmetal/image-builder/pull/36) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
