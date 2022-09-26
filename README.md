@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3751](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3751) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3722](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3722) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3363](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3363) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3746](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3746) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#77](https://github.com/weaveworks/cluster-api-provider-existinginfra/pull/77) in [weaveworks/cluster-api-provider-existinginfra](https://github.com/weaveworks/cluster-api-provider-existinginfra)
+1. 💪 Opened PR [#37](https://github.com/weaveworks-liquidmetal/image-builder/pull/37) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+2. 🎉 Merged PR [#36](https://github.com/weaveworks-liquidmetal/image-builder/pull/36) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. 💪 Opened PR [#36](https://github.com/weaveworks-liquidmetal/image-builder/pull/36) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+4. ❗️ Closed issue [#17](https://github.com/weaveworks-liquidmetal/image-builder/issues/17) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+5. 🎉 Merged PR [#33](https://github.com/weaveworks-liquidmetal/image-builder/pull/33) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
