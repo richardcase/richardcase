@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4286](https://github.com/kubernetes/k8s.io/issues/4286) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🗣 Commented on [#3751](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3751) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3325](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3325) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#6](https://github.com/capi-samples/cluster-api-provider-podman/pull/6) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
-5. 🗣 Commented on [#512](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/512) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🎉 Merged PR [#15](https://github.com/richardcase/mixed-mode-demo/pull/15) in [richardcase/mixed-mode-demo](https://github.com/richardcase/mixed-mode-demo)
+2. 💪 Opened PR [#15](https://github.com/richardcase/mixed-mode-demo/pull/15) in [richardcase/mixed-mode-demo](https://github.com/richardcase/mixed-mode-demo)
+3. 🗣 Commented on [#4286](https://github.com/kubernetes/k8s.io/issues/4286) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🗣 Commented on [#3751](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3751) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3325](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3325) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
