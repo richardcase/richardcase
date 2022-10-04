@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/capi-samples/cluster-api-provider-docker/pull/1) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
-2. 💪 Opened PR [#1](https://github.com/capi-samples/cluster-api-provider-docker/pull/1) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
-3. 🗣 Commented on [#27671](https://github.com/kubernetes/test-infra/issues/27671) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#27642](https://github.com/kubernetes/test-infra/issues/27642) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🎉 Merged PR [#7](https://github.com/capi-samples/cluster-api-provider-podman/pull/7) in [capi-samples/cluster-api-provider-podman](https://github.com/capi-samples/cluster-api-provider-podman)
+1. ❗️ Opened issue [#7](https://github.com/capi-samples/cluster-api-provider-docker/issues/7) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+2. ❗️ Opened issue [#6](https://github.com/capi-samples/cluster-api-provider-docker/issues/6) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+3. ❗️ Opened issue [#5](https://github.com/capi-samples/cluster-api-provider-docker/issues/5) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+4. ❗️ Opened issue [#4](https://github.com/capi-samples/cluster-api-provider-docker/issues/4) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+5. ❗️ Opened issue [#3](https://github.com/capi-samples/cluster-api-provider-docker/issues/3) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
