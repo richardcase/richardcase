@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1217](https://github.com/cncf/gitdm/issues/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
-2. 🗣 Commented on [#1217](https://github.com/cncf/gitdm/issues/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
-3. 💪 Opened PR [#1217](https://github.com/cncf/gitdm/pull/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
-4. ❗️ Opened issue [#7](https://github.com/capi-samples/cluster-api-provider-docker/issues/7) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
-5. ❗️ Opened issue [#6](https://github.com/capi-samples/cluster-api-provider-docker/issues/6) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+1. 🎉 Merged PR [#12](https://github.com/capi-samples/cluster-api-provider-docker/pull/12) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+2. 💪 Opened PR [#12](https://github.com/capi-samples/cluster-api-provider-docker/pull/12) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+3. 🗣 Commented on [#1217](https://github.com/cncf/gitdm/issues/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
+4. 🗣 Commented on [#1217](https://github.com/cncf/gitdm/issues/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
+5. 💪 Opened PR [#1217](https://github.com/cncf/gitdm/pull/1217) in [cncf/gitdm](https://github.com/cncf/gitdm)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
