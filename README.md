@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4353](https://github.com/kubernetes/k8s.io/pull/4353) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 💪 Opened PR [#27740](https://github.com/kubernetes/test-infra/pull/27740) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 💪 Opened PR [#3766](https://github.com/kubernetes/org/pull/3766) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#3765](https://github.com/kubernetes/org/issues/3765) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#3735](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3735) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#4354](https://github.com/kubernetes/k8s.io/pull/4354) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 💪 Opened PR [#4353](https://github.com/kubernetes/k8s.io/pull/4353) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 💪 Opened PR [#27740](https://github.com/kubernetes/test-infra/pull/27740) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+4. 💪 Opened PR [#3766](https://github.com/kubernetes/org/pull/3766) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 🗣 Commented on [#3765](https://github.com/kubernetes/org/issues/3765) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
