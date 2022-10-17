@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/capi-samples/cluster-api-provider-docker/pull/15) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
-2. 🎉 Merged PR [#4](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/4) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-3. 🗣 Commented on [#558](https://github.com/weaveworks-liquidmetal/flintlock/issues/558) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-4. 🗣 Commented on [#3730](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3730) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3447](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3447) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#6](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/6) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+2. 🎉 Merged PR [#16](https://github.com/capi-samples/cluster-api-provider-docker/pull/16) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+3. 💪 Opened PR [#6](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/6) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+4. 💪 Opened PR [#16](https://github.com/capi-samples/cluster-api-provider-docker/pull/16) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+5. 🎉 Merged PR [#15](https://github.com/capi-samples/cluster-api-provider-docker/pull/15) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
