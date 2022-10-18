@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/8) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-2. 🎉 Merged PR [#7](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/7) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-3. 💪 Opened PR [#7](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/7) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-4. 🎉 Merged PR [#21](https://github.com/capi-samples/cluster-api-provider-docker/pull/21) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
-5. 💪 Opened PR [#21](https://github.com/capi-samples/cluster-api-provider-docker/pull/21) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+1. 🎉 Merged PR [#10](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/10) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+2. 🎉 Merged PR [#9](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/9) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+3. 💪 Opened PR [#9](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/9) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+4. 🎉 Merged PR [#22](https://github.com/capi-samples/cluster-api-provider-docker/pull/22) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
+5. 💪 Opened PR [#22](https://github.com/capi-samples/cluster-api-provider-docker/pull/22) in [capi-samples/cluster-api-provider-docker](https://github.com/capi-samples/cluster-api-provider-docker)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
