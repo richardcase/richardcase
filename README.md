@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/12) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-2. 💪 Opened PR [#12](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/12) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-3. 🎉 Merged PR [#11](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/11) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-4. 💪 Opened PR [#11](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/11) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
-5. 🎉 Merged PR [#10](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/10) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+1. 🗣 Commented on [#3777](https://github.com/kubernetes/org/issues/3777) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🗣 Commented on [#3775](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3775) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#12](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/12) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+4. 💪 Opened PR [#12](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/12) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+5. 🎉 Merged PR [#11](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/11) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
