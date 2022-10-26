@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3749](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3749) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3681](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3681) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3526) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3507](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3507) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3797](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3797) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#28](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/28) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+2. 💪 Opened PR [#28](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/28) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+3. 🎉 Merged PR [#27](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/27) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+4. 💪 Opened PR [#27](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/27) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
+5. 🎉 Merged PR [#26](https://github.com/capi-samples/kubecon-na-2022-tutorial/pull/26) in [capi-samples/kubecon-na-2022-tutorial](https://github.com/capi-samples/kubecon-na-2022-tutorial)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
