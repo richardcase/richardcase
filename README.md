@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2771](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2771) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3798](https://github.com/kubernetes/org/issues/3798) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#3766](https://github.com/kubernetes/org/issues/3766) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/1) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🗣 Commented on [#2771](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2771) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3798](https://github.com/kubernetes/org/issues/3798) in [kubernetes/org](https://github.com/kubernetes/org)
 4. 🗣 Commented on [#3766](https://github.com/kubernetes/org/issues/3766) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#4354](https://github.com/kubernetes/k8s.io/issues/4354) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+5. 🗣 Commented on [#3766](https://github.com/kubernetes/org/issues/3766) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
