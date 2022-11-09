@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3596](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3596) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3830](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3830) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#2355](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#2355](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3825](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3825) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Closed issue [#2017](https://github.com/withfig/fig/issues/2017) in [withfig/fig](https://github.com/withfig/fig)
+2. 🗣 Commented on [#2017](https://github.com/withfig/fig/issues/2017) in [withfig/fig](https://github.com/withfig/fig)
+3. 🗣 Commented on [#2017](https://github.com/withfig/fig/issues/2017) in [withfig/fig](https://github.com/withfig/fig)
+4. 🗣 Commented on [#2017](https://github.com/withfig/fig/issues/2017) in [withfig/fig](https://github.com/withfig/fig)
+5. ❗️ Opened issue [#2017](https://github.com/withfig/fig/issues/2017) in [withfig/fig](https://github.com/withfig/fig)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
