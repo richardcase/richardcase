@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#331](https://github.com/weaveworks-liquidmetal/flintlock/pull/331) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. ❌ Closed PR [#523](https://github.com/weaveworks-liquidmetal/flintlock/pull/523) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🗣 Commented on [#3864](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3864) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3864](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3864) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3867](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3867) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3867](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3867) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❌ Closed PR [#331](https://github.com/weaveworks-liquidmetal/flintlock/pull/331) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. ❌ Closed PR [#523](https://github.com/weaveworks-liquidmetal/flintlock/pull/523) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 5. 🗣 Commented on [#3864](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3864) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
