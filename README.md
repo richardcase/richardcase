@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/36) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#4503](https://github.com/kubernetes/k8s.io/issues/4503) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 2. 🗣 Commented on [#36](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/36) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. 🗣 Commented on [#34](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/34) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🗣 Commented on [#765](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/765) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#3868](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3868) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#36](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/36) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🗣 Commented on [#34](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/34) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#765](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/765) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
