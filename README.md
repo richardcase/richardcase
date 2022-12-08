@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7546](https://github.com/kubernetes-sigs/cluster-api/issues/7546) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#775](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/775) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 💪 Opened PR [#775](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/775) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#3911](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3911) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#773](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/773) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#3914](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3914) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3907](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3907) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#52](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/52) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🗣 Commented on [#7546](https://github.com/kubernetes-sigs/cluster-api/issues/7546) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#775](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/775) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
