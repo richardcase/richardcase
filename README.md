@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#777](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/777) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#3668](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3668) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3920) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#777](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/777) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. ❗️ Opened issue [#39862](https://github.com/rancher/rancher/issues/39862) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#788](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/788) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#682](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/682) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#684](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/684) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#772](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/772) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#770](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/770) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
