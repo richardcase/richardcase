@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4673](https://github.com/kubernetes/k8s.io/issues/4673) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🗣 Commented on [#3999](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3999) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4003](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4003) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4004](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4004) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#809](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/809) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#770](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/770) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#770](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/770) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#4673](https://github.com/kubernetes/k8s.io/issues/4673) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🗣 Commented on [#3999](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3999) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4003](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4003) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
