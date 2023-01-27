@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/tilt-extensions/pull/1) in [rancher-sandbox/tilt-extensions](https://github.com/rancher-sandbox/tilt-extensions)
-2. 💪 Opened PR [#1](https://github.com/rancher-sandbox/tilt-extensions/pull/1) in [rancher-sandbox/tilt-extensions](https://github.com/rancher-sandbox/tilt-extensions)
-3. 🗣 Commented on [#809](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/809) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#809](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/809) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#7902](https://github.com/kubernetes-sigs/cluster-api/issues/7902) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#815](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/815) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#3715](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3715) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#784](https://github.com/cncf/mentoring/pull/784) in [cncf/mentoring](https://github.com/cncf/mentoring)
+4. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/tilt-extensions/pull/1) in [rancher-sandbox/tilt-extensions](https://github.com/rancher-sandbox/tilt-extensions)
+5. 💪 Opened PR [#1](https://github.com/rancher-sandbox/tilt-extensions/pull/1) in [rancher-sandbox/tilt-extensions](https://github.com/rancher-sandbox/tilt-extensions)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
