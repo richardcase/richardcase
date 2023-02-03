@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4026](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4026) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#809](https://github.com/cncf/mentoring/pull/809) in [cncf/mentoring](https://github.com/cncf/mentoring)
-3. 🗣 Commented on [#7996](https://github.com/kubernetes-sigs/cluster-api/issues/7996) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#4018](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4018) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+2. 🗣 Commented on [#4026](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4026) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#809](https://github.com/cncf/mentoring/pull/809) in [cncf/mentoring](https://github.com/cncf/mentoring)
+4. 🗣 Commented on [#7996](https://github.com/kubernetes-sigs/cluster-api/issues/7996) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 5. 🗣 Commented on [#4018](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4018) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
