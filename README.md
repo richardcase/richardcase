@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#622](https://github.com/weaveworks-liquidmetal/flintlock/issues/622) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 🎉 Merged PR [#626](https://github.com/weaveworks-liquidmetal/flintlock/pull/626) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 💪 Opened PR [#627](https://github.com/weaveworks-liquidmetal/flintlock/pull/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-4. 🗣 Commented on [#4011](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4011) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#810](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/810) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#103](https://github.com/rancher/eks-operator/issues/103) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 🗣 Commented on [#103](https://github.com/rancher/eks-operator/issues/103) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. 🗣 Commented on [#103](https://github.com/rancher/eks-operator/issues/103) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 🗣 Commented on [#622](https://github.com/weaveworks-liquidmetal/flintlock/issues/622) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🎉 Merged PR [#626](https://github.com/weaveworks-liquidmetal/flintlock/pull/626) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
