@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. ❗️ Opened issue [#75](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/75) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. ❗️ Opened issue [#105](https://github.com/rancher/eks-operator/issues/105) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 🗣 Commented on [#789](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/789) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 💪 Opened PR [#216](https://github.com/rancherlabs/support-tools/pull/216) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
+1. 🗣 Commented on [#789](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/789) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#789](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/789) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. ❗️ Opened issue [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. ❗️ Opened issue [#75](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/75) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. ❗️ Opened issue [#105](https://github.com/rancher/eks-operator/issues/105) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
