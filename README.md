@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8088](https://github.com/kubernetes-sigs/cluster-api/issues/8088) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 🗣 Commented on [#8088](https://github.com/kubernetes-sigs/cluster-api/issues/8088) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 3. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#802](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/802) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562) in [kubernetes/org](https://github.com/kubernetes/org)
 5. 🗣 Commented on [#802](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/802) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
