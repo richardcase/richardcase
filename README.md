@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/issues/934) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. 💪 Opened PR [#217](https://github.com/rancherlabs/support-tools/pull/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-3. 🗣 Commented on [#627](https://github.com/weaveworks-liquidmetal/flintlock/issues/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-4. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. 💪 Opened PR [#844](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/844) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/issues/934) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+3. 💪 Opened PR [#217](https://github.com/rancherlabs/support-tools/pull/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
+4. 🗣 Commented on [#627](https://github.com/weaveworks-liquidmetal/flintlock/issues/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 5. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
