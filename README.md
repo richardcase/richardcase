@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8094](https://github.com/kubernetes-sigs/cluster-api/issues/8094) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#40667](https://github.com/rancher/rancher/issues/40667) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 🗣 Commented on [#833](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/833) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/rancher-turtles/pull/1) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#8094](https://github.com/kubernetes-sigs/cluster-api/issues/8094) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#40667](https://github.com/rancher/rancher/issues/40667) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 5. 🗣 Commented on [#833](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/833) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
