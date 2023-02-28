@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/rancherlabs/support-tools/issues/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-2. 🗣 Commented on [#4094](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4094) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#217](https://github.com/rancherlabs/support-tools/issues/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-4. 🗣 Commented on [#217](https://github.com/rancherlabs/support-tools/issues/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-5. 🗣 Commented on [#216](https://github.com/rancherlabs/support-tools/issues/216) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
+1. 🗣 Commented on [#989](https://github.com/rancher/terraform-provider-rancher2/issues/989) in [rancher/terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2)
+2. 🗣 Commented on [#512](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/512) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 💪 Opened PR [#40714](https://github.com/rancher/rancher/pull/40714) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❗️ Opened issue [#218](https://github.com/rancherlabs/support-tools/issues/218) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
