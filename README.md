@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8155](https://github.com/kubernetes-sigs/cluster-api/issues/8155) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#4107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4107) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#4107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4107) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#217](https://github.com/rancherlabs/support-tools/issues/217) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-5. 💪 Opened PR [#93](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/93) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#1081](https://github.com/rancher/terraform-provider-rancher2/issues/1081) in [rancher/terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2)
+2. 🗣 Commented on [#772](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/772) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#772](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/772) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#772](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/772) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#8155](https://github.com/kubernetes-sigs/cluster-api/issues/8155) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
