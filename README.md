@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28941](https://github.com/kubernetes/test-infra/pull/28941) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🗣 Commented on [#627](https://github.com/weaveworks-liquidmetal/flintlock/issues/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-4. 🗣 Commented on [#4096](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4096) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#40764](https://github.com/rancher/rancher/issues/40764) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#844](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/844) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 💪 Opened PR [#28941](https://github.com/kubernetes/test-infra/pull/28941) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+4. 🗣 Commented on [#627](https://github.com/weaveworks-liquidmetal/flintlock/issues/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🗣 Commented on [#4096](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4096) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
