@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8244](https://github.com/kubernetes-sigs/cluster-api/issues/8244) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#844](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/844) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 💪 Opened PR [#28941](https://github.com/kubernetes/test-infra/pull/28941) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#609](https://github.com/weaveworks-liquidmetal/flintlock/issues/609) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-5. 🗣 Commented on [#627](https://github.com/weaveworks-liquidmetal/flintlock/issues/627) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. 🗣 Commented on [#101](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/101) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🗣 Commented on [#101](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/101) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🗣 Commented on [#8244](https://github.com/kubernetes-sigs/cluster-api/issues/8244) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#844](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/844) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 💪 Opened PR [#28941](https://github.com/kubernetes/test-infra/pull/28941) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
