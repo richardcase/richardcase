@@ -10,10 +10,10 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#216](https://github.com/rancherlabs/support-tools/issues/216) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-2. 🗣 Commented on [#7786](https://github.com/kubernetes-sigs/cluster-api/issues/7786) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#4130](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4130) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#8257](https://github.com/kubernetes-sigs/cluster-api/issues/8257) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#8257](https://github.com/kubernetes-sigs/cluster-api/issues/8257) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#216](https://github.com/rancherlabs/support-tools/issues/216) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
 5. 🗣 Commented on [#7786](https://github.com/kubernetes-sigs/cluster-api/issues/7786) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
