@@ -10,9 +10,9 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 💪 Opened PR [#221](https://github.com/rancherlabs/support-tools/pull/221) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
+1. 🗣 Commented on [#4974](https://github.com/kubernetes/k8s.io/issues/4974) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 🗣 Commented on [#29075](https://github.com/kubernetes/test-infra/issues/29075) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#862](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/862) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 4. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 5. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
