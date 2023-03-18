@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/kubernetes-sigs/cluster-api-operator/issues/46) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
-2. 🗣 Commented on [#4974](https://github.com/kubernetes/k8s.io/issues/4974) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#29075](https://github.com/kubernetes/test-infra/issues/29075) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#862](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/862) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#863](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/863) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#46](https://github.com/kubernetes-sigs/cluster-api-operator/issues/46) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+3. 🗣 Commented on [#4974](https://github.com/kubernetes/k8s.io/issues/4974) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🗣 Commented on [#29075](https://github.com/kubernetes/test-infra/issues/29075) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 🗣 Commented on [#862](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/862) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
