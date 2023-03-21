@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#218](https://github.com/rancherlabs/support-tools/issues/218) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
-2. 💪 Opened PR [#4159](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4159) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#4158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#810](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/810) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#810](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/810) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#218](https://github.com/rancherlabs/support-tools/issues/218) in [rancherlabs/support-tools](https://github.com/rancherlabs/support-tools)
+4. 💪 Opened PR [#4159](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4159) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
