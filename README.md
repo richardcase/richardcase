@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/pull/27) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
-2. ❗️ Opened issue [#26](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/issues/26) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
-3. ❗️ Opened issue [#25](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/issues/25) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
-4. 🗣 Commented on [#4155](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4155) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#265](https://github.com/kubernetes-sigs/cluster-api-provider-packet/issues/265) in [kubernetes-sigs/cluster-api-provider-packet](https://github.com/kubernetes-sigs/cluster-api-provider-packet)
+1. 🗣 Commented on [#4104](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4104) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4137](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4137) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 💪 Opened PR [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 💪 Opened PR [#27](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/pull/27) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
