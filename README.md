@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40988](https://github.com/rancher/rancher/issues/40988) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#40983](https://github.com/rancher/rancher/issues/40983) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#40983](https://github.com/rancher/rancher/issues/40983) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#40983](https://github.com/rancher/rancher/issues/40983) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#4163](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4163) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❌ Closed PR [#27](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/pull/27) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
+2. 🗣 Commented on [#27](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/issues/27) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
+3. 🗣 Commented on [#30](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/issues/30) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
+4. 🗣 Commented on [#27](https://github.com/cluster-api-provider-k3s/cluster-api-k3s/issues/27) in [cluster-api-provider-k3s/cluster-api-k3s](https://github.com/cluster-api-provider-k3s/cluster-api-k3s)
+5. 🗣 Commented on [#40988](https://github.com/rancher/rancher/issues/40988) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
