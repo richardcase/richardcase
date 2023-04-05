@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4132](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4132) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4132](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4132) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#6913](https://github.com/kubernetes-sigs/cluster-api/issues/6913) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#5991](https://github.com/kubernetes-sigs/cluster-api/issues/5991) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#13](https://github.com/weaveworks-liquidmetal/image-builder/issues/13) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+3. ❌ Closed PR [#13](https://github.com/weaveworks-liquidmetal/image-builder/pull/13) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 4. 🗣 Commented on [#4132](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4132) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4046](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4046) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4132](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4132) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
