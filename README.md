@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5100](https://github.com/kubernetes/k8s.io/issues/5100) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🗣 Commented on [#4163](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4163) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#4205](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4205) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5991](https://github.com/kubernetes-sigs/cluster-api/issues/5991) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#13](https://github.com/weaveworks-liquidmetal/image-builder/issues/13) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+1. 🗣 Commented on [#880](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/880) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#5100](https://github.com/kubernetes/k8s.io/issues/5100) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 🗣 Commented on [#4163](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4163) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#4205](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4205) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5991](https://github.com/kubernetes-sigs/cluster-api/issues/5991) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
