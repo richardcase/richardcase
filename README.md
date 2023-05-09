@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/rancher/highlander/issues/7) in [rancher/highlander](https://github.com/rancher/highlander)
-2. ❗️ Opened issue [#6](https://github.com/rancher/highlander/issues/6) in [rancher/highlander](https://github.com/rancher/highlander)
-3. ❗️ Opened issue [#5](https://github.com/rancher/highlander/issues/5) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#5232](https://github.com/kubernetes/k8s.io/issues/5232) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🗣 Commented on [#3325](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3325) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5243](https://github.com/kubernetes/k8s.io/issues/5243) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. ❗️ Opened issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
+3. ❗️ Opened issue [#10](https://github.com/rancher/highlander/issues/10) in [rancher/highlander](https://github.com/rancher/highlander)
+4. ❗️ Opened issue [#9](https://github.com/rancher/highlander/issues/9) in [rancher/highlander](https://github.com/rancher/highlander)
+5. ❗️ Opened issue [#8](https://github.com/rancher/highlander/issues/8) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
