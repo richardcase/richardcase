@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 🗣 Commented on [#5243](https://github.com/kubernetes/k8s.io/issues/5243) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. ❗️ Opened issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
-4. ❗️ Opened issue [#10](https://github.com/rancher/highlander/issues/10) in [rancher/highlander](https://github.com/rancher/highlander)
-5. ❗️ Opened issue [#9](https://github.com/rancher/highlander/issues/9) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🎉 Merged PR [#117](https://github.com/rancher/gke-operator/pull/117) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+2. ❗️ Opened issue [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🗣 Commented on [#5243](https://github.com/kubernetes/k8s.io/issues/5243) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. ❗️ Opened issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
+5. ❗️ Opened issue [#10](https://github.com/rancher/highlander/issues/10) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
