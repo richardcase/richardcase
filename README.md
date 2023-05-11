@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. 🎉 Merged PR [#117](https://github.com/rancher/gke-operator/pull/117) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-3. ❗️ Opened issue [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#5243](https://github.com/kubernetes/k8s.io/issues/5243) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. ❗️ Opened issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#885](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/885) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#880](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/880) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#894](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/894) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#906](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/906) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
