@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#885](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/885) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#880](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/880) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#894](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/894) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#906](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/906) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+1. ❗️ Closed issue [#7](https://github.com/rancher/highlander/issues/7) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#7](https://github.com/rancher/highlander/issues/7) in [rancher/highlander](https://github.com/rancher/highlander)
+3. ❗️ Closed issue [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🗣 Commented on [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
+5. ❗️ Opened issue [#5](https://github.com/rancher-sandbox/capi-scalability-tests/issues/5) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
