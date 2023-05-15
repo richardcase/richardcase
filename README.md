@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/rancher/highlander/issues/7) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 🗣 Commented on [#7](https://github.com/rancher/highlander/issues/7) in [rancher/highlander](https://github.com/rancher/highlander)
-3. ❗️ Closed issue [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#12](https://github.com/rancher/highlander/issues/12) in [rancher/highlander](https://github.com/rancher/highlander)
-5. ❗️ Opened issue [#5](https://github.com/rancher-sandbox/capi-scalability-tests/issues/5) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
+1. 🗣 Commented on [#7848](https://github.com/kubernetes-sigs/cluster-api/issues/7848) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#3166](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3166) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#2316](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2316) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#2316](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2316) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4228](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4228) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
