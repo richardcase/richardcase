@@ -10,9 +10,9 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4272) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4228](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4228) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4228](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4228) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Closed issue [#1](https://github.com/rancher-sandbox/capi-scalability-tests/issues/1) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
+2. 🗣 Commented on [#1](https://github.com/rancher-sandbox/capi-scalability-tests/issues/1) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
+3. 🗣 Commented on [#4272](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4272) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 4. 🗣 Commented on [#4228](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4228) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 5. 🗣 Commented on [#4228](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4228) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
