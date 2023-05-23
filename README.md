@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/rancher-sandbox/capi-scalability-tests/pull/7) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
-2. ❗️ Opened issue [#6](https://github.com/rancher-sandbox/capi-scalability-tests/issues/6) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
-3. 🗣 Commented on [#40714](https://github.com/rancher/rancher/issues/40714) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗️ Closed issue [#2](https://github.com/rancher-sandbox/capi-scalability-tests/issues/2) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
-5. 🗣 Commented on [#2](https://github.com/rancher-sandbox/capi-scalability-tests/issues/2) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
+1. 🎉 Merged PR [#2](https://github.com/capi-samples/opensuse-23/pull/2) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
+2. 💪 Opened PR [#2](https://github.com/capi-samples/opensuse-23/pull/2) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
+3. 🎉 Merged PR [#1](https://github.com/capi-samples/opensuse-23/pull/1) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
+4. 💪 Opened PR [#1](https://github.com/capi-samples/opensuse-23/pull/1) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
+5. 💪 Opened PR [#7](https://github.com/rancher-sandbox/capi-scalability-tests/pull/7) in [rancher-sandbox/capi-scalability-tests](https://github.com/rancher-sandbox/capi-scalability-tests)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
