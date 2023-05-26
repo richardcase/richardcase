@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#553](https://github.com/weaveworks-liquidmetal/flintlock/issues/553) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 🎉 Merged PR [#4](https://github.com/capi-samples/opensuse-23/pull/4) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
-3. 🗣 Commented on [#4285](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4285) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4285](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4285) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4285](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4285) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗️ Reopened issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗️ Closed issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#40714](https://github.com/rancher/rancher/pull/40714) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#553](https://github.com/weaveworks-liquidmetal/flintlock/issues/553) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+5. 🎉 Merged PR [#4](https://github.com/capi-samples/opensuse-23/pull/4) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
