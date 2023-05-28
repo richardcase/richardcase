@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗️ Closed issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#40714](https://github.com/rancher/rancher/pull/40714) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#553](https://github.com/weaveworks-liquidmetal/flintlock/issues/553) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-5. 🎉 Merged PR [#4](https://github.com/capi-samples/opensuse-23/pull/4) in [capi-samples/opensuse-23](https://github.com/capi-samples/opensuse-23)
+1. 🗣 Commented on [#139](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/139) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🗣 Commented on [#138](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/138) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🎉 Merged PR [#135](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/135) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. ❗️ Opened issue [#140](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/140) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. ❗️ Reopened issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
