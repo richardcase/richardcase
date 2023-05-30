@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/139) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🗣 Commented on [#138](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/138) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. 🎉 Merged PR [#135](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/135) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. ❗️ Opened issue [#140](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/140) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. ❗️ Reopened issue [#39924](https://github.com/rancher/rancher/issues/39924) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗️ Opened issue [#15](https://github.com/rancher/highlander/issues/15) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#139](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/139) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🗣 Commented on [#138](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/138) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#135](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/135) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. ❗️ Opened issue [#140](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/140) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
