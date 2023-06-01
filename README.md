@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4017](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4017) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4017](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4017) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4017](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4017) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4301](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4301) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4301](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4301) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#5349](https://github.com/kubernetes/k8s.io/pull/5349) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 🗣 Commented on [#3968](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3968) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#655](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/655) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#512](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/512) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#3760](https://github.com/kubernetes-sigs/cluster-api/issues/3760) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
