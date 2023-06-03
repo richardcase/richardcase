@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41716](https://github.com/rancher/rancher/issues/41716) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#41728](https://github.com/rancher/rancher/pull/41728) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#41716](https://github.com/rancher/rancher/issues/41716) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#41734](https://github.com/rancher/rancher/pull/41734) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#41716](https://github.com/rancher/rancher/issues/41716) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#41728](https://github.com/rancher/rancher/pull/41728) in [rancher/rancher](https://github.com/rancher/rancher)
 4. 🗣 Commented on [#41716](https://github.com/rancher/rancher/issues/41716) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#932](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/932) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#41716](https://github.com/rancher/rancher/issues/41716) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
