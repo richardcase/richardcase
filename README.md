@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/rancher-sandbox/rancher-turtles/issues/9) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🎉 Merged PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 💪 Opened PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 💪 Opened PR [#41767](https://github.com/rancher/rancher/pull/41767) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#5379](https://github.com/kubernetes/k8s.io/pull/5379) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 🗣 Commented on [#945](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/945) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🔒 Closed issue [#9](https://github.com/rancher-sandbox/rancher-turtles/issues/9) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
