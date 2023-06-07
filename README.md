@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🎉 Merged PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 💪 Opened PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#41735](https://github.com/rancher/rancher/issues/41735) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#140](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/140) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🔒 Closed issue [#9](https://github.com/rancher-sandbox/rancher-turtles/issues/9) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#931](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/931) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🎉 Merged PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 💪 Opened PR [#10](https://github.com/rancher-sandbox/rancher-turtles/pull/10) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
