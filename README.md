@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41767](https://github.com/rancher/rancher/pull/41767) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#41728](https://github.com/rancher/rancher/pull/41728) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#8819](https://github.com/kubernetes-sigs/cluster-api/issues/8819) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#936](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/936) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#3203](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3203) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗ Opened issue [#214](https://github.com/rancher/aks-operator/issues/214) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+2. 🎉 Merged PR [#41767](https://github.com/rancher/rancher/pull/41767) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#41728](https://github.com/rancher/rancher/pull/41728) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#8819](https://github.com/kubernetes-sigs/cluster-api/issues/8819) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#936](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/936) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
