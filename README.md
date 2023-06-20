@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#957](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/957) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#944](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/944) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. ❗ Opened issue [#151](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/151) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🗣 Commented on [#4148](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4148) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2238](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2238) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#157](https://github.com/rancher/eks-operator/issues/157) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. ❗ Opened issue [#19](https://github.com/rancher-sandbox/rancher-turtles/issues/19) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#29671](https://github.com/kubernetes/test-infra/issues/29671) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+4. 🗣 Commented on [#957](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/957) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#944](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/944) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
