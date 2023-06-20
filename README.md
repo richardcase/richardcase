@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/rancher/eks-operator/issues/105) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. 🗣 Commented on [#157](https://github.com/rancher/eks-operator/issues/157) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-3. ❗ Opened issue [#19](https://github.com/rancher-sandbox/rancher-turtles/issues/19) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#29671](https://github.com/kubernetes/test-infra/issues/29671) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 🗣 Commented on [#957](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/957) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#106](https://github.com/rancher/eks-operator/issues/106) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 💪 Opened PR [#193](https://github.com/rancher/eks-operator/pull/193) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. 💪 Opened PR [#689](https://github.com/rancher/rancher-docs/pull/689) in [rancher/rancher-docs](https://github.com/rancher/rancher-docs)
+4. ❗ Opened issue [#192](https://github.com/rancher/eks-operator/issues/192) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+5. 🗣 Commented on [#105](https://github.com/rancher/eks-operator/issues/105) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
