@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/rancher/aks-operator/pull/223) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-2. 🎉 Merged PR [#221](https://github.com/rancher/aks-operator/pull/221) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-3. 🗣 Commented on [#223](https://github.com/rancher/aks-operator/issues/223) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-4. 🎉 Merged PR [#222](https://github.com/rancher/aks-operator/pull/222) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-5. 🎉 Merged PR [#224](https://github.com/rancher/aks-operator/pull/224) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+1. 💪 Opened PR [#133](https://github.com/rancher/gke-operator/pull/133) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+2. 💪 Opened PR [#226](https://github.com/rancher/aks-operator/pull/226) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 🗣 Commented on [#3760](https://github.com/kubernetes-sigs/cluster-api/issues/3760) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🎉 Merged PR [#190](https://github.com/rancher/eks-operator/pull/190) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+5. 🗣 Commented on [#8894](https://github.com/kubernetes-sigs/cluster-api/issues/8894) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
