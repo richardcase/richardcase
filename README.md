@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4357](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4357) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#8896](https://github.com/kubernetes-sigs/cluster-api/issues/8896) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 2. 🗣 Commented on [#4357](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4357) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 3. 🗣 Commented on [#4357](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4357) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#192](https://github.com/rancher/eks-operator/issues/192) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-5. 🔒 Closed issue [#192](https://github.com/rancher/eks-operator/issues/192) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 🗣 Commented on [#4357](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4357) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4357](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4357) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
