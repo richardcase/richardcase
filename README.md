@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#968](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/968) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 💪 Opened PR [#968](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/968) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#153](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/153) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/969) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/969) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 💪 Opened PR [#969](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/969) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. ❌ Closed PR [#968](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/968) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. ❌ Closed PR [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
