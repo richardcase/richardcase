@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4359) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4359) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4360](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4360) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4362](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4362) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4363](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4363) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❌ Closed PR [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#870](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/870) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#968](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/968) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 💪 Opened PR [#968](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/968) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#153](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/153) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
