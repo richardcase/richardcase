@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4363](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4363) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🔒 Closed issue [#135](https://github.com/rancher/gke-operator/issues/135) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-3. 🗣 Commented on [#135](https://github.com/rancher/gke-operator/issues/135) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-4. ❗ Opened issue [#136](https://github.com/rancher/gke-operator/issues/136) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-5. ❗ Opened issue [#135](https://github.com/rancher/gke-operator/issues/135) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+1. 🗣 Commented on [#4372](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4372) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4363](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4363) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🔒 Closed issue [#135](https://github.com/rancher/gke-operator/issues/135) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+4. 🗣 Commented on [#135](https://github.com/rancher/gke-operator/issues/135) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+5. ❗ Opened issue [#136](https://github.com/rancher/gke-operator/issues/136) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
