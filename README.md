@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.2.0](https://github.com/v2.2.0) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. ❗ Opened issue [#42040](https://github.com/rancher/rancher/issues/42040) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#5527](https://github.com/kubernetes/k8s.io/issues/5527) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#8920](https://github.com/kubernetes-sigs/cluster-api/issues/8920) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🎉 Merged PR [#133](https://github.com/rancher/gke-operator/pull/133) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+1. 🗣 Commented on [#4386](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4386) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#4386](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4386) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🚀 Published release [v2.2.0](https://github.com/v2.2.0) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗ Opened issue [#42040](https://github.com/rancher/rancher/issues/42040) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#5527](https://github.com/kubernetes/k8s.io/issues/5527) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
