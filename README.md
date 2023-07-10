@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rancher-sandbox/rancher-turtles-ui/issues/1) in [rancher-sandbox/rancher-turtles-ui](https://github.com/rancher-sandbox/rancher-turtles-ui)
-2. 🔒 Closed issue [#1](https://github.com/rancher-sandbox/rancher-turtles-ui/issues/1) in [rancher-sandbox/rancher-turtles-ui](https://github.com/rancher-sandbox/rancher-turtles-ui)
-3. 🗣 Commented on [#4386](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4386) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#4386](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4386) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🚀 Published release [v2.2.0](https://github.com/v2.2.0) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/969) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#4390](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4390) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❗ Opened issue [#4390](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4390) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4333](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4333) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4389](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4389) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
