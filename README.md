@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/rancher/highlander/issues/18) in [rancher/highlander](https://github.com/rancher/highlander)
-2. ❗ Opened issue [#18](https://github.com/rancher/highlander/issues/18) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🗣 Commented on [#969](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/969) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#4390](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4390) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❗ Opened issue [#4390](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4390) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4391](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4391) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ❗ Opened issue [#4391](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4391) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❗ Opened issue [#7](https://github.com/rancher-sandbox/rancher-turtles-ui/issues/7) in [rancher-sandbox/rancher-turtles-ui](https://github.com/rancher-sandbox/rancher-turtles-ui)
+4. ❗ Opened issue [#146](https://github.com/rancher/gke-operator/issues/146) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+5. ❗ Opened issue [#238](https://github.com/rancher/aks-operator/issues/238) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
