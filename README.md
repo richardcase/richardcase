@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-2. 💪 Opened PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-3. 🎉 Merged PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-4. 💪 Opened PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-5. 🎉 Merged PR [#3](https://github.com/capi-samples/choose-your-own-adventure/pull/3) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+1. 🗣 Commented on [#984](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/984#issuecomment-1640618037) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🎉 Merged PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+3. 💪 Opened PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+4. 🎉 Merged PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+5. 💪 Opened PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
