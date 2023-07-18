@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/capi-samples/choose-your-own-adventure/pull/2) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-2. 💪 Opened PR [#2](https://github.com/capi-samples/choose-your-own-adventure/pull/2) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-3. 🎉 Merged PR [#1](https://github.com/capi-samples/choose-your-own-adventure/pull/1) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-4. 💪 Opened PR [#1](https://github.com/capi-samples/choose-your-own-adventure/pull/1) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
-5. 🗣 Commented on [#22](https://github.com/rancher/highlander/issues/22#issuecomment-1639945738) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🎉 Merged PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+2. 💪 Opened PR [#5](https://github.com/capi-samples/choose-your-own-adventure/pull/5) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+3. 🎉 Merged PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+4. 💪 Opened PR [#4](https://github.com/capi-samples/choose-your-own-adventure/pull/4) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+5. 🎉 Merged PR [#3](https://github.com/capi-samples/choose-your-own-adventure/pull/3) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
