@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#971](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/971#issuecomment-1638096912) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1638086172) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#206](https://github.com/rancher/eks-operator/pull/206) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 🗣 Commented on [#4404](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4404#issuecomment-1638041564) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4404](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4404#issuecomment-1638039656) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#2](https://github.com/capi-samples/choose-your-own-adventure/pull/2) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+2. 💪 Opened PR [#2](https://github.com/capi-samples/choose-your-own-adventure/pull/2) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+3. 🎉 Merged PR [#1](https://github.com/capi-samples/choose-your-own-adventure/pull/1) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+4. 💪 Opened PR [#1](https://github.com/capi-samples/choose-your-own-adventure/pull/1) in [capi-samples/choose-your-own-adventure](https://github.com/capi-samples/choose-your-own-adventure)
+5. 🗣 Commented on [#22](https://github.com/rancher/highlander/issues/22#issuecomment-1639945738) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
