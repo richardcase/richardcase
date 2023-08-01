@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646492498) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646491985) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4309](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4309#issuecomment-1646472186) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#30152](https://github.com/kubernetes/test-infra/pull/30152#issuecomment-1645519432) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. ❗ Opened issue [#46](https://github.com/rancher-sandbox/rancher-turtles/issues/46) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#6](https://github.com/rancher-sandbox/rancher-turtles/issues/6#issuecomment-1659958519) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646492498) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646491985) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4309](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4309#issuecomment-1646472186) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#30152](https://github.com/kubernetes/test-infra/pull/30152#issuecomment-1645519432) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
