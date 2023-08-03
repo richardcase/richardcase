@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/rancher-sandbox/rancher-turtles/pull/55) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#6](https://github.com/rancher-sandbox/rancher-turtles/issues/6#issuecomment-1659958519) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646492498) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#3541](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3541#issuecomment-1646491985) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4309](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4309#issuecomment-1646472186) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗ Opened issue [#65](https://github.com/rancher-sandbox/rancher-turtles/issues/65) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. ❗ Opened issue [#64](https://github.com/rancher-sandbox/rancher-turtles/issues/64) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#63](https://github.com/rancher-sandbox/rancher-turtles/issues/63) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🎉 Merged PR [#55](https://github.com/rancher-sandbox/rancher-turtles/pull/55) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#6](https://github.com/rancher-sandbox/rancher-turtles/issues/6#issuecomment-1659958519) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
