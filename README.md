@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#42317](https://github.com/rancher/rancher/pull/42317) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#42317](https://github.com/rancher/rancher/pull/42317#issuecomment-1665769923) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#42317](https://github.com/rancher/rancher/pull/42317) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#65](https://github.com/rancher-sandbox/rancher-turtles/issues/65) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#64](https://github.com/rancher-sandbox/rancher-turtles/issues/64) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#42318](https://github.com/rancher/rancher/pull/42318#issuecomment-1665868869) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#42318](https://github.com/rancher/rancher/pull/42318) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❌ Closed PR [#42317](https://github.com/rancher/rancher/pull/42317) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#42317](https://github.com/rancher/rancher/pull/42317#issuecomment-1665769923) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#42317](https://github.com/rancher/rancher/pull/42317) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
