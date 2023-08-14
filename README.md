@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42406](https://github.com/rancher/rancher/pull/42406) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#42318](https://github.com/rancher/rancher/pull/42318#issuecomment-1677483885) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#42333](https://github.com/rancher/rancher/issues/42333#issuecomment-1677475966) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#42318](https://github.com/rancher/rancher/pull/42318#issuecomment-1666520328) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❗ Opened issue [#42333](https://github.com/rancher/rancher/issues/42333) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗ Opened issue [#4452](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4452) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4450](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4450#issuecomment-1677590775) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#42357](https://github.com/rancher/rancher/issues/42357#issuecomment-1677552451) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#42406](https://github.com/rancher/rancher/pull/42406) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#42318](https://github.com/rancher/rancher/pull/42318#issuecomment-1677483885) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
