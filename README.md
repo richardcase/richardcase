@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/rancher/highlander/issues/24#issuecomment-1678733638) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 🗣 Commented on [#4445](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4445#issuecomment-1678683705) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. ❗ Opened issue [#30](https://github.com/rancher/highlander/issues/30) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🔒 Closed issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
-5. 🗣 Commented on [#11](https://github.com/rancher/highlander/issues/11#issuecomment-1678663323) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#991](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/991#issuecomment-1679123619) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-1679114079) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#924](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/924#issuecomment-1679111464) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#985](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/985#issuecomment-1679104377) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#991](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/991#issuecomment-1679103925) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
