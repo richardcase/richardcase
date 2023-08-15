@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4445](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4445#issuecomment-1678491686) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4444](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4444#issuecomment-1678490196) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4444](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4444#issuecomment-1678489965) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4447](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4447#issuecomment-1678488483) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4447](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4447#issuecomment-1678488351) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#24](https://github.com/rancher/highlander/issues/24#issuecomment-1678733638) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#4445](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4445#issuecomment-1678683705) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ❗ Opened issue [#30](https://github.com/rancher/highlander/issues/30) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🔒 Closed issue [#11](https://github.com/rancher/highlander/issues/11) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 🗣 Commented on [#11](https://github.com/rancher/highlander/issues/11#issuecomment-1678663323) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
