@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1683947507) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#14](https://github.com/calf-nursery/test-infra/pull/14) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
-3. 💪 Opened PR [#13](https://github.com/calf-nursery/test-infra/pull/13) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
-4. 🗣 Commented on [#7](https://github.com/calf-nursery/testapp/pull/7#issuecomment-1683833179) in [calf-nursery/testapp](https://github.com/calf-nursery/testapp)
-5. 💪 Opened PR [#12](https://github.com/calf-nursery/test-infra/pull/12) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
+1. 🗣 Commented on [#9236](https://github.com/kubernetes-sigs/cluster-api/pull/9236#issuecomment-1686640072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1683947507) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#14](https://github.com/calf-nursery/test-infra/pull/14) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
+4. 💪 Opened PR [#13](https://github.com/calf-nursery/test-infra/pull/13) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
+5. 🗣 Commented on [#7](https://github.com/calf-nursery/testapp/pull/7#issuecomment-1683833179) in [calf-nursery/testapp](https://github.com/calf-nursery/testapp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
