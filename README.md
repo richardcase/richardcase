@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9236](https://github.com/kubernetes-sigs/cluster-api/pull/9236#issuecomment-1686640072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1683947507) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#14](https://github.com/calf-nursery/test-infra/pull/14) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
-4. 💪 Opened PR [#13](https://github.com/calf-nursery/test-infra/pull/13) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
-5. 🗣 Commented on [#7](https://github.com/calf-nursery/testapp/pull/7#issuecomment-1683833179) in [calf-nursery/testapp](https://github.com/calf-nursery/testapp)
+1. 🔒 Closed issue [#30](https://github.com/rancher/highlander/issues/30) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#30](https://github.com/rancher/highlander/issues/30#issuecomment-1687885064) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🗣 Commented on [#944](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/944#issuecomment-1687864309) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#9236](https://github.com/kubernetes-sigs/cluster-api/pull/9236#issuecomment-1686640072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1683947507) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
