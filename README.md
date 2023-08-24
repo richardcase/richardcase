@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9251](https://github.com/kubernetes-sigs/cluster-api/pull/9251#issuecomment-1691541802) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1691447252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#20](https://github.com/calf-nursery/test-infra/pull/20#issuecomment-1691444806) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
-4. 🎉 Merged PR [#10](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/10) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-5. 🗣 Commented on [#18](https://github.com/calf-nursery/test-infra/pull/18#issuecomment-1691319294) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
+1. 🗣 Commented on [#9239](https://github.com/kubernetes-sigs/cluster-api/pull/9239#issuecomment-1691570775) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#9247](https://github.com/kubernetes-sigs/cluster-api/pull/9247#issuecomment-1691552005) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#9251](https://github.com/kubernetes-sigs/cluster-api/pull/9251#issuecomment-1691541802) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#4398](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4398#issuecomment-1691447252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#20](https://github.com/calf-nursery/test-infra/pull/20#issuecomment-1691444806) in [calf-nursery/test-infra](https://github.com/calf-nursery/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
