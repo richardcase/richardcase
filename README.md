@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1010](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1010#issuecomment-1700521398) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#1010](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1010#issuecomment-1700486992) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 💪 Opened PR [#1010](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1010) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#4463](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4463#issuecomment-1700480687) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4464](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4464#issuecomment-1700479478) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5294](https://github.com/kubernetes-sigs/cluster-api/issues/5294#issuecomment-1700728116) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#82](https://github.com/rancher-sandbox/rancher-turtles/pull/82#issuecomment-1700712372) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#94](https://github.com/rancher-sandbox/rancher-turtles/issues/94) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🗣 Commented on [#70](https://github.com/rancher-sandbox/rancher-turtles/pull/70#issuecomment-1700666592) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#1010](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1010#issuecomment-1700521398) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
