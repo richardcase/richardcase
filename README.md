@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1016](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/1016#issuecomment-1721137983) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#1016](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/1016#issuecomment-1721110716) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#1016](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/1016#issuecomment-1721108639) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#24](https://github.com/calf-nursery/testapp/pull/24#issuecomment-1719496915) in [calf-nursery/testapp](https://github.com/calf-nursery/testapp)
-5. 🗣 Commented on [#32](https://github.com/calf-nursery/testapp/pull/32#issuecomment-1719480922) in [calf-nursery/testapp](https://github.com/calf-nursery/testapp)
+1. 💪 Opened PR [#128](https://github.com/rancher-sandbox/rancher-turtles/pull/128) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. ❗ Opened issue [#127](https://github.com/rancher-sandbox/rancher-turtles/issues/127) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#238](https://github.com/rancher/aks-operator/issues/238#issuecomment-1721434289) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+4. 💪 Opened PR [#20](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/20) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🗣 Commented on [#1018](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1018#issuecomment-1721363621) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
