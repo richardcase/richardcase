@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/rancher-sandbox/rancher-turtles/pull/128) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. ❗ Opened issue [#127](https://github.com/rancher-sandbox/rancher-turtles/issues/127) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#238](https://github.com/rancher/aks-operator/issues/238#issuecomment-1721434289) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-4. 💪 Opened PR [#20](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/20) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-5. 🗣 Commented on [#1018](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1018#issuecomment-1721363621) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🔒 Closed issue [#105](https://github.com/rancher-sandbox/rancher-turtles/issues/105) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🎉 Merged PR [#109](https://github.com/rancher-sandbox/rancher-turtles/pull/109) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 💪 Opened PR [#128](https://github.com/rancher-sandbox/rancher-turtles/pull/128) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#127](https://github.com/rancher-sandbox/rancher-turtles/issues/127) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#238](https://github.com/rancher/aks-operator/issues/238#issuecomment-1721434289) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
