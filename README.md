@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#134](https://github.com/rancher-sandbox/rancher-turtles/issues/134) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#132](https://github.com/rancher-sandbox/rancher-turtles/pull/132#issuecomment-1725365215) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. ❗ Opened issue [#131](https://github.com/rancher-sandbox/rancher-turtles/issues/131) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. ❗ Opened issue [#130](https://github.com/rancher-sandbox/rancher-turtles/issues/130) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❌ Closed PR [#19](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/19) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+1. 💪 Opened PR [#138](https://github.com/rancher-sandbox/rancher-turtles/pull/138) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. ❗ Opened issue [#134](https://github.com/rancher-sandbox/rancher-turtles/issues/134) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#132](https://github.com/rancher-sandbox/rancher-turtles/pull/132#issuecomment-1725365215) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#131](https://github.com/rancher-sandbox/rancher-turtles/issues/131) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#130](https://github.com/rancher-sandbox/rancher-turtles/issues/130) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
