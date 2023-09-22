@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/24) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 💪 Opened PR [#138](https://github.com/rancher-sandbox/rancher-turtles/pull/138) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. ❗ Opened issue [#134](https://github.com/rancher-sandbox/rancher-turtles/issues/134) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#132](https://github.com/rancher-sandbox/rancher-turtles/pull/132#issuecomment-1725365215) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#131](https://github.com/rancher-sandbox/rancher-turtles/issues/131) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+2. 💪 Opened PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+3. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4359#issuecomment-1730347706) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#30792](https://github.com/kubernetes/test-infra/pull/30792) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. ❗ Opened issue [#24](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/24) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
