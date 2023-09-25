@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/21) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
-3. 💪 Opened PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
-4. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4359#issuecomment-1730347706) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#30792](https://github.com/kubernetes/test-infra/pull/30792) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. ❗ Opened issue [#143](https://github.com/rancher-sandbox/rancher-turtles/issues/143) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🎉 Merged PR [#21](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/21) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+3. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+4. 💪 Opened PR [#1](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/1) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+5. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4359#issuecomment-1730347706) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
