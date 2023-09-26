@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/23) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 🎉 Merged PR [#148](https://github.com/rancher-sandbox/rancher-turtles/pull/148) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🔒 Closed issue [#74](https://github.com/rancher-sandbox/rancher-turtles/issues/74) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 💪 Opened PR [#145](https://github.com/rancher-sandbox/rancher-turtles/pull/145) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#120](https://github.com/rancher-sandbox/rancher-turtles/issues/120#issuecomment-1735242120) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#4359](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4359#issuecomment-1735857026) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4520](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4520#issuecomment-1735820161) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4508](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4508#issuecomment-1735812379) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#23](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/23) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🎉 Merged PR [#148](https://github.com/rancher-sandbox/rancher-turtles/pull/148) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
