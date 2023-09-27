@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/34) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 🗣 Commented on [#4522](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4522#issuecomment-1737146262) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4522](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4522#issuecomment-1737145947) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#33](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/33#issuecomment-1737143149) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-5. 🗣 Commented on [#167](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/167#issuecomment-1737118343) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556568) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556075) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🔒 Closed issue [#8](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/8) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+4. 🔒 Closed issue [#17](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/17) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🗣 Commented on [#17](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/17#issuecomment-1737491770) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
