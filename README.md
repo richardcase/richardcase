@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#151](https://github.com/rancher-sandbox/rancher-turtles/issues/151) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🔒 Closed issue [#121](https://github.com/rancher-sandbox/rancher-turtles/issues/121) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#121](https://github.com/rancher-sandbox/rancher-turtles/issues/121#issuecomment-1736894592) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 💪 Opened PR [#150](https://github.com/rancher-sandbox/rancher-turtles/pull/150) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#149](https://github.com/rancher-sandbox/rancher-turtles/issues/149) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#34](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/34) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+2. 🗣 Commented on [#4522](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4522#issuecomment-1737146262) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4522](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4522#issuecomment-1737145947) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#33](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/33#issuecomment-1737143149) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🗣 Commented on [#167](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/167#issuecomment-1737118343) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
