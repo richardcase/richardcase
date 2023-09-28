@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556568) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556075) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🔒 Closed issue [#8](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/8) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-4. 🔒 Closed issue [#17](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/17) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-5. 🗣 Commented on [#17](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/17#issuecomment-1737491770) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+1. 🎉 Merged PR [#163](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/163) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. ❗ Opened issue [#169](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/169) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. ❗ Opened issue [#168](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/168) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556568) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4526](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4526#issuecomment-1737556075) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
