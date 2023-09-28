@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com/rancher-sandbox/rancher-turtles/pull/165) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🔒 Closed issue [#154](https://github.com/rancher-sandbox/rancher-turtles/issues/154) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🎉 Merged PR [#155](https://github.com/rancher-sandbox/rancher-turtles/pull/155) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🎉 Merged PR [#153](https://github.com/rancher-sandbox/rancher-turtles/pull/153) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🎉 Merged PR [#161](https://github.com/rancher-sandbox/rancher-turtles/pull/161) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 💪 Opened PR [#168](https://github.com/rancher-sandbox/rancher-turtles/pull/168) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🎉 Merged PR [#165](https://github.com/rancher-sandbox/rancher-turtles/pull/165) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🔒 Closed issue [#154](https://github.com/rancher-sandbox/rancher-turtles/issues/154) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🎉 Merged PR [#155](https://github.com/rancher-sandbox/rancher-turtles/pull/155) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🎉 Merged PR [#153](https://github.com/rancher-sandbox/rancher-turtles/pull/153) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
