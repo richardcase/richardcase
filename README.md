@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/155#issuecomment-1740566730) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🗣 Commented on [#131](https://github.com/rancher-sandbox/rancher-turtles/issues/131#issuecomment-1740487069) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#118](https://github.com/rancher-sandbox/rancher-turtles/issues/118#issuecomment-1740485754) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#104](https://github.com/rancher-sandbox/rancher-turtles/issues/104#issuecomment-1740485239) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#171](https://github.com/rancher-sandbox/rancher-turtles/issues/171) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#174](https://github.com/rancher-sandbox/rancher-turtles/pull/174) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#172](https://github.com/rancher-sandbox/rancher-turtles/pull/172#issuecomment-1740943290) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🔒 Closed issue [#170](https://github.com/rancher-sandbox/rancher-turtles/issues/170) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🎉 Merged PR [#173](https://github.com/rancher-sandbox/rancher-turtles/pull/173) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#155](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/155#issuecomment-1740566730) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
