@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#186](https://github.com/rancher-sandbox/rancher-turtles/issues/186) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. ❗ Opened issue [#37](https://github.com/rancher/highlander/issues/37) in [rancher/highlander](https://github.com/rancher/highlander)
-3. ❗ Opened issue [#185](https://github.com/rancher-sandbox/rancher-turtles/issues/185) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#4474](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4474#issuecomment-1746312961) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🔒 Closed issue [#118](https://github.com/rancher-sandbox/rancher-turtles/issues/118) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. ❗ Opened issue [#188](https://github.com/rancher-sandbox/rancher-turtles/issues/188) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#185](https://github.com/rancher-sandbox/rancher-turtles/issues/185#issuecomment-1746542686) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#38](https://github.com/rancher/highlander/issues/38) in [rancher/highlander](https://github.com/rancher/highlander)
+4. ❗ Opened issue [#39](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/39) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. ❗ Opened issue [#186](https://github.com/rancher-sandbox/rancher-turtles/issues/186) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
