@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4547](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4547#issuecomment-1750782377) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778999) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778268) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❗ Opened issue [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❗ Opened issue [#193](https://github.com/rancher-sandbox/rancher-turtles/issues/193) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 💪 Opened PR [#45](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/45) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+2. 🗣 Commented on [#4547](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4547#issuecomment-1750782377) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778999) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778268) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ❗ Opened issue [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
