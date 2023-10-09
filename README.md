@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/45) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 🗣 Commented on [#4547](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4547#issuecomment-1750782377) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778999) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550#issuecomment-1750778268) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ❗ Opened issue [#4550](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#193](https://github.com/rancher-sandbox/rancher-turtles/issues/193#issuecomment-1753197922) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#44](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/44#issuecomment-1753145368) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+3. 🎉 Merged PR [#45](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/45) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+4. 🗣 Commented on [#157](https://github.com/rancher-sandbox/rancher-turtles/pull/157#issuecomment-1753059197) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#4510](https://github.com/kubernetes/org/issues/4510#issuecomment-1753045741) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
