@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/rancher-sandbox/rancher-turtles/issues/193#issuecomment-1753197922) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#44](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/44#issuecomment-1753145368) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-3. 🎉 Merged PR [#45](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/45) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-4. 🗣 Commented on [#157](https://github.com/rancher-sandbox/rancher-turtles/pull/157#issuecomment-1753059197) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#4510](https://github.com/kubernetes/org/issues/4510#issuecomment-1753045741) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#32](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/32#issuecomment-1754507893) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+2. 🎉 Merged PR [#41](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/41) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+3. 🔒 Closed issue [#39](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/39) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+4. 🎉 Merged PR [#46](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/46) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🗣 Commented on [#44](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/44#issuecomment-1754488985) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
