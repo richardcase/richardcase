@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/49) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-2. 🗣 Commented on [#32](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/32#issuecomment-1754507893) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-3. 🎉 Merged PR [#41](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/41) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-4. 🔒 Closed issue [#39](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/39) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
-5. 🎉 Merged PR [#46](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/46) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+1. 🗣 Commented on [#4558](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4558#issuecomment-1755909281) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#195](https://github.com/rancher-sandbox/rancher-turtles/pull/195) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 💪 Opened PR [#50](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/50) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+4. 💪 Opened PR [#49](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/49) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 🗣 Commented on [#32](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/32#issuecomment-1754507893) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
