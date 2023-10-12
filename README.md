@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4568](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4568#issuecomment-1758564443) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#197](https://github.com/rancher-sandbox/rancher-turtles/pull/197) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🔒 Closed issue [#199](https://github.com/rancher-sandbox/rancher-turtles/issues/199) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🎉 Merged PR [#200](https://github.com/rancher-sandbox/rancher-turtles/pull/200) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🎉 Merged PR [#178](https://github.com/rancher-sandbox/rancher-turtles/pull/178) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#202](https://github.com/rancher-sandbox/rancher-turtles/pull/202) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#202](https://github.com/rancher-sandbox/rancher-turtles/pull/202#issuecomment-1759402752) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#4575](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4575#issuecomment-1759394284) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#202](https://github.com/rancher-sandbox/rancher-turtles/pull/202) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#4575](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4575#issuecomment-1759280884) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
