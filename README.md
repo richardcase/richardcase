@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/richardcase/coding-challenges/pull/1) in [richardcase/coding-challenges](https://github.com/richardcase/coding-challenges)
-2. 💪 Opened PR [#1](https://github.com/richardcase/coding-challenges/pull/1) in [richardcase/coding-challenges](https://github.com/richardcase/coding-challenges)
-3. ❗ Opened issue [#215](https://github.com/rancher-sandbox/rancher-turtles/issues/215) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. ❗ Opened issue [#214](https://github.com/rancher-sandbox/rancher-turtles/issues/214) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#213](https://github.com/rancher-sandbox/rancher-turtles/issues/213) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 💪 Opened PR [#217](https://github.com/rancher-sandbox/rancher-turtles/pull/217) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#198](https://github.com/rancher-sandbox/rancher-turtles/issues/198#issuecomment-1768843469) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#198](https://github.com/rancher-sandbox/rancher-turtles/issues/198#issuecomment-1768841967) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#216](https://github.com/rancher-sandbox/rancher-turtles/issues/216) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🎉 Merged PR [#1](https://github.com/richardcase/coding-challenges/pull/1) in [richardcase/coding-challenges](https://github.com/richardcase/coding-challenges)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
