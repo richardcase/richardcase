@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310#issuecomment-1766201183) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-2. 🎉 Merged PR [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-3. ❗ Opened issue [#40](https://github.com/rancher/highlander/issues/40) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🎉 Merged PR [#204](https://github.com/rancher-sandbox/rancher-turtles/pull/204) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#4536](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4536#issuecomment-1764918730) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#208](https://github.com/rancher-sandbox/rancher-turtles/pull/208#issuecomment-1768276386) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🎉 Merged PR [#208](https://github.com/rancher-sandbox/rancher-turtles/pull/208) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310#issuecomment-1766201183) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
+4. 🎉 Merged PR [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
+5. ❗ Opened issue [#40](https://github.com/rancher/highlander/issues/40) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
