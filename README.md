@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/rancher-sandbox/rancher-turtles/pull/208#issuecomment-1768276386) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🎉 Merged PR [#208](https://github.com/rancher-sandbox/rancher-turtles/pull/208) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310#issuecomment-1766201183) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-4. 🎉 Merged PR [#310](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm/pull/310) in [weaveworks-liquidmetal/cluster-api-provider-microvm](https://github.com/weaveworks-liquidmetal/cluster-api-provider-microvm)
-5. ❗ Opened issue [#40](https://github.com/rancher/highlander/issues/40) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🎉 Merged PR [#1](https://github.com/richardcase/coding-challenges/pull/1) in [richardcase/coding-challenges](https://github.com/richardcase/coding-challenges)
+2. 💪 Opened PR [#1](https://github.com/richardcase/coding-challenges/pull/1) in [richardcase/coding-challenges](https://github.com/richardcase/coding-challenges)
+3. ❗ Opened issue [#215](https://github.com/rancher-sandbox/rancher-turtles/issues/215) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#214](https://github.com/rancher-sandbox/rancher-turtles/issues/214) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#213](https://github.com/rancher-sandbox/rancher-turtles/issues/213) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
