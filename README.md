@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/azure-janitor/pull/2) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
-2. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/azure-janitor/pull/1) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
-3. 🗣 Commented on [#1](https://github.com/rancher-sandbox/azure-janitor/pull/1#issuecomment-1770682540) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
-4. 💪 Opened PR [#217](https://github.com/rancher-sandbox/rancher-turtles/pull/217) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#198](https://github.com/rancher-sandbox/rancher-turtles/issues/198#issuecomment-1768843469) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🔒 Closed issue [#5](https://github.com/rancher-sandbox/azure-janitor/issues/5) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
+2. 🗣 Commented on [#5](https://github.com/rancher-sandbox/azure-janitor/issues/5#issuecomment-1771583547) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
+3. ❗ Opened issue [#5](https://github.com/rancher-sandbox/azure-janitor/issues/5) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
+4. 💪 Opened PR [#4](https://github.com/rancher-sandbox/azure-janitor/pull/4) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
+5. 💪 Opened PR [#3](https://github.com/rancher-sandbox/azure-janitor/pull/3) in [rancher-sandbox/azure-janitor](https://github.com/rancher-sandbox/azure-janitor)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
