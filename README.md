@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2763](https://github.com/withfig/fig/issues/2763#issuecomment-1788750148) in [withfig/fig](https://github.com/withfig/fig)
-2. 🗣 Commented on [#32](https://github.com/rancher/highlander/issues/32#issuecomment-1786990642) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🔒 Closed issue [#32](https://github.com/rancher/highlander/issues/32) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#1008](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1008#issuecomment-1786960210) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#1008](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1008#issuecomment-1786959730) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#4598](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4598#issuecomment-1790379709) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4598](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4598#issuecomment-1790379271) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#6055](https://github.com/kubernetes/k8s.io/pull/6055) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 💪 Opened PR [#4570](https://github.com/kubernetes/org/pull/4570) in [kubernetes/org](https://github.com/kubernetes/org)
+5. 💪 Opened PR [#31176](https://github.com/kubernetes/test-infra/pull/31176) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
