@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3149](https://github.com/rancher/charts/issues/3149) in [rancher/charts](https://github.com/rancher/charts)
-2. 🗣 Commented on [#251](https://github.com/rancher/aks-operator/issues/251#issuecomment-1790864898) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-3. 🗣 Commented on [#232](https://github.com/rancher-sandbox/rancher-turtles/pull/232#issuecomment-1790800356) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🎉 Merged PR [#247](https://github.com/rancher-sandbox/rancher-turtles/pull/247) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#944](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/944#issuecomment-1790654799) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. ❗ Opened issue [#3](https://github.com/rancher-sandbox/aws-janitor/issues/3) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
+2. ❗ Opened issue [#2](https://github.com/rancher-sandbox/aws-janitor/issues/2) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
+3. 🔒 Closed issue [#53](https://github.com/rancher-sandbox/rancher-turtles-docs/issues/53) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+4. 🎉 Merged PR [#54](https://github.com/rancher-sandbox/rancher-turtles-docs/pull/54) in [rancher-sandbox/rancher-turtles-docs](https://github.com/rancher-sandbox/rancher-turtles-docs)
+5. 💪 Opened PR [#1](https://github.com/rancher-sandbox/aws-janitor/pull/1) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
