@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/mikrolite/mikrolite/pull/17#issuecomment-1801395801) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-2. 💪 Opened PR [#17](https://github.com/mikrolite/mikrolite/pull/17) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-3. 🗣 Commented on [#16](https://github.com/mikrolite/mikrolite/pull/16#issuecomment-1801351700) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-4. 💪 Opened PR [#16](https://github.com/mikrolite/mikrolite/pull/16) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-5. 🗣 Commented on [#15](https://github.com/mikrolite/mikrolite/pull/15#issuecomment-1801268105) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+1. 🗣 Commented on [#19](https://github.com/mikrolite/mikrolite/pull/19#issuecomment-1802152829) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+2. 💪 Opened PR [#19](https://github.com/mikrolite/mikrolite/pull/19) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+3. 🗣 Commented on [#516](https://github.com/firecracker-microvm/firecracker-go-sdk/issues/516#issuecomment-1802126720) in [firecracker-microvm/firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk)
+4. 🎉 Merged PR [#18](https://github.com/mikrolite/mikrolite/pull/18) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+5. 🗣 Commented on [#18](https://github.com/mikrolite/mikrolite/pull/18#issuecomment-1801953877) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
