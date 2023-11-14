@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/mikrolite/mikrolite/pull/29#issuecomment-1809985990) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-2. 💪 Opened PR [#29](https://github.com/mikrolite/mikrolite/pull/29) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-3. 🗣 Commented on [#28](https://github.com/mikrolite/mikrolite/pull/28#issuecomment-1809985649) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-4. 💪 Opened PR [#28](https://github.com/mikrolite/mikrolite/pull/28) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
-5. 🎉 Merged PR [#27](https://github.com/mikrolite/mikrolite/pull/27) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+1. ❗ Opened issue [#41](https://github.com/mikrolite/mikrolite/issues/41) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+2. ❗ Opened issue [#40](https://github.com/mikrolite/mikrolite/issues/40) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+3. ❗ Opened issue [#39](https://github.com/mikrolite/mikrolite/issues/39) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+4. ❗ Opened issue [#38](https://github.com/mikrolite/mikrolite/issues/38) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+5. ❗ Opened issue [#37](https://github.com/mikrolite/mikrolite/issues/37) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
