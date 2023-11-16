@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/rancher-sandbox/rancher-turtles/pull/241) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🎉 Merged PR [#254](https://github.com/rancher-sandbox/rancher-turtles/pull/254) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🎉 Merged PR [#252](https://github.com/rancher-sandbox/rancher-turtles/pull/252) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#244](https://github.com/rancher-sandbox/rancher-turtles/pull/244#issuecomment-1813345943) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🎉 Merged PR [#257](https://github.com/rancher-sandbox/rancher-turtles/pull/257) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 💪 Opened PR [#199](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/199) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🗣 Commented on [#162](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/162#issuecomment-1814877945) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🗣 Commented on [#162](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/162#issuecomment-1814877434) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🔒 Closed issue [#162](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/162) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#4397](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4397#issuecomment-1814793280) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
