@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#269](https://github.com/rancher-sandbox/rancher-turtles/issues/269) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🎉 Merged PR [#270](https://github.com/rancher-sandbox/rancher-turtles/pull/270) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#4620](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4620#issuecomment-1818499058) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4627](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4627#issuecomment-1818496862) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4630](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4630#issuecomment-1818487868) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4645](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4645#issuecomment-1820405391) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4645](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4645#issuecomment-1820405092) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4642](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4642#issuecomment-1820396131) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4642](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4642#issuecomment-1820395433) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🔒 Closed issue [#269](https://github.com/rancher-sandbox/rancher-turtles/issues/269) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
