@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4645](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4645#issuecomment-1820405391) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4645](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4645#issuecomment-1820405092) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4642](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4642#issuecomment-1820396131) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4642](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4642#issuecomment-1820395433) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🔒 Closed issue [#269](https://github.com/rancher-sandbox/rancher-turtles/issues/269) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🔒 Closed issue [#2](https://github.com/rancher-sandbox/aws-janitor/issues/2) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
+2. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/aws-janitor/pull/1) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
+3. 🗣 Commented on [#1](https://github.com/rancher-sandbox/aws-janitor/pull/1#issuecomment-1820680162) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
+4. ❗ Opened issue [#275](https://github.com/rancher-sandbox/rancher-turtles/issues/275) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#274](https://github.com/rancher-sandbox/rancher-turtles/issues/274) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
