@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4569](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4569#issuecomment-1821130481) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🔒 Closed issue [#2](https://github.com/rancher-sandbox/aws-janitor/issues/2) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
-3. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/aws-janitor/pull/1) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
-4. 🗣 Commented on [#1](https://github.com/rancher-sandbox/aws-janitor/pull/1#issuecomment-1820680162) in [rancher-sandbox/aws-janitor](https://github.com/rancher-sandbox/aws-janitor)
-5. ❗ Opened issue [#275](https://github.com/rancher-sandbox/rancher-turtles/issues/275) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#186](https://github.com/rancher-sandbox/rancher-turtles/issues/186#issuecomment-1821579560) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#33](https://github.com/rancher/highlander/issues/33#issuecomment-1821577948) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🔒 Closed issue [#33](https://github.com/rancher/highlander/issues/33) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🗣 Commented on [#43](https://github.com/mikrolite/mikrolite/issues/43#issuecomment-1821575226) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+5. ❗ Opened issue [#43](https://github.com/mikrolite/mikrolite/issues/43) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
