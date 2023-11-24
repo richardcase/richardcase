@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6119](https://github.com/kubernetes/k8s.io/pull/6119) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 💪 Opened PR [#279](https://github.com/rancher-sandbox/rancher-turtles/pull/279) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#205](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/205#issuecomment-1822964090) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 💪 Opened PR [#4651](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4651) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#39](https://github.com/rancher/highlander/issues/39#issuecomment-1822291909) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🚀 Published release [v2.3.0](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/tag/v2.3.0) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#6119](https://github.com/kubernetes/k8s.io/pull/6119#issuecomment-1825581795) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 💪 Opened PR [#6119](https://github.com/kubernetes/k8s.io/pull/6119) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 💪 Opened PR [#279](https://github.com/rancher-sandbox/rancher-turtles/pull/279) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#205](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/205#issuecomment-1822964090) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
