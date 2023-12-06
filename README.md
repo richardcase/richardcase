@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/rancher-sandbox/rancher-turtles/issues/5#issuecomment-1840837602) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#298](https://github.com/rancher-sandbox/rancher-turtles/issues/298#issuecomment-1840557607) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. ❗ Opened issue [#298](https://github.com/rancher-sandbox/rancher-turtles/issues/298) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#42](https://github.com/rancher/highlander/issues/42#issuecomment-1840317594) in [rancher/highlander](https://github.com/rancher/highlander)
-5. 🗣 Commented on [#291](https://github.com/rancher-sandbox/rancher-turtles/pull/291#issuecomment-1838754062) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#72](https://github.com/rancher-sandbox/rancher-turtles/issues/72#issuecomment-1842723095) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 💪 Opened PR [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. ❗ Opened issue [#214](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/214) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#207](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/207) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#5](https://github.com/rancher-sandbox/rancher-turtles/issues/5#issuecomment-1840837602) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
