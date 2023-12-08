@@ -10,11 +10,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#214](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/214) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🎉 Merged PR [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. ❗ Opened issue [#216](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/216) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🗣 Commented on [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215#issuecomment-1845452344) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. 🗣 Commented on [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215#issuecomment-1845383854) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#8](https://github.com/linode/cluster-api-provider-linode/issues/8#issuecomment-1847507194) in [linode/cluster-api-provider-linode](https://github.com/linode/cluster-api-provider-linode)
+2. 🔒 Closed issue [#214](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/214) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🎉 Merged PR [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. ❗ Opened issue [#216](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/216) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#215](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/215#issuecomment-1845452344) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
