@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/weaveworks-liquidmetal/image-builder/issues/6) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
-2. 🚀 Published release [v2.2.5](https://github.com/kubernetes-sigs/cluster-api-provider-aws/releases/tag/v2.2.5) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#31176](https://github.com/kubernetes/test-infra/pull/31176#issuecomment-1866971629) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🗣 Commented on [#4710](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4710#issuecomment-1866697525) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4710](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4710#issuecomment-1866697265) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#223](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/223) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🎉 Merged PR [#219](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/219) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🎉 Merged PR [#218](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/218) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#228](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/228) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🔒 Closed issue [#6](https://github.com/weaveworks-liquidmetal/image-builder/issues/6) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
