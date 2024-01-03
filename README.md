@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43902](https://github.com/rancher/rancher/pull/43902) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#43902](https://github.com/rancher/rancher/pull/43902) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#43900](https://github.com/rancher/rancher/pull/43900) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#4649](https://github.com/kubernetes/org/issues/4649#issuecomment-1875182780) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 💪 Opened PR [#43897](https://github.com/rancher/rancher/pull/43897) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#4720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4720#issuecomment-1875643425) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4710](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4710#issuecomment-1875642393) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#43903](https://github.com/rancher/rancher/pull/43903) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❌ Closed PR [#43902](https://github.com/rancher/rancher/pull/43902) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#43902](https://github.com/rancher/rancher/pull/43902) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
