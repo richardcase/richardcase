@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#223](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/223) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🎉 Merged PR [#219](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/219) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. 🎉 Merged PR [#218](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/218) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🎉 Merged PR [#228](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/228) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. 🔒 Closed issue [#6](https://github.com/weaveworks-liquidmetal/image-builder/issues/6) in [weaveworks-liquidmetal/image-builder](https://github.com/weaveworks-liquidmetal/image-builder)
+1. 🗣 Commented on [#4649](https://github.com/kubernetes/org/issues/4649#issuecomment-1875182780) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 💪 Opened PR [#43897](https://github.com/rancher/rancher/pull/43897) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#1108](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1108#issuecomment-1875076345) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#4720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4720#issuecomment-1875074239) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4720](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4720#issuecomment-1875071380) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
