@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4700#issuecomment-1881549581) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/2) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
-3. ❗ Opened issue [#231](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/231) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🗣 Commented on [#187](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/187#issuecomment-1880775020) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. 🗣 Commented on [#230](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/230#issuecomment-1880774310) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🔒 Closed issue [#119](https://github.com/rancher-sandbox/rancher-turtles/issues/119) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🎉 Merged PR [#187](https://github.com/rancher-sandbox/rancher-turtles/pull/187) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#4700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4700#issuecomment-1881549581) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/2) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+5. ❗ Opened issue [#231](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/231) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
