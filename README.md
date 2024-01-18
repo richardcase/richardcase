@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/6) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
-2. 💪 Opened PR [#1](https://github.com/liquidmetal-dev/controller-pkg/pull/1) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-3. 💪 Opened PR [#6](https://github.com/liquidmetal-dev/flintlock/pull/6) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 🎉 Merged PR [#350](https://github.com/rancher-sandbox/rancher-turtles/pull/350) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🔒 Closed issue [#347](https://github.com/rancher-sandbox/rancher-turtles/issues/347) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. ❗ Opened issue [#242](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/242) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🎉 Merged PR [#240](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/240) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🗣 Commented on [#4619](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4619#issuecomment-1898071181) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4619](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4619#issuecomment-1898069928) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#6](https://github.com/liquidmetal-dev/microvm-operator/pull/6) in [liquidmetal-dev/microvm-operator](https://github.com/liquidmetal-dev/microvm-operator)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
