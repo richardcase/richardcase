@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4733](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4733#issuecomment-1904458820) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#128](https://github.com/inlets/inletsctl/pull/128) in [inlets/inletsctl](https://github.com/inlets/inletsctl)
-3. 🗣 Commented on [#4748](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4748#issuecomment-1900230550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#10023](https://github.com/kubernetes-sigs/cluster-api/issues/10023#issuecomment-1900162783) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. ❗ Opened issue [#54](https://github.com/rancher/highlander/issues/54) in [rancher/highlander](https://github.com/rancher/highlander)
+1. ❗ Opened issue [#55](https://github.com/rancher/highlander/issues/55) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#4733](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4733#issuecomment-1904458820) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#128](https://github.com/inlets/inletsctl/pull/128) in [inlets/inletsctl](https://github.com/inlets/inletsctl)
+4. 🗣 Commented on [#4748](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4748#issuecomment-1900230550) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#10023](https://github.com/kubernetes-sigs/cluster-api/issues/10023#issuecomment-1900162783) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
