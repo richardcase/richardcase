@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6321](https://github.com/kubernetes/k8s.io/issues/6321) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🎉 Merged PR [#57](https://github.com/rancher/highlander/pull/57) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 💪 Opened PR [#57](https://github.com/rancher/highlander/pull/57) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225#issuecomment-1907434580) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225#issuecomment-1907432487) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗ Opened issue [#336](https://github.com/rancher/eks-operator/issues/336) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. ❗ Opened issue [#6321](https://github.com/kubernetes/k8s.io/issues/6321) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 🎉 Merged PR [#57](https://github.com/rancher/highlander/pull/57) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 💪 Opened PR [#57](https://github.com/rancher/highlander/pull/57) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225#issuecomment-1907434580) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
