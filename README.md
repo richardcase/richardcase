@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#185](https://github.com/kubernetes-sigs/boskos/issues/185#issuecomment-1909812115) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-2. ❗ Opened issue [#185](https://github.com/kubernetes-sigs/boskos/issues/185) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-3. ❗ Opened issue [#336](https://github.com/rancher/eks-operator/issues/336) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. ❗ Opened issue [#6321](https://github.com/kubernetes/k8s.io/issues/6321) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🎉 Merged PR [#57](https://github.com/rancher/highlander/pull/57) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🚀 Published release [v0.1.0](https://github.com/liquidmetal-dev/controller-pkg/releases/tag/v0.1.0) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+2. 🎉 Merged PR [#2](https://github.com/liquidmetal-dev/controller-pkg/pull/2) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+3. 💪 Opened PR [#2](https://github.com/liquidmetal-dev/controller-pkg/pull/2) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+4. 🎉 Merged PR [#1](https://github.com/liquidmetal-dev/controller-pkg/pull/1) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+5. 🎉 Merged PR [#8](https://github.com/liquidmetal-dev/flintlock/pull/8) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
