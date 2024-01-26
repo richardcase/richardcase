@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#194](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/194) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🎉 Merged PR [#250](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/250) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. 🚀 Published release [v0.1.0](https://github.com/liquidmetal-dev/controller-pkg/releases/tag/v0.1.0) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-4. 🎉 Merged PR [#2](https://github.com/liquidmetal-dev/controller-pkg/pull/2) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-5. 💪 Opened PR [#2](https://github.com/liquidmetal-dev/controller-pkg/pull/2) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+1. 🎉 Merged PR [#59](https://github.com/rancher/highlander/pull/59) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 💪 Opened PR [#59](https://github.com/rancher/highlander/pull/59) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🔒 Closed issue [#194](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/194) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#250](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/250) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🚀 Published release [v0.1.0](https://github.com/liquidmetal-dev/controller-pkg/releases/tag/v0.1.0) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
