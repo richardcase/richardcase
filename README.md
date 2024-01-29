@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#367](https://github.com/rancher-sandbox/rancher-turtles/issues/367) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. ❗ Opened issue [#366](https://github.com/rancher-sandbox/rancher-turtles/issues/366) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. ❗ Opened issue [#365](https://github.com/rancher-sandbox/rancher-turtles/issues/365) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. ❗ Opened issue [#364](https://github.com/rancher-sandbox/rancher-turtles/issues/364) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#363](https://github.com/rancher-sandbox/rancher-turtles/issues/363) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#3](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/3) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+2. ❗ Opened issue [#367](https://github.com/rancher-sandbox/rancher-turtles/issues/367) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#366](https://github.com/rancher-sandbox/rancher-turtles/issues/366) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#365](https://github.com/rancher-sandbox/rancher-turtles/issues/365) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#364](https://github.com/rancher-sandbox/rancher-turtles/issues/364) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
