@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44245](https://github.com/rancher/rancher/issues/44245#issuecomment-1917695885) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#490](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/490#issuecomment-1917270748) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#490](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/490#issuecomment-1917252392) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🎉 Merged PR [#3](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/3) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
-5. ❗ Opened issue [#367](https://github.com/rancher-sandbox/rancher-turtles/issues/367) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#328](https://github.com/rancher-sandbox/rancher-turtles/pull/328#issuecomment-1918799228) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#356](https://github.com/rancher-sandbox/rancher-turtles/pull/356#issuecomment-1918795783) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#44245](https://github.com/rancher/rancher/issues/44245#issuecomment-1917695885) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#490](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/490#issuecomment-1917270748) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#490](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/issues/490#issuecomment-1917252392) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
