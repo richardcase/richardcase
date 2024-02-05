@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1104](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1104#issuecomment-1925735197) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#1120](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1120#issuecomment-1925734965) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1925730256) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4743](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4743#issuecomment-1925729834) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4700#issuecomment-1925729362) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#336](https://github.com/rancher/eks-operator/issues/336#issuecomment-1926734609) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. ❗ Opened issue [#374](https://github.com/rancher-sandbox/rancher-turtles/issues/374) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#369](https://github.com/rancher-sandbox/rancher-turtles/issues/369#issuecomment-1926678081) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#373](https://github.com/rancher-sandbox/rancher-turtles/issues/373) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#371](https://github.com/rancher-sandbox/rancher-turtles/issues/371) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
