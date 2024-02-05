@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/rancher/eks-operator/issues/336#issuecomment-1926734609) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. ❗ Opened issue [#374](https://github.com/rancher-sandbox/rancher-turtles/issues/374) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#369](https://github.com/rancher-sandbox/rancher-turtles/issues/369#issuecomment-1926678081) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. ❗ Opened issue [#373](https://github.com/rancher-sandbox/rancher-turtles/issues/373) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. ❗ Opened issue [#371](https://github.com/rancher-sandbox/rancher-turtles/issues/371) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🎉 Merged PR [#372](https://github.com/rancher-sandbox/rancher-turtles/pull/372) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#336](https://github.com/rancher/eks-operator/issues/336#issuecomment-1926734609) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. ❗ Opened issue [#374](https://github.com/rancher-sandbox/rancher-turtles/issues/374) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🗣 Commented on [#369](https://github.com/rancher-sandbox/rancher-turtles/issues/369#issuecomment-1926678081) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#373](https://github.com/rancher-sandbox/rancher-turtles/issues/373) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
