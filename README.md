@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4750](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4750#issuecomment-1927527890) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#10098](https://github.com/kubernetes-sigs/cluster-api/issues/10098#issuecomment-1927377605) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🎉 Merged PR [#372](https://github.com/rancher-sandbox/rancher-turtles/pull/372) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. 🗣 Commented on [#336](https://github.com/rancher/eks-operator/issues/336#issuecomment-1926734609) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-5. ❗ Opened issue [#374](https://github.com/rancher-sandbox/rancher-turtles/issues/374) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+1. 🗣 Commented on [#1131](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1131#issuecomment-1929265376) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#72](https://github.com/rancher-sandbox/rancher-turtles/issues/72#issuecomment-1929256274) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#35](https://github.com/rancher/capi-ui-extension/issues/35) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+4. 🗣 Commented on [#4750](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4750#issuecomment-1927527890) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#10098](https://github.com/kubernetes-sigs/cluster-api/issues/10098#issuecomment-1927377605) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
