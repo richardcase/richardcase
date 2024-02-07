@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5010](https://github.com/kubernetes/k8s.io/issues/5010#issuecomment-1932265140) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 🗣 Commented on [#4438](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4438#issuecomment-1931532308) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4438](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4438#issuecomment-1931531240) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4779](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4779#issuecomment-1931529996) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4779](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4779#issuecomment-1931529378) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#90](https://github.com/k3s-io/cluster-api-k3s/pull/90) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 🗣 Commented on [#256](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/256#issuecomment-1932359129) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🎉 Merged PR [#244](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/244) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#247](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/247) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#5010](https://github.com/kubernetes/k8s.io/issues/5010#issuecomment-1932265140) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
