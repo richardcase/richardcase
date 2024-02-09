@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1935404880) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. 🗣 Commented on [#4744](https://github.com/kubernetes/org/issues/4744#issuecomment-1934478417) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#4438](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4438#issuecomment-1934427505) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#61](https://github.com/rancher/highlander/issues/61#issuecomment-1934291084) in [rancher/highlander](https://github.com/rancher/highlander)
-5. ❗ Opened issue [#61](https://github.com/rancher/highlander/issues/61) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#130](https://github.com/inlets/inletsctl/pull/130#issuecomment-1935602465) in [inlets/inletsctl](https://github.com/inlets/inletsctl)
+2. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1935533386) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+3. 🗣 Commented on [#3770](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3770#issuecomment-1935532333) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1935404880) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+5. 🗣 Commented on [#4744](https://github.com/kubernetes/org/issues/4744#issuecomment-1934478417) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
