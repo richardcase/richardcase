@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/inlets/inletsctl/pull/130#issuecomment-1935602465) in [inlets/inletsctl](https://github.com/inlets/inletsctl)
-2. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1935533386) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-3. 🗣 Commented on [#3770](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3770#issuecomment-1935532333) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1935404880) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. 🗣 Commented on [#4744](https://github.com/kubernetes/org/issues/4744#issuecomment-1934478417) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#376](https://github.com/rancher-sandbox/rancher-turtles/issues/376#issuecomment-1941124563) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+2. 🗣 Commented on [#376](https://github.com/rancher-sandbox/rancher-turtles/issues/376#issuecomment-1941112504) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. ❗ Opened issue [#382](https://github.com/rancher-sandbox/rancher-turtles/issues/382) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. ❗ Opened issue [#381](https://github.com/rancher-sandbox/rancher-turtles/issues/381) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. 🗣 Commented on [#130](https://github.com/inlets/inletsctl/pull/130#issuecomment-1935602465) in [inlets/inletsctl](https://github.com/inlets/inletsctl)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
