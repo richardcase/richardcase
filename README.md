@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/k3s-io/cluster-api-k3s/pull/93) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-2. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1945581055) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1945580426) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1945580244) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1945580014) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#259](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/259) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🎉 Merged PR [#262](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/262) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 🗣 Commented on [#225](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/225#issuecomment-1946377568) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#246](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/246) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🎉 Merged PR [#264](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/264) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
