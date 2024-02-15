@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/259) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-2. 🎉 Merged PR [#262](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/262) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-3. 🗣 Commented on [#225](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/225#issuecomment-1946377568) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🎉 Merged PR [#246](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/246) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. 🎉 Merged PR [#264](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/264) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🗣 Commented on [#4570](https://github.com/kubernetes/org/pull/4570#issuecomment-1946505331) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🗣 Commented on [#4790](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4790#issuecomment-1946446801) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#259](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/259) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🎉 Merged PR [#262](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/262) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#225](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/225#issuecomment-1946377568) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
