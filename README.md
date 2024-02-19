@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#386](https://github.com/rancher-sandbox/rancher-turtles/issues/386#issuecomment-1948873452) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. 🗣 Commented on [#4637](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4637#issuecomment-1948616473) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#386](https://github.com/rancher-sandbox/rancher-turtles/issues/386#issuecomment-1948612199) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-4. ❗ Opened issue [#386](https://github.com/rancher-sandbox/rancher-turtles/issues/386) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-5. 🗣 Commented on [#61](https://github.com/rancher/highlander/issues/61#issuecomment-1948018948) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🎉 Merged PR [#267](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/267) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🗣 Commented on [#242](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/242#issuecomment-1952194522) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+3. 💪 Opened PR [#267](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/267) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 🗣 Commented on [#242](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/242#issuecomment-1952172289) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+5. 🗣 Commented on [#10170](https://github.com/kubernetes-sigs/cluster-api/pull/10170#issuecomment-1952171165) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
