@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#388](https://github.com/rancher-sandbox/rancher-turtles/issues/388) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-2. ❗ Opened issue [#387](https://github.com/rancher-sandbox/rancher-turtles/issues/387) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
-3. 🗣 Commented on [#4791](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4791#issuecomment-1953165395) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6443](https://github.com/kubernetes/k8s.io/pull/6443#issuecomment-1952948126) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🗣 Commented on [#6443](https://github.com/kubernetes/k8s.io/pull/6443#issuecomment-1952947802) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+1. 🗣 Commented on [#47](https://github.com/rancher/highlander/issues/47#issuecomment-1953876052) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#47](https://github.com/rancher/highlander/issues/47#issuecomment-1953871379) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🗣 Commented on [#47](https://github.com/rancher/highlander/issues/47#issuecomment-1953771649) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🗣 Commented on [#386](https://github.com/rancher-sandbox/rancher-turtles/issues/386#issuecomment-1953679034) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+5. ❗ Opened issue [#389](https://github.com/rancher-sandbox/rancher-turtles/issues/389) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
