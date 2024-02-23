@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6459](https://github.com/kubernetes/k8s.io/pull/6459#issuecomment-1960050568) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-2. 💪 Opened PR [#6459](https://github.com/kubernetes/k8s.io/pull/6459) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#4810](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4810#issuecomment-1959874617) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 💪 Opened PR [#4810](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4810) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4809](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4809#issuecomment-1959604772) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4813](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4813#issuecomment-1961519913) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#395](https://github.com/rancher-sandbox/rancher-turtles/pull/395) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-1961454708) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3166](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3166#issuecomment-1961453310) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#4814](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4814) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
