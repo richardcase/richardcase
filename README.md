@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4812](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4812#issuecomment-1961688166) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4812](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4812#issuecomment-1961685974) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4814](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4814#issuecomment-1961603161) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4813](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4813#issuecomment-1961602272) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4813](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4813#issuecomment-1961519913) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1024](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1024#issuecomment-1963746105) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🔒 Closed issue [#386](https://github.com/rancher-sandbox/rancher-turtles/issues/386) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+3. 🎉 Merged PR [#390](https://github.com/rancher-sandbox/rancher-turtles/pull/390) in [rancher-sandbox/rancher-turtles](https://github.com/rancher-sandbox/rancher-turtles)
+4. 🗣 Commented on [#4812](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4812#issuecomment-1961688166) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4812](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4812#issuecomment-1961685974) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
