@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/rancher/turtles/pull/433#issuecomment-1999350664) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🎉 Merged PR [#74](https://github.com/rancher/highlander/pull/74) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🗣 Commented on [#74](https://github.com/rancher/highlander/pull/74#issuecomment-1999306960) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1999196152) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. 🗣 Commented on [#10119](https://github.com/kubernetes-sigs/cluster-api/pull/10119#issuecomment-1999188530) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 💪 Opened PR [#434](https://github.com/rancher/turtles/pull/434) in [rancher/turtles](https://github.com/rancher/turtles)
+2. 🗣 Commented on [#433](https://github.com/rancher/turtles/pull/433#issuecomment-1999350664) in [rancher/turtles](https://github.com/rancher/turtles)
+3. 🎉 Merged PR [#74](https://github.com/rancher/highlander/pull/74) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🗣 Commented on [#74](https://github.com/rancher/highlander/pull/74#issuecomment-1999306960) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 🗣 Commented on [#934](https://github.com/kubernetes-sigs/image-builder/pull/934#issuecomment-1999196152) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
