@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#382](https://github.com/rancher/turtles/issues/382#issuecomment-2006860704) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🗣 Commented on [#65](https://github.com/rancher/highlander/issues/65#issuecomment-2006847283) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🔒 Closed issue [#65](https://github.com/rancher/highlander/issues/65) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 🎉 Merged PR [#286](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/286) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-5. 💪 Opened PR [#286](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/286) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+1. 🎉 Merged PR [#432](https://github.com/rancher/turtles/pull/432) in [rancher/turtles](https://github.com/rancher/turtles)
+2. 🗣 Commented on [#71](https://github.com/rancher/turtles-docs/issues/71#issuecomment-2009091493) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
+3. 🗣 Commented on [#72](https://github.com/rancher/turtles-docs/issues/72#issuecomment-2009081936) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
+4. 🗣 Commented on [#382](https://github.com/rancher/turtles/issues/382#issuecomment-2006860704) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🗣 Commented on [#65](https://github.com/rancher/highlander/issues/65#issuecomment-2006847283) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
