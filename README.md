@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#432](https://github.com/rancher/turtles/pull/432) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🗣 Commented on [#71](https://github.com/rancher/turtles-docs/issues/71#issuecomment-2009091493) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
-3. 🗣 Commented on [#72](https://github.com/rancher/turtles-docs/issues/72#issuecomment-2009081936) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
-4. 🗣 Commented on [#382](https://github.com/rancher/turtles/issues/382#issuecomment-2006860704) in [rancher/turtles](https://github.com/rancher/turtles)
-5. 🗣 Commented on [#65](https://github.com/rancher/highlander/issues/65#issuecomment-2006847283) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#36](https://github.com/rancher/capi-ui-extension/issues/36#issuecomment-2010014030) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+2. 🔒 Closed issue [#36](https://github.com/rancher/capi-ui-extension/issues/36) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+3. 🗣 Commented on [#35](https://github.com/rancher/capi-ui-extension/issues/35#issuecomment-2010013719) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+4. 🔒 Closed issue [#35](https://github.com/rancher/capi-ui-extension/issues/35) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+5. 🎉 Merged PR [#432](https://github.com/rancher/turtles/pull/432) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
