@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/rancher/capi-ui-extension/issues/36#issuecomment-2010014030) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-2. 🔒 Closed issue [#36](https://github.com/rancher/capi-ui-extension/issues/36) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-3. 🗣 Commented on [#35](https://github.com/rancher/capi-ui-extension/issues/35#issuecomment-2010013719) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-4. 🔒 Closed issue [#35](https://github.com/rancher/capi-ui-extension/issues/35) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-5. 🎉 Merged PR [#432](https://github.com/rancher/turtles/pull/432) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🎉 Merged PR [#4](https://github.com/rancher-sandbox/rancher-turtles-fleet-example/pull/4) in [rancher-sandbox/rancher-turtles-fleet-example](https://github.com/rancher-sandbox/rancher-turtles-fleet-example)
+2. 🗣 Commented on [#36](https://github.com/rancher/capi-ui-extension/issues/36#issuecomment-2010014030) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+3. 🔒 Closed issue [#36](https://github.com/rancher/capi-ui-extension/issues/36) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+4. 🗣 Commented on [#35](https://github.com/rancher/capi-ui-extension/issues/35#issuecomment-2010013719) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+5. 🔒 Closed issue [#35](https://github.com/rancher/capi-ui-extension/issues/35) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
