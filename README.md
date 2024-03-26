@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562#issuecomment-2018431469) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562#issuecomment-2018430983) in [kubernetes/org](https://github.com/kubernetes/org)
-3. 🗣 Commented on [#655](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/655#issuecomment-2015172490) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#71](https://github.com/rancher/turtles-docs/issues/71#issuecomment-2013098847) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
-5. 🗣 Commented on [#95](https://github.com/k3s-io/cluster-api-k3s/pull/95#issuecomment-2012823332) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+1. ❗ Opened issue [#76](https://github.com/rancher/highlander/issues/76) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562#issuecomment-2018431469) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562#issuecomment-2018430983) in [kubernetes/org](https://github.com/kubernetes/org)
+4. 🗣 Commented on [#655](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/655#issuecomment-2015172490) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#71](https://github.com/rancher/turtles-docs/issues/71#issuecomment-2013098847) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
