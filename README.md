@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020717711) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 💪 Opened PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
-4. 🗣 Commented on [#394](https://github.com/rancher/turtles/pull/394#issuecomment-2020449941) in [rancher/turtles](https://github.com/rancher/turtles)
-5. ❗ Opened issue [#76](https://github.com/rancher/highlander/issues/76) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020832987) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020717711) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
+4. 💪 Opened PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🗣 Commented on [#394](https://github.com/rancher/turtles/pull/394#issuecomment-2020449941) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
