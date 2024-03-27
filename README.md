@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10119](https://github.com/kubernetes-sigs/cluster-api/pull/10119#issuecomment-2022188072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#41724](https://github.com/rancher/rancher/issues/41724#issuecomment-2022184532) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#1134](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1134#issuecomment-2022168220) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#1154](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1154#issuecomment-2022167397) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#1163](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1163#issuecomment-2022166919) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#4896](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4896#issuecomment-2022647290) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4896](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4896#issuecomment-2022646501) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4748](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4748#issuecomment-2022628013) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#10119](https://github.com/kubernetes-sigs/cluster-api/pull/10119#issuecomment-2022188072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#41724](https://github.com/rancher/rancher/issues/41724#issuecomment-2022184532) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
