@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020832987) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020717711) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
-4. 💪 Opened PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
-5. 🗣 Commented on [#394](https://github.com/rancher/turtles/pull/394#issuecomment-2020449941) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-2022156601) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-2022155582) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020832987) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020717711) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
