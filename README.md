@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-2022156601) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#961](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/961#issuecomment-2022155582) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020832987) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#44929](https://github.com/rancher/rancher/issues/44929#issuecomment-2020717711) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#447](https://github.com/rancher/turtles/pull/447) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🗣 Commented on [#10119](https://github.com/kubernetes-sigs/cluster-api/pull/10119#issuecomment-2022188072) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#41724](https://github.com/rancher/rancher/issues/41724#issuecomment-2022184532) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#1134](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1134#issuecomment-2022168220) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#1154](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1154#issuecomment-2022167397) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#1163](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1163#issuecomment-2022166919) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
