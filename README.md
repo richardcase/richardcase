@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#455](https://github.com/rancher/turtles/issues/455#issuecomment-2031202240) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🗣 Commented on [#455](https://github.com/rancher/turtles/issues/455#issuecomment-2025556176) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🗣 Commented on [#455](https://github.com/rancher/turtles/issues/455#issuecomment-2025500534) in [rancher/turtles](https://github.com/rancher/turtles)
-4. ❗ Opened issue [#455](https://github.com/rancher/turtles/issues/455) in [rancher/turtles](https://github.com/rancher/turtles)
-5. ❗ Opened issue [#453](https://github.com/rancher/turtles/issues/453) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🗣 Commented on [#69](https://github.com/rancher/turtles-docs/pull/69#issuecomment-2031853258) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
+2. 🔒 Closed issue [#73](https://github.com/rancher/turtles-docs/issues/73) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
+3. 🎉 Merged PR [#75](https://github.com/rancher/turtles-docs/pull/75) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
+4. 🎉 Merged PR [#452](https://github.com/rancher/turtles/pull/452) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🗣 Commented on [#77](https://github.com/rancher/turtles-docs/pull/77#issuecomment-2031727587) in [rancher/turtles-docs](https://github.com/rancher/turtles-docs)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
