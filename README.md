@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#463](https://github.com/rancher/turtles/pull/463) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 💪 Opened PR [#463](https://github.com/rancher/turtles/pull/463) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🗣 Commented on [#297](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/297#issuecomment-2034438935) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 🔒 Closed issue [#451](https://github.com/rancher/turtles/issues/451) in [rancher/turtles](https://github.com/rancher/turtles)
-5. 🎉 Merged PR [#454](https://github.com/rancher/turtles/pull/454) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🔒 Closed issue [#462](https://github.com/rancher/turtles/issues/462) in [rancher/turtles](https://github.com/rancher/turtles)
+2. 🎉 Merged PR [#464](https://github.com/rancher/turtles/pull/464) in [rancher/turtles](https://github.com/rancher/turtles)
+3. 🗣 Commented on [#4879](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4879#issuecomment-2036881994) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4892#issuecomment-2036878597) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#4892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4892#issuecomment-2036876252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
