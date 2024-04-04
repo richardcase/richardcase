@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#462](https://github.com/rancher/turtles/issues/462) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🎉 Merged PR [#464](https://github.com/rancher/turtles/pull/464) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🗣 Commented on [#4879](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4879#issuecomment-2036881994) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4892#issuecomment-2036878597) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4892](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4892#issuecomment-2036876252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#364](https://github.com/rancher/turtles/issues/364#issuecomment-2037294555) in [rancher/turtles](https://github.com/rancher/turtles)
+2. 🗣 Commented on [#416](https://github.com/rancher/turtles/issues/416#issuecomment-2037289085) in [rancher/turtles](https://github.com/rancher/turtles)
+3. 🔒 Closed issue [#416](https://github.com/rancher/turtles/issues/416) in [rancher/turtles](https://github.com/rancher/turtles)
+4. 🗣 Commented on [#453](https://github.com/rancher/turtles/issues/453#issuecomment-2037286783) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🔒 Closed issue [#453](https://github.com/rancher/turtles/issues/453) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
