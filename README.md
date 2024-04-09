@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#461](https://github.com/rancher/turtles/issues/461) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🎉 Merged PR [#460](https://github.com/rancher/turtles/pull/460) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🗣 Commented on [#460](https://github.com/rancher/turtles/pull/460#issuecomment-2042900946) in [rancher/turtles](https://github.com/rancher/turtles)
-4. 🗣 Commented on [#32399](https://github.com/kubernetes/test-infra/pull/32399#issuecomment-2042773456) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-5. 💪 Opened PR [#32399](https://github.com/kubernetes/test-infra/pull/32399) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#4901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4901#issuecomment-2045225094) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🔒 Closed issue [#461](https://github.com/rancher/turtles/issues/461) in [rancher/turtles](https://github.com/rancher/turtles)
+3. 🎉 Merged PR [#460](https://github.com/rancher/turtles/pull/460) in [rancher/turtles](https://github.com/rancher/turtles)
+4. 🗣 Commented on [#460](https://github.com/rancher/turtles/pull/460#issuecomment-2042900946) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🗣 Commented on [#32399](https://github.com/kubernetes/test-infra/pull/32399#issuecomment-2042773456) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
