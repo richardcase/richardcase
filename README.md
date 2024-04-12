@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/1) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 💪 Opened PR [#1](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/1) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. 🗣 Commented on [#4921](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4921#issuecomment-2049801355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4877](https://github.com/kubernetes/org/issues/4877#issuecomment-2049736036) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 💪 Opened PR [#32428](https://github.com/kubernetes/test-infra/pull/32428) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#4808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4808#issuecomment-2051327215) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4748](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4748#issuecomment-2051319627) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/1) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 💪 Opened PR [#1](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/1) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. 🗣 Commented on [#4921](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4921#issuecomment-2049801355) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
