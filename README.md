@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/2) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 💪 Opened PR [#2](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/2) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. 🗣 Commented on [#4808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4808#issuecomment-2051327215) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4748](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4748#issuecomment-2051319627) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#1](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/1) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+1. 🎉 Merged PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+2. 🎉 Merged PR [#3](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/3) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. 💪 Opened PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 🗣 Commented on [#472](https://github.com/rancher/turtles/issues/472#issuecomment-2056666084) in [rancher/turtles](https://github.com/rancher/turtles)
+5. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/2) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
