@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 🎉 Merged PR [#3](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/3) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. 💪 Opened PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-4. 🗣 Commented on [#472](https://github.com/rancher/turtles/issues/472#issuecomment-2056666084) in [rancher/turtles](https://github.com/rancher/turtles)
-5. 🎉 Merged PR [#2](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/2) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+1. 🗣 Commented on [#1193](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1193#issuecomment-2061717133) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🎉 Merged PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. 🎉 Merged PR [#3](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/3) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 💪 Opened PR [#4](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/4) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. 🗣 Commented on [#472](https://github.com/rancher/turtles/issues/472#issuecomment-2056666084) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
