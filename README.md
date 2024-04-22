@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4184](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4184#issuecomment-2069879670) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#3853](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3853#issuecomment-2069878588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#301](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/301#issuecomment-2069873595) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
-4. 💪 Opened PR [#13](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/13) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-5. 🗣 Commented on [#832](https://github.com/weaveworks-liquidmetal/flintlock/issues/832#issuecomment-2069693293) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. 🎉 Merged PR [#13](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/13) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+2. 🗣 Commented on [#4397](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4397#issuecomment-2069957850) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4397](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4397#issuecomment-2069955245) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#4184](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4184#issuecomment-2069879670) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3853](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3853#issuecomment-2069878588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
