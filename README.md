@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#493](https://github.com/rancher/turtles/issues/493) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🗣 Commented on [#4882](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4882#issuecomment-2068931197) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#4882](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4882#issuecomment-2068914894) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4900](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4900#issuecomment-2068895405) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2420](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2420#issuecomment-2066234584) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4184](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4184#issuecomment-2069879670) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3853](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3853#issuecomment-2069878588) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#301](https://github.com/rancher-sandbox/cluster-api-provider-rke2/pull/301#issuecomment-2069873595) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+4. 💪 Opened PR [#13](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/13) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. 🗣 Commented on [#832](https://github.com/weaveworks-liquidmetal/flintlock/issues/832#issuecomment-2069693293) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
