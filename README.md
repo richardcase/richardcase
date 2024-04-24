@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4901#issuecomment-2074526904) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21#issuecomment-2074442845) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. ❗ Opened issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-4. 🎉 Merged PR [#19](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/19) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-5. 💪 Opened PR [#81](https://github.com/rancher/highlander/pull/81) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#4948](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4948#issuecomment-2075462776) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4901#issuecomment-2074526904) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21#issuecomment-2074442845) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. ❗ Opened issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. 🎉 Merged PR [#19](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/19) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
