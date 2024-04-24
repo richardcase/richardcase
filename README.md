@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/19) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 💪 Opened PR [#81](https://github.com/rancher/highlander/pull/81) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🗣 Commented on [#4901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4901#issuecomment-2072345154) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4918](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4918#issuecomment-2072342285) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4918](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4918#issuecomment-2072336193) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#4901](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4901#issuecomment-2074526904) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21#issuecomment-2074442845) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. ❗ Opened issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 🎉 Merged PR [#19](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/19) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. 💪 Opened PR [#81](https://github.com/rancher/highlander/pull/81) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
