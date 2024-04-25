@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#512](https://github.com/rancher/turtles/pull/512) in [rancher/turtles](https://github.com/rancher/turtles)
-2. 🗣 Commented on [#512](https://github.com/rancher/turtles/pull/512#issuecomment-2076869786) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 💪 Opened PR [#512](https://github.com/rancher/turtles/pull/512) in [rancher/turtles](https://github.com/rancher/turtles)
-4. 🎉 Merged PR [#511](https://github.com/rancher/turtles/pull/511) in [rancher/turtles](https://github.com/rancher/turtles)
-5. 💪 Opened PR [#511](https://github.com/rancher/turtles/pull/511) in [rancher/turtles](https://github.com/rancher/turtles)
+1. 🔒 Closed issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+2. 🎉 Merged PR [#22](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/22) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. 💪 Opened PR [#24](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/24) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. ❗ Opened issue [#23](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/23) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. ❗ Opened issue [#82](https://github.com/rancher/highlander/issues/82) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
