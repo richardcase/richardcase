@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 🎉 Merged PR [#22](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/22) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. 💪 Opened PR [#24](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/24) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-4. ❗ Opened issue [#23](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/23) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-5. ❗ Opened issue [#82](https://github.com/rancher/highlander/issues/82) in [rancher/highlander](https://github.com/rancher/highlander)
+1. ❗ Opened issue [#308](https://github.com/rancher-sandbox/cluster-api-provider-rke2/issues/308) in [rancher-sandbox/cluster-api-provider-rke2](https://github.com/rancher-sandbox/cluster-api-provider-rke2)
+2. 🔒 Closed issue [#21](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/21) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. 🎉 Merged PR [#22](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/22) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 💪 Opened PR [#24](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/24) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. ❗ Opened issue [#23](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/issues/23) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
