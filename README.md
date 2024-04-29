@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4960](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4960#issuecomment-2082168248) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#6771](https://github.com/kubernetes/k8s.io/pull/6771#issuecomment-2082065582) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#4954](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4954#issuecomment-2079868547) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#4957](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4957#issuecomment-2079699047) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#4955](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4955#issuecomment-2079692575) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🔒 Closed issue [#2](https://github.com/richardcase/roadmapexamples/issues/2) in [richardcase/roadmapexamples](https://github.com/richardcase/roadmapexamples)
+2. ❗ Opened issue [#5](https://github.com/richardcase/roadmapexamples/issues/5) in [richardcase/roadmapexamples](https://github.com/richardcase/roadmapexamples)
+3. ❗ Opened issue [#4](https://github.com/richardcase/roadmapexamples/issues/4) in [richardcase/roadmapexamples](https://github.com/richardcase/roadmapexamples)
+4. ❗ Opened issue [#3](https://github.com/richardcase/roadmapexamples/issues/3) in [richardcase/roadmapexamples](https://github.com/richardcase/roadmapexamples)
+5. ❗ Opened issue [#2](https://github.com/richardcase/roadmapexamples/issues/2) in [richardcase/roadmapexamples](https://github.com/richardcase/roadmapexamples)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
