@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/rancher/highlander/issues/84#issuecomment-2092698324) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 🗣 Commented on [#504](https://github.com/rancher/turtles/issues/504#issuecomment-2092539739) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🔒 Closed issue [#504](https://github.com/rancher/turtles/issues/504) in [rancher/turtles](https://github.com/rancher/turtles)
-4. 🗣 Commented on [#70](https://github.com/rancher/highlander/issues/70#issuecomment-2092533258) in [rancher/highlander](https://github.com/rancher/highlander)
-5. 🔒 Closed issue [#70](https://github.com/rancher/highlander/issues/70) in [rancher/highlander](https://github.com/rancher/highlander)
+1. 🗣 Commented on [#1186](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1186#issuecomment-2098157162) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#1186](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1186#issuecomment-2098154630) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. ❗ Opened issue [#86](https://github.com/rancher/highlander/issues/86) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 🗣 Commented on [#84](https://github.com/rancher/highlander/issues/84#issuecomment-2092698324) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 🗣 Commented on [#504](https://github.com/rancher/turtles/issues/504#issuecomment-2092539739) in [rancher/turtles](https://github.com/rancher/turtles)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
