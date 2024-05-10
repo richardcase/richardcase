@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/rancher/highlander/pull/88) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 💪 Opened PR [#88](https://github.com/rancher/highlander/pull/88) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🗣 Commented on [#1225](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1225#issuecomment-2098397960) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#1225](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1225#issuecomment-2098379893) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#1186](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1186#issuecomment-2098157162) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. ❗ Opened issue [#61](https://github.com/rancher/capi-ui-extension/issues/61) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+2. ❗ Opened issue [#60](https://github.com/rancher/capi-ui-extension/issues/60) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+3. ❗ Opened issue [#59](https://github.com/rancher/capi-ui-extension/issues/59) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+4. 🎉 Merged PR [#88](https://github.com/rancher/highlander/pull/88) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 💪 Opened PR [#88](https://github.com/rancher/highlander/pull/88) in [rancher/highlander](https://github.com/rancher/highlander)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
