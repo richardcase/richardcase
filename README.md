@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 💪 Opened PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-3. ❗ Opened issue [#61](https://github.com/rancher/capi-ui-extension/issues/61) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-4. ❗ Opened issue [#60](https://github.com/rancher/capi-ui-extension/issues/60) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-5. ❗ Opened issue [#59](https://github.com/rancher/capi-ui-extension/issues/59) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+1. 🎉 Merged PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
+2. 💪 Opened PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
+3. 🎉 Merged PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+4. 💪 Opened PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+5. ❗ Opened issue [#61](https://github.com/rancher/capi-ui-extension/issues/61) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
