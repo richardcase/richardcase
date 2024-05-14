@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
-2. 💪 Opened PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
-3. 🎉 Merged PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-4. 💪 Opened PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-5. ❗ Opened issue [#61](https://github.com/rancher/capi-ui-extension/issues/61) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+1. 🗣 Commented on [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981#issuecomment-2110497121) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
+4. 💪 Opened PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
+5. 🎉 Merged PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
