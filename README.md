@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981#issuecomment-2110497121) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
-4. 💪 Opened PR [#90](https://github.com/rancher/highlander/pull/90) in [rancher/highlander](https://github.com/rancher/highlander)
-5. 🎉 Merged PR [#29](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/29) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+1. 🗣 Commented on [#61](https://github.com/rancher/capi-ui-extension/issues/61#issuecomment-2112558841) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+2. 🗣 Commented on [#1236](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1236#issuecomment-2112551927) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. ❗ Opened issue [#115](https://github.com/k3s-io/cluster-api-k3s/issues/115) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🗣 Commented on [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981#issuecomment-2110497121) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#4981](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/4981) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
