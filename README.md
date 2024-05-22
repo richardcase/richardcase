@@ -12,11 +12,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/31) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
-2. 💪 Opened PR [#538](https://github.com/rancher/turtles/pull/538) in [rancher/turtles](https://github.com/rancher/turtles)
-3. 🗣 Commented on [#61](https://github.com/rancher/capi-ui-extension/issues/61#issuecomment-2112558841) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
-4. 🗣 Commented on [#1236](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1236#issuecomment-2112551927) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. ❗ Opened issue [#115](https://github.com/k3s-io/cluster-api-k3s/issues/115) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+1. 🗣 Commented on [#10658](https://github.com/kubernetes-sigs/cluster-api/pull/10658#issuecomment-2125042997) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🎉 Merged PR [#31](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet/pull/31) in [rancher-sandbox/cluster-api-addon-provider-fleet](https://github.com/rancher-sandbox/cluster-api-addon-provider-fleet)
+3. 💪 Opened PR [#538](https://github.com/rancher/turtles/pull/538) in [rancher/turtles](https://github.com/rancher/turtles)
+4. 🗣 Commented on [#61](https://github.com/rancher/capi-ui-extension/issues/61#issuecomment-2112558841) in [rancher/capi-ui-extension](https://github.com/rancher/capi-ui-extension)
+5. 🗣 Commented on [#1236](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1236#issuecomment-2112551927) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
