@@ -2,7 +2,8 @@
 
 <h3 align="left">Software Engineer ✨ Cluster API & OSS Contributor ✨ Geek ✨ Architect ✨ Retro Gaming Addict ✨ Lego Fan ✨</h3>
 
-- 🔭 I’m currently working at [SUSE](https://www.suse.com/) as a Principal Engineer
+- 🔭 I’m currently working as a Principal Engineer
+- 📯 I created **Liquid Metal** whilst at Weaveworks. Originally [here](https://github.com/weaveworks-liquidmetal) but now moved [here](https://github.com/liquidmetal-dev).
 - 👯 I’m a maintainer of:
   -  [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
   -  [Cluster API Provider GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
