@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-2208699077) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-2208697969) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3166](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3166#issuecomment-2208697294) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2208696732) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🗣 Commented on [#832](https://github.com/weaveworks-liquidmetal/flintlock/issues/832#issuecomment-2208690274) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
+1. 🗣 Commented on [#1484](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/1484#issuecomment-2210641766) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-2208699077) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-2208697969) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3166](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3166#issuecomment-2208697294) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2208696732) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
