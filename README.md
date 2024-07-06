@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#849](https://github.com/weaveworks-liquidmetal/flintlock/pull/849) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-2. 💪 Opened PR [#849](https://github.com/weaveworks-liquidmetal/flintlock/pull/849) in [weaveworks-liquidmetal/flintlock](https://github.com/weaveworks-liquidmetal/flintlock)
-3. 🎉 Merged PR [#7](https://github.com/weaveworks-liquidmetal/.github/pull/7) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-4. 💪 Opened PR [#7](https://github.com/weaveworks-liquidmetal/.github/pull/7) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
-5. ❗ Opened issue [#44](https://github.com/mikrolite/mikrolite/issues/44) in [mikrolite/mikrolite](https://github.com/mikrolite/mikrolite)
+1. 🎉 Merged PR [#17](https://github.com/liquidmetal-dev/site/pull/17) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+2. 💪 Opened PR [#17](https://github.com/liquidmetal-dev/site/pull/17) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+3. ❗ Opened issue [#16](https://github.com/weaveworks-liquidmetal/site/issues/16) in [weaveworks-liquidmetal/site](https://github.com/weaveworks-liquidmetal/site)
+4. ❗ Opened issue [#9](https://github.com/weaveworks-liquidmetal/getting-started/issues/9) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
+5. ❗ Opened issue [#8](https://github.com/weaveworks-liquidmetal/.github/issues/8) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
