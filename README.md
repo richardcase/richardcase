@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/liquidmetal-dev/site/pull/17) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-2. 💪 Opened PR [#17](https://github.com/liquidmetal-dev/site/pull/17) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-3. ❗ Opened issue [#16](https://github.com/weaveworks-liquidmetal/site/issues/16) in [weaveworks-liquidmetal/site](https://github.com/weaveworks-liquidmetal/site)
-4. ❗ Opened issue [#9](https://github.com/weaveworks-liquidmetal/getting-started/issues/9) in [weaveworks-liquidmetal/getting-started](https://github.com/weaveworks-liquidmetal/getting-started)
-5. ❗ Opened issue [#8](https://github.com/weaveworks-liquidmetal/.github/issues/8) in [weaveworks-liquidmetal/.github](https://github.com/weaveworks-liquidmetal/.github)
+1. ❗ Opened issue [#852](https://github.com/liquidmetal-dev/flintlock/issues/852) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 🗣 Commented on [#16](https://github.com/liquidmetal-dev/site/issues/16#issuecomment-2212411752) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+3. 🔒 Closed issue [#16](https://github.com/liquidmetal-dev/site/issues/16) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+4. 🎉 Merged PR [#22](https://github.com/liquidmetal-dev/site/pull/22) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+5. 💪 Opened PR [#22](https://github.com/liquidmetal-dev/site/pull/22) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
