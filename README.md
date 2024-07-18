@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#899](https://github.com/liquidmetal-dev/flintlock/issues/899) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. ❗ Opened issue [#312](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/issues/312) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
-3. 🗣 Commented on [#754](https://github.com/liquidmetal-dev/flintlock/pull/754#issuecomment-2221370316) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. ❌ Closed PR [#754](https://github.com/liquidmetal-dev/flintlock/pull/754) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#889](https://github.com/liquidmetal-dev/flintlock/pull/889#issuecomment-2221369031) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🗣 Commented on [#5055](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5055#issuecomment-2236180639) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#2855](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2855#issuecomment-2236178518) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5057](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5057#issuecomment-2236174164) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5057](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5057#issuecomment-2236172417) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3711](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3711#issuecomment-2236162698) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
