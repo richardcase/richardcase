@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4184](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4184#issuecomment-2248542126) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5009#issuecomment-2248539637) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1292](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1292#issuecomment-2248532626) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225#issuecomment-2248529752) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#2225](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2225#issuecomment-2248528981) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#7](https://github.com/liquidmetal-dev/mikrolite-images/pull/7) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+2. 💪 Opened PR [#7](https://github.com/liquidmetal-dev/mikrolite-images/pull/7) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+3. 🔒 Closed issue [#919](https://github.com/liquidmetal-dev/flintlock/issues/919) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🎉 Merged PR [#920](https://github.com/liquidmetal-dev/flintlock/pull/920) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 💪 Opened PR [#920](https://github.com/liquidmetal-dev/flintlock/pull/920) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
