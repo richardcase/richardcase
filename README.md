@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/capi-samples/cluster-api-provider-meta/pull/1) in [capi-samples/cluster-api-provider-meta](https://github.com/capi-samples/cluster-api-provider-meta)
-2. 💪 Opened PR [#1](https://github.com/capi-samples/cluster-api-provider-meta/pull/1) in [capi-samples/cluster-api-provider-meta](https://github.com/capi-samples/cluster-api-provider-meta)
-3. 🎉 Merged PR [#15](https://github.com/liquidmetal-dev/mikrolite-images/pull/15) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-4. 💪 Opened PR [#15](https://github.com/liquidmetal-dev/mikrolite-images/pull/15) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-5. 🎉 Merged PR [#14](https://github.com/liquidmetal-dev/mikrolite-images/pull/14) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+1. 💪 Opened PR [#5079](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5079) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5078](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5078#issuecomment-2259975362) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#1](https://github.com/capi-samples/cluster-api-provider-meta/pull/1) in [capi-samples/cluster-api-provider-meta](https://github.com/capi-samples/cluster-api-provider-meta)
+4. 💪 Opened PR [#1](https://github.com/capi-samples/cluster-api-provider-meta/pull/1) in [capi-samples/cluster-api-provider-meta](https://github.com/capi-samples/cluster-api-provider-meta)
+5. 🎉 Merged PR [#15](https://github.com/liquidmetal-dev/mikrolite-images/pull/15) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
