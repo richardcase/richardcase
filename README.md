@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11195](https://github.com/kubernetes-sigs/cluster-api/pull/11195#issuecomment-2358120317) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2346014205) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2339866609) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2338500424) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2338366407) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+1. 🎉 Merged PR [#940](https://github.com/liquidmetal-dev/flintlock/pull/940) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 🎉 Merged PR [#23](https://github.com/liquidmetal-dev/site/pull/23) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+3. 🗣 Commented on [#23](https://github.com/liquidmetal-dev/site/pull/23#issuecomment-2376880644) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+4. 🗣 Commented on [#11195](https://github.com/kubernetes-sigs/cluster-api/pull/11195#issuecomment-2358120317) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2346014205) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
