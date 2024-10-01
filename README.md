@@ -5,6 +5,7 @@
 - 🔭 I’m currently working as a Principal Engineer
 - 📯 I created **Liquid Metal** whilst at Weaveworks. Originally [here](https://github.com/weaveworks-liquidmetal) but now moved [here](https://github.com/liquidmetal-dev).
 - 👯 I’m a maintainer of:
+  -  [Liquid Metal](https://github.com/liquidmetal-dev)
   -  [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
   -  [Cluster API Provider GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 - 💬 I'm reading [Patch & Tweak](https://bjooks.com/products/patch-tweak-exploring-modular-synthesis)
