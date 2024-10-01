@@ -13,11 +13,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2383588789) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#14](https://github.com/liquidmetal-dev/flintlock/issues/14#issuecomment-2382664250) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#5093](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5093#issuecomment-2382656785) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5102](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5102#issuecomment-2382654246) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2382639612) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5081](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5081#issuecomment-2383758554) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5082](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5082#issuecomment-2383758403) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5119](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5119#issuecomment-2383758116) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#7355](https://github.com/kubernetes/k8s.io/pull/7355) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+5. 💪 Opened PR [#7354](https://github.com/kubernetes/k8s.io/pull/7354) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
