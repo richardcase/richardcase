@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5093](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5093#issuecomment-2386427827) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#949](https://github.com/liquidmetal-dev/flintlock/pull/949) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#949](https://github.com/liquidmetal-dev/flintlock/pull/949#issuecomment-2385429736) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. ❌ Closed PR [#939](https://github.com/liquidmetal-dev/flintlock/pull/939) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#939](https://github.com/liquidmetal-dev/flintlock/pull/939#issuecomment-2385427045) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🗣 Commented on [#5131](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5131#issuecomment-2389435473) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5131](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5131#issuecomment-2389229714) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5093](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5093#issuecomment-2386427827) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#949](https://github.com/liquidmetal-dev/flintlock/pull/949) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 🗣 Commented on [#949](https://github.com/liquidmetal-dev/flintlock/pull/949#issuecomment-2385429736) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
