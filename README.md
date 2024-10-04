@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/liquidmetal-dev/flintlock/issues/14#issuecomment-2393420421) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2393391459) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-3. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2392188814) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#5131](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5131#issuecomment-2389717832) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5131](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5131#issuecomment-2389713910) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5116](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5116#issuecomment-2393834427) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5116](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5116#issuecomment-2393819368) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5133](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5133#issuecomment-2393670203) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#5133](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5133) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6517](https://github.com/kubernetes/k8s.io/pull/6517#issuecomment-2393629487) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
