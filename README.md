@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5138](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5138) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5136](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5136#issuecomment-2397303424) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5136](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5136#issuecomment-2397301845) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5137](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5137#issuecomment-2397299973) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5137](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5137#issuecomment-2397293604) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#17](https://github.com/liquidmetal-dev/mikrolite-images/pull/17) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+2. 💪 Opened PR [#17](https://github.com/liquidmetal-dev/mikrolite-images/pull/17) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+3. 🎉 Merged PR [#16](https://github.com/liquidmetal-dev/mikrolite-images/pull/16) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+4. 💪 Opened PR [#16](https://github.com/liquidmetal-dev/mikrolite-images/pull/16) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+5. 💪 Opened PR [#5138](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5138) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
