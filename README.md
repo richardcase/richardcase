@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#957](https://github.com/liquidmetal-dev/flintlock/pull/957) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🎉 Merged PR [#958](https://github.com/liquidmetal-dev/flintlock/pull/958) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🎉 Merged PR [#956](https://github.com/liquidmetal-dev/flintlock/pull/956) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#959](https://github.com/liquidmetal-dev/flintlock/pull/959) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#855](https://github.com/liquidmetal-dev/flintlock/issues/855#issuecomment-2399262971) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🗣 Commented on [#5140](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5140#issuecomment-2400166443) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5140](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5140#issuecomment-2400165826) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5140](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5140#issuecomment-2400165545) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5140](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5140#issuecomment-2400009204) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5143](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5143#issuecomment-2400002231) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
