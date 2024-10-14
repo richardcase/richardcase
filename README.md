@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1516](https://github.com/kubernetes-sigs/image-builder/issues/1516#issuecomment-2411012397) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. 🗣 Commented on [#1470](https://github.com/kubernetes-sigs/image-builder/issues/1470#issuecomment-2410554334) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-3. 🗣 Commented on [#1470](https://github.com/kubernetes-sigs/image-builder/issues/1470#issuecomment-2410552628) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 💪 Opened PR [#5152](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5152) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🎉 Merged PR [#5149](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5149) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1313](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1313#issuecomment-2411440762) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+2. 🗣 Commented on [#1318](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1318#issuecomment-2411412233) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#1318](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1318#issuecomment-2411313325) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2411306343) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#1318](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1318#issuecomment-2411268015) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
