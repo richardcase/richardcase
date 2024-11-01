@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2444392432) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2444386430) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1624](https://github.com/kubernetes-sigs/image-builder/pull/1624#issuecomment-2444375127) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 🗣 Commented on [#1623](https://github.com/kubernetes-sigs/image-builder/pull/1623#issuecomment-2444162589) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. 🗣 Commented on [#5177](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5177#issuecomment-2443634983) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5193](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5193#issuecomment-2449861251) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2444392432) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2444386430) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#1624](https://github.com/kubernetes-sigs/image-builder/pull/1624#issuecomment-2444375127) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+5. 🗣 Commented on [#1623](https://github.com/kubernetes-sigs/image-builder/pull/1623#issuecomment-2444162589) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
