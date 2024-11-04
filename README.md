@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5199](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5199#issuecomment-2452986323) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2452926454) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5198](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5198#issuecomment-2452550552) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#93](https://github.com/k3s-io/cluster-api-k3s/pull/93#issuecomment-2452262408) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-5. ❌ Closed PR [#93](https://github.com/k3s-io/cluster-api-k3s/pull/93) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+1. 🗣 Commented on [#5199](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5199#issuecomment-2454252393) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3166](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3166#issuecomment-2454248479) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#4658](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4658#issuecomment-2454247762) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#1982](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/1982#issuecomment-2454245680) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#3562](https://github.com/kubernetes/org/issues/3562#issuecomment-2454243151) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
