@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538156500) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538154275) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538072069) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538071455) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 💪 Opened PR [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538416705) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538156500) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538154275) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538072069) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5250](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5250#issuecomment-2538071455) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
