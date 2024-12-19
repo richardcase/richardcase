@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/liquidmetal-dev/mikrolite-images/pull/23) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-2. 💪 Opened PR [#23](https://github.com/liquidmetal-dev/mikrolite-images/pull/23) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-3. 🎉 Merged PR [#22](https://github.com/liquidmetal-dev/mikrolite-images/pull/22) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-4. 💪 Opened PR [#22](https://github.com/liquidmetal-dev/mikrolite-images/pull/22) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
-5. 🎉 Merged PR [#21](https://github.com/liquidmetal-dev/mikrolite-images/pull/21) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+1. 🎉 Merged PR [#26](https://github.com/liquidmetal-dev/mikrolite-images/pull/26) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+2. 💪 Opened PR [#26](https://github.com/liquidmetal-dev/mikrolite-images/pull/26) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+3. 🎉 Merged PR [#25](https://github.com/liquidmetal-dev/mikrolite-images/pull/25) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+4. 💪 Opened PR [#25](https://github.com/liquidmetal-dev/mikrolite-images/pull/25) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+5. 🎉 Merged PR [#24](https://github.com/liquidmetal-dev/mikrolite-images/pull/24) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
