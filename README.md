@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#985](https://github.com/liquidmetal-dev/flintlock/pull/985) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🎉 Merged PR [#984](https://github.com/liquidmetal-dev/flintlock/pull/984) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🎉 Merged PR [#996](https://github.com/liquidmetal-dev/flintlock/pull/996) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 🎉 Merged PR [#1000](https://github.com/liquidmetal-dev/flintlock/pull/1000) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🎉 Merged PR [#28](https://github.com/liquidmetal-dev/fl/pull/28) in [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl)
+1. 🗣 Commented on [#5237](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5237#issuecomment-2576804956) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5237](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5237#issuecomment-2576710438) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#985](https://github.com/liquidmetal-dev/flintlock/pull/985) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🎉 Merged PR [#984](https://github.com/liquidmetal-dev/flintlock/pull/984) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 🎉 Merged PR [#996](https://github.com/liquidmetal-dev/flintlock/pull/996) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
