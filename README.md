@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/liquidmetal-dev/controller-pkg/pull/11) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-2. 🎉 Merged PR [#10](https://github.com/liquidmetal-dev/controller-pkg/pull/10) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-3. 🗣 Commented on [#7665](https://github.com/kubernetes/k8s.io/issues/7665#issuecomment-2640761360) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#5222](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5222#issuecomment-2640749363) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5222](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5222#issuecomment-2640625273) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2643562508) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5339](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5339#issuecomment-2643349733) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#11](https://github.com/liquidmetal-dev/controller-pkg/pull/11) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+4. 🎉 Merged PR [#10](https://github.com/liquidmetal-dev/controller-pkg/pull/10) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+5. 🗣 Commented on [#7665](https://github.com/kubernetes/k8s.io/issues/7665#issuecomment-2640761360) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
