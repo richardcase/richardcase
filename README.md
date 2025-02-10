@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5282](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5282#issuecomment-2645721867) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5335](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5335#issuecomment-2645720523) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2645720076) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2643562508) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5339](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5339#issuecomment-2643349733) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#316](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/316) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+2. 🎉 Merged PR [#1021](https://github.com/liquidmetal-dev/flintlock/pull/1021) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+3. 🗣 Commented on [#5282](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5282#issuecomment-2645721867) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5335](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5335#issuecomment-2645720523) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5139](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5139#issuecomment-2645720076) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
