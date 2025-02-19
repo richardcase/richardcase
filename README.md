@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5230](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5230#issuecomment-2663769602) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5344](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5344#issuecomment-2663768732) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5366](https://github.com/kubernetes/org/issues/5366#issuecomment-2663615806) in [kubernetes/org](https://github.com/kubernetes/org)
-4. 🗣 Commented on [#315](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/issues/315#issuecomment-2663463058) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
-5. ❗ Opened issue [#324](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/issues/324) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+1. 🗣 Commented on [#5345](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5345#issuecomment-2668175726) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#3853](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/3853#issuecomment-2668156542) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5230](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5230#issuecomment-2663769602) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5344](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5344#issuecomment-2663768732) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5366](https://github.com/kubernetes/org/issues/5366#issuecomment-2663615806) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
