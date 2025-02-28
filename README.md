@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5107#issuecomment-2682958073) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#124](https://github.com/grafana/xk6-kubernetes/issues/124#issuecomment-2681700176) in [grafana/xk6-kubernetes](https://github.com/grafana/xk6-kubernetes)
-3. 🗣 Commented on [#5209](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5209#issuecomment-2679059961) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#216](https://github.com/kubernetes-sigs/boskos/pull/216#issuecomment-2678726703) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-5. 🗣 Commented on [#1426](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1426#issuecomment-2678636608) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+1. 🗣 Commented on [#570](https://github.com/kubernetes-sigs/cluster-api-operator/issues/570#issuecomment-2688284072) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+2. 🗣 Commented on [#5107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5107#issuecomment-2682958073) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#124](https://github.com/grafana/xk6-kubernetes/issues/124#issuecomment-2681700176) in [grafana/xk6-kubernetes](https://github.com/grafana/xk6-kubernetes)
+4. 🗣 Commented on [#5209](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5209#issuecomment-2679059961) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#216](https://github.com/kubernetes-sigs/boskos/pull/216#issuecomment-2678726703) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
