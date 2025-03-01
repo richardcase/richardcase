@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#570](https://github.com/kubernetes-sigs/cluster-api-operator/issues/570#issuecomment-2688284072) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
-2. 🗣 Commented on [#5107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5107#issuecomment-2682958073) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#124](https://github.com/grafana/xk6-kubernetes/issues/124#issuecomment-2681700176) in [grafana/xk6-kubernetes](https://github.com/grafana/xk6-kubernetes)
-4. 🗣 Commented on [#5209](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5209#issuecomment-2679059961) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#216](https://github.com/kubernetes-sigs/boskos/pull/216#issuecomment-2678726703) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
+1. 🔒 Closed issue [#312](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/issues/312) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+2. 🎉 Merged PR [#318](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/318) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+3. 🗣 Commented on [#570](https://github.com/kubernetes-sigs/cluster-api-operator/issues/570#issuecomment-2688284072) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+4. 🗣 Commented on [#5107](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5107#issuecomment-2682958073) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#124](https://github.com/grafana/xk6-kubernetes/issues/124#issuecomment-2681700176) in [grafana/xk6-kubernetes](https://github.com/grafana/xk6-kubernetes)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
