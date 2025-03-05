@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#811](https://github.com/liquidmetal-dev/flintlock/issues/811#issuecomment-2700104740) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#5226](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5226#issuecomment-2698450967) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5087](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5087#issuecomment-2698420192) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5319](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5319#issuecomment-2698417939) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5108](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5108#issuecomment-2698408686) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#321](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/321) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+2. ❌ Closed PR [#102](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/102) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+3. ❌ Closed PR [#101](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/101) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+4. 🎉 Merged PR [#325](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/325) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+5. 🗣 Commented on [#5022](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5022#issuecomment-2701420183) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
