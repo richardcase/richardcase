@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5022](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5022#issuecomment-2703386678) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5022](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5022#issuecomment-2703154552) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#321](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/321) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
-4. ❌ Closed PR [#102](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/102) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
-5. ❌ Closed PR [#101](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/101) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+1. 🎉 Merged PR [#27](https://github.com/liquidmetal-dev/mikrolite-images/pull/27) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+2. 💪 Opened PR [#27](https://github.com/liquidmetal-dev/mikrolite-images/pull/27) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+3. 🗣 Commented on [#5022](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5022#issuecomment-2703386678) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5022](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5022#issuecomment-2703154552) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🎉 Merged PR [#321](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/321) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
