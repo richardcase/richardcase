@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5440](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5440#issuecomment-2763151730) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#811](https://github.com/liquidmetal-dev/flintlock/issues/811#issuecomment-2757195633) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#1459](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1459#issuecomment-2754581668) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#12007](https://github.com/kubernetes-sigs/cluster-api/issues/12007#issuecomment-2754216905) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#12007](https://github.com/kubernetes-sigs/cluster-api/issues/12007#issuecomment-2748236027) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 💪 Opened PR [#5495](https://github.com/kubernetes/org/pull/5495) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🎉 Merged PR [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599221) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599194) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#5452](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5452#issuecomment-2764598382) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
