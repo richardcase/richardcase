@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5495](https://github.com/kubernetes/org/pull/5495) in [kubernetes/org](https://github.com/kubernetes/org)
-2. 🎉 Merged PR [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-3. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599221) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-4. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599194) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#5452](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5452#issuecomment-2764598382) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#11175](https://github.com/kubernetes-sigs/cluster-api/issues/11175#issuecomment-2766741510) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 💪 Opened PR [#5495](https://github.com/kubernetes/org/pull/5495) in [kubernetes/org](https://github.com/kubernetes/org)
+3. 🎉 Merged PR [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+4. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599221) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+5. 🗣 Commented on [#1450](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1450#issuecomment-2764599194) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
