@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1053](https://github.com/liquidmetal-dev/flintlock/pull/1053) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🎉 Merged PR [#25](https://github.com/liquidmetal-dev/site/pull/25) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-3. 🗣 Commented on [#25](https://github.com/liquidmetal-dev/site/pull/25#issuecomment-2797104732) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-4. 🗣 Commented on [#1464](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/1464#issuecomment-2796990964) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-5. 🗣 Commented on [#5375](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5375#issuecomment-2794371108) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5375](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5375#issuecomment-2798612938) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 💪 Opened PR [#1](https://github.com/alexander-demicev/cluster-api-provider-aws/pull/1) in [alexander-demicev/cluster-api-provider-aws](https://github.com/alexander-demicev/cluster-api-provider-aws)
+3. 🎉 Merged PR [#1053](https://github.com/liquidmetal-dev/flintlock/pull/1053) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🎉 Merged PR [#25](https://github.com/liquidmetal-dev/site/pull/25) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+5. 🗣 Commented on [#25](https://github.com/liquidmetal-dev/site/pull/25#issuecomment-2797104732) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
