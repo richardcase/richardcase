@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/k3s-io/cluster-api-k3s/pull/152) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-2. 💪 Opened PR [#160](https://github.com/k3s-io/cluster-api-k3s/pull/160) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-3. 💪 Opened PR [#152](https://github.com/k3s-io/cluster-api-k3s/pull/152) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-4. 🗣 Commented on [#1033](https://github.com/firecracker-microvm/firecracker/issues/1033#issuecomment-2846858762) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-5. 🗣 Commented on [#34221](https://github.com/kubernetes/test-infra/pull/34221#issuecomment-2838265325) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#156](https://github.com/k3s-io/cluster-api-k3s/pull/156#issuecomment-2850916601) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 🎉 Merged PR [#149](https://github.com/k3s-io/cluster-api-k3s/pull/149) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+3. 🗣 Commented on [#155](https://github.com/k3s-io/cluster-api-k3s/pull/155#issuecomment-2850913332) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🎉 Merged PR [#157](https://github.com/k3s-io/cluster-api-k3s/pull/157) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+5. 🔒 Closed issue [#150](https://github.com/k3s-io/cluster-api-k3s/issues/150) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
