@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/k3s-io/cluster-api-k3s/pull/156#issuecomment-2850916601) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-2. 🎉 Merged PR [#149](https://github.com/k3s-io/cluster-api-k3s/pull/149) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-3. 🗣 Commented on [#155](https://github.com/k3s-io/cluster-api-k3s/pull/155#issuecomment-2850913332) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-4. 🎉 Merged PR [#157](https://github.com/k3s-io/cluster-api-k3s/pull/157) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-5. 🔒 Closed issue [#150](https://github.com/k3s-io/cluster-api-k3s/issues/150) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+1. 🎉 Merged PR [#155](https://github.com/k3s-io/cluster-api-k3s/pull/155) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 🎉 Merged PR [#156](https://github.com/k3s-io/cluster-api-k3s/pull/156) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+3. 🗣 Commented on [#156](https://github.com/k3s-io/cluster-api-k3s/pull/156#issuecomment-2850916601) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🎉 Merged PR [#149](https://github.com/k3s-io/cluster-api-k3s/pull/149) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+5. 🗣 Commented on [#155](https://github.com/k3s-io/cluster-api-k3s/pull/155#issuecomment-2850913332) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
