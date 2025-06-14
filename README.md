@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34982](https://github.com/kubernetes/test-infra/pull/34982#issuecomment-2967619613) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 💪 Opened PR [#34982](https://github.com/kubernetes/test-infra/pull/34982) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 🗣 Commented on [#5265](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5265#issuecomment-2967546273) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5542](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5542#issuecomment-2967539244) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5542](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5542#issuecomment-2967538444) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5517](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5517#issuecomment-2969451630) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#34982](https://github.com/kubernetes/test-infra/pull/34982#issuecomment-2969450083) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 🗣 Commented on [#5447](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5447#issuecomment-2969447538) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗ Opened issue [#5551](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5551) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#34982](https://github.com/kubernetes/test-infra/pull/34982#issuecomment-2967619613) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
