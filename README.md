@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#932](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/932#issuecomment-3214840692) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
-2. 🗣 Commented on [#12651](https://github.com/kubernetes-sigs/cluster-api/pull/12651#issuecomment-3214304158) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#9005](https://github.com/kubernetes-sigs/cluster-api/issues/9005#issuecomment-3214300703) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#5624](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5624#issuecomment-3210047319) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5593](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5593#issuecomment-3210043502) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5593](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5593#issuecomment-3219539285) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#932](https://github.com/kubernetes-sigs/cluster-api-provider-gcp/pull/932#issuecomment-3214840692) in [kubernetes-sigs/cluster-api-provider-gcp](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+3. 🗣 Commented on [#12651](https://github.com/kubernetes-sigs/cluster-api/pull/12651#issuecomment-3214304158) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#9005](https://github.com/kubernetes-sigs/cluster-api/issues/9005#issuecomment-3214300703) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#5624](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5624#issuecomment-3210047319) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
