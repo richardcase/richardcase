@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5673](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5673) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#1](https://github.com/richardcase/gleam-with-api/pull/1) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
-3. 🗣 Commented on [#4708](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4708#issuecomment-3310920062) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5605](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5605#issuecomment-3306498547) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5605](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5605#issuecomment-3306497792) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#3](https://github.com/richardcase/gleam-with-api/pull/3#issuecomment-3317796263) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+2. 🎉 Merged PR [#2](https://github.com/richardcase/gleam-with-api/pull/2) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+3. ❌ Closed PR [#5673](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5673) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#1](https://github.com/richardcase/gleam-with-api/pull/1) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+5. 🗣 Commented on [#4708](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/4708#issuecomment-3310920062) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
