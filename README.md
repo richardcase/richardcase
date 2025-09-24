@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323170040) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323168354) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#3](https://github.com/richardcase/gleam-with-api/pull/3#issuecomment-3317796263) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
-4. 🎉 Merged PR [#2](https://github.com/richardcase/gleam-with-api/pull/2) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
-5. ❌ Closed PR [#5673](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5673) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. ❗ Opened issue [#12794](https://github.com/kubernetes-sigs/cluster-api/issues/12794) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323170040) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323168354) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#3](https://github.com/richardcase/gleam-with-api/pull/3#issuecomment-3317796263) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+5. 🎉 Merged PR [#2](https://github.com/richardcase/gleam-with-api/pull/2) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
