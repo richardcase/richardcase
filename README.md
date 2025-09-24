@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/richardcase/gleam-with-api/pull/4#issuecomment-3324791758) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
-2. ❗ Opened issue [#12794](https://github.com/kubernetes-sigs/cluster-api/issues/12794) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323170040) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323168354) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#3](https://github.com/richardcase/gleam-with-api/pull/3#issuecomment-3317796263) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+1. 🗣 Commented on [#8619](https://github.com/kubernetes/community/pull/8619#issuecomment-3327718886) in [kubernetes/community](https://github.com/kubernetes/community)
+2. 🗣 Commented on [#4](https://github.com/richardcase/gleam-with-api/pull/4#issuecomment-3324791758) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+3. ❗ Opened issue [#12794](https://github.com/kubernetes-sigs/cluster-api/issues/12794) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323170040) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5578](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5578#issuecomment-3323168354) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
