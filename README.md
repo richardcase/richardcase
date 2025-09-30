@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5678](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5678#issuecomment-3347860995) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5687](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5687#issuecomment-3347825118) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5687](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5687#issuecomment-3347823903) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#8619](https://github.com/kubernetes/community/pull/8619#issuecomment-3327718886) in [kubernetes/community](https://github.com/kubernetes/community)
-5. 🗣 Commented on [#4](https://github.com/richardcase/gleam-with-api/pull/4#issuecomment-3324791758) in [richardcase/gleam-with-api](https://github.com/richardcase/gleam-with-api)
+1. 🗣 Commented on [#12799](https://github.com/kubernetes-sigs/cluster-api/issues/12799#issuecomment-3352354985) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#5678](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5678#issuecomment-3347860995) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5687](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5687#issuecomment-3347825118) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5687](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5687#issuecomment-3347823903) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#8619](https://github.com/kubernetes/community/pull/8619#issuecomment-3327718886) in [kubernetes/community](https://github.com/kubernetes/community)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
