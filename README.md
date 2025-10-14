@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/richardcase/ergo-test/pull/2) in [richardcase/ergo-test](https://github.com/richardcase/ergo-test)
-2. 🎉 Merged PR [#1](https://github.com/richardcase/ergo-test/pull/1) in [richardcase/ergo-test](https://github.com/richardcase/ergo-test)
-3. 🗣 Commented on [#5705](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5705#issuecomment-3390573053) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5705](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5705#issuecomment-3390564166) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5704](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5704#issuecomment-3390096972) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#8641](https://github.com/kubernetes/k8s.io/pull/8641#issuecomment-3398876972) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 🗣 Commented on [#8641](https://github.com/kubernetes/k8s.io/pull/8641#issuecomment-3398876251) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 🗣 Commented on [#8641](https://github.com/kubernetes/k8s.io/pull/8641#issuecomment-3398874720) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🎉 Merged PR [#2](https://github.com/richardcase/ergo-test/pull/2) in [richardcase/ergo-test](https://github.com/richardcase/ergo-test)
+5. 🎉 Merged PR [#1](https://github.com/richardcase/ergo-test/pull/1) in [richardcase/ergo-test](https://github.com/richardcase/ergo-test)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
