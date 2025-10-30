@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5583](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5583#issuecomment-3452482463) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#41](undefined) in [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl)
-3. ❌ Labeled PR [#1068](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#1068](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#5205](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5205#issuecomment-3415837367) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#12916](https://github.com/kubernetes-sigs/cluster-api/pull/12916#issuecomment-3467438717) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#12896](https://github.com/kubernetes-sigs/cluster-api/pull/12896#issuecomment-3467249471) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#5583](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5583#issuecomment-3452482463) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 💪 Opened PR [#41](undefined) in [liquidmetal-dev/fl](https://github.com/liquidmetal-dev/fl)
+5. ❌ Labeled PR [#1068](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
