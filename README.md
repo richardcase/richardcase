@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1070](https://github.com/liquidmetal-dev/flintlock/issues/1070) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#12392](https://github.com/kubernetes-sigs/cluster-api/pull/12392#issuecomment-3522525594) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3516499778) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3516489426) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3516486289) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#5739](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5739#issuecomment-3531974535) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5740](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5740#issuecomment-3531969394) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🔒 Closed issue [#1070](https://github.com/liquidmetal-dev/flintlock/issues/1070) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🗣 Commented on [#12392](https://github.com/kubernetes-sigs/cluster-api/pull/12392#issuecomment-3522525594) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3516499778) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
