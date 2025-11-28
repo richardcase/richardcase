@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3589628768) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#792](https://github.com/kubernetes-sigs/cluster-api-operator/issues/792#issuecomment-3589151818) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
-3. 🗣 Commented on [#5773](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5773#issuecomment-3588731225) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6006](https://github.com/kubernetes/org/issues/6006#issuecomment-3586690457) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🗣 Commented on [#5765](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5765#issuecomment-3585954994) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3589928671) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#12971](https://github.com/kubernetes-sigs/cluster-api/pull/12971#issuecomment-3589628768) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#792](https://github.com/kubernetes-sigs/cluster-api-operator/issues/792#issuecomment-3589151818) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+4. 🗣 Commented on [#5773](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5773#issuecomment-3588731225) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6006](https://github.com/kubernetes/org/issues/6006#issuecomment-3586690457) in [kubernetes/org](https://github.com/kubernetes/org)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
