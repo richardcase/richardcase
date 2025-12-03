@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 💪 Opened PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#13099](https://github.com/kubernetes-sigs/cluster-api/pull/13099#issuecomment-3602586716) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4.  Assigned issue [#1099](https://github.com/liquidmetal-dev/flintlock/issues/1099) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#1099](https://github.com/liquidmetal-dev/flintlock/issues/1099#issuecomment-3602139384) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. ❌ Merged PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. ❌ Labeled PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+3. 💪 Opened PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🗣 Commented on [#13099](https://github.com/kubernetes-sigs/cluster-api/pull/13099#issuecomment-3602586716) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. ❌ Merged PR [#12971](undefined) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
