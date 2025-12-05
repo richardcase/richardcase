@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#62](undefined) in [liquidmetal-dev/image-builder](https://github.com/liquidmetal-dev/image-builder)
-2. 💪 Opened PR [#62](undefined) in [liquidmetal-dev/image-builder](https://github.com/liquidmetal-dev/image-builder)
-3. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3606788552) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ❌ Merged PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. ❌ Labeled PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🗣 Commented on [#937](https://github.com/kubernetes-sigs/cluster-api-operator/pull/937#issuecomment-3617427047) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+2. ❌ Merged PR [#62](undefined) in [liquidmetal-dev/image-builder](https://github.com/liquidmetal-dev/image-builder)
+3. 💪 Opened PR [#62](undefined) in [liquidmetal-dev/image-builder](https://github.com/liquidmetal-dev/image-builder)
+4. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3606788552) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ❌ Merged PR [#1100](undefined) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
