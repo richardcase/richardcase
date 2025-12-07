@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#601](https://github.com/liquidmetal-dev/flintlock/issues/601) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#601](https://github.com/liquidmetal-dev/flintlock/issues/601#issuecomment-3618328390) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#189](https://github.com/k3s-io/cluster-api-k3s/pull/189#issuecomment-3618279515) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-4. 🗣 Commented on [#937](https://github.com/kubernetes-sigs/cluster-api-operator/pull/937#issuecomment-3617427047) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
-5. ❌ Merged PR [#62](undefined) in [liquidmetal-dev/image-builder](https://github.com/liquidmetal-dev/image-builder)
+1. 💪 Opened PR [#933](undefined) in [cncf/gitdm](https://github.com/cncf/gitdm)
+2. 💪 Opened PR [#946](undefined) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+3. 🔒 Closed issue [#601](https://github.com/liquidmetal-dev/flintlock/issues/601) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🗣 Commented on [#601](https://github.com/liquidmetal-dev/flintlock/issues/601#issuecomment-3618328390) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 🗣 Commented on [#189](https://github.com/k3s-io/cluster-api-k3s/pull/189#issuecomment-3618279515) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
