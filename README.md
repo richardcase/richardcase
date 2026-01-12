@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36190](https://github.com/kubernetes/test-infra/pull/36190) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 💪 Opened PR [#36190](https://github.com/kubernetes/test-infra/pull/36190) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-3. 🗣 Commented on [#5760](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5760#issuecomment-3724054671) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5810](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5810#issuecomment-3718599622) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5700](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5700#issuecomment-3717392414) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3737881226) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🎉 Merged PR [#36190](https://github.com/kubernetes/test-infra/pull/36190) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+3. 💪 Opened PR [#36190](https://github.com/kubernetes/test-infra/pull/36190) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+4. 🗣 Commented on [#5760](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5760#issuecomment-3724054671) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#5810](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5810#issuecomment-3718599622) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
