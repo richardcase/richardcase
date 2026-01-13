@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1546](https://github.com/cncf/mentoring/pull/1546) in [cncf/mentoring](https://github.com/cncf/mentoring)
-2. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3744746628) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. ℹ️ Unassigned issue [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3737881226) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🎉 Merged PR [#36190](https://github.com/kubernetes/test-infra/pull/36190) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+1. 🗣 Commented on [#10059](https://github.com/kubernetes-sigs/cluster-api/issues/10059#issuecomment-3745652104) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 🗣 Commented on [#10059](https://github.com/kubernetes-sigs/cluster-api/issues/10059#issuecomment-3745651333) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 💪 Opened PR [#1546](https://github.com/cncf/mentoring/pull/1546) in [cncf/mentoring](https://github.com/cncf/mentoring)
+4. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3744746628) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ℹ️ Unassigned issue [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
