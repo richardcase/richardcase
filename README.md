@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5176](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5176#issuecomment-3755752051) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#1546](https://github.com/cncf/mentoring/pull/1546) in [cncf/mentoring](https://github.com/cncf/mentoring)
-3. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3754010252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5713](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5713#issuecomment-3750980110) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#189](https://github.com/k3s-io/cluster-api-k3s/pull/189#issuecomment-3750958985) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+1. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3759230322) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#1933](https://github.com/firecracker-microvm/firecracker/issues/1933#issuecomment-3758821788) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
+3. 🗣 Commented on [#5176](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5176#issuecomment-3755752051) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🎉 Merged PR [#1546](https://github.com/cncf/mentoring/pull/1546) in [cncf/mentoring](https://github.com/cncf/mentoring)
+5. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3754010252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
