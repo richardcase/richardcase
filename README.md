@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3759230322) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#1933](https://github.com/firecracker-microvm/firecracker/issues/1933#issuecomment-3758821788) in [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
-3. 🗣 Commented on [#5176](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5176#issuecomment-3755752051) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#1546](https://github.com/cncf/mentoring/pull/1546) in [cncf/mentoring](https://github.com/cncf/mentoring)
-5. 🗣 Commented on [#2178](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/2178#issuecomment-3754010252) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#1581](https://github.com/cncf/mentoring/pull/1581) in [cncf/mentoring](https://github.com/cncf/mentoring)
+2. ℹ️ Assigned issue [#5142](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5142) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ℹ️ Assigned issue [#5837](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5837) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. ❗ Opened issue [#5837](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5837) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ℹ️ Labeled issue [#5836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5836) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
