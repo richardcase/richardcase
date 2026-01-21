@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3778397109) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3777475492) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3777473943) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. ❗ Opened issue [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#5831](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5831#issuecomment-3773558736) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#1581](https://github.com/cncf/mentoring/pull/1581#issuecomment-3780778912) in [cncf/mentoring](https://github.com/cncf/mentoring)
+2. 🗣 Commented on [#1581](https://github.com/cncf/mentoring/pull/1581#issuecomment-3780776646) in [cncf/mentoring](https://github.com/cncf/mentoring)
+3. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3778397109) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3777475492) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+5. 🗣 Commented on [#13254](https://github.com/kubernetes-sigs/cluster-api/issues/13254#issuecomment-3777473943) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
