@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3791253287) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#5849](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5849#issuecomment-3791244678) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#937](https://github.com/kubernetes-sigs/cluster-api-operator/pull/937#issuecomment-3791196089) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
-4. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3791182841) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 🗣 Commented on [#5848](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5848#issuecomment-3791162081) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#1581](https://github.com/cncf/mentoring/pull/1581) in [cncf/mentoring](https://github.com/cncf/mentoring)
+2. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3791253287) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. 🗣 Commented on [#5849](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5849#issuecomment-3791244678) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#937](https://github.com/kubernetes-sigs/cluster-api-operator/pull/937#issuecomment-3791196089) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+5. 🗣 Commented on [#13224](https://github.com/kubernetes-sigs/cluster-api/issues/13224#issuecomment-3791182841) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
