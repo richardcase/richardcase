@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817272097) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-2. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817267431) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-3. 🗣 Commented on [#1094](https://github.com/liquidmetal-dev/flintlock/pull/1094#issuecomment-3804427173) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 🎉 Merged PR [#6011](https://github.com/kubernetes/org/pull/6011) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 🎉 Merged PR [#1581](https://github.com/cncf/mentoring/pull/1581) in [cncf/mentoring](https://github.com/cncf/mentoring)
+1. 🗣 Commented on [#5487](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5487#issuecomment-3828798441) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#1917](https://github.com/kubernetes-sigs/image-builder/issues/1917#issuecomment-3828795170) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+3. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817272097) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+4. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817267431) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+5. 🗣 Commented on [#1094](https://github.com/liquidmetal-dev/flintlock/pull/1094#issuecomment-3804427173) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
