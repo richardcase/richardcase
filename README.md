@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13234](https://github.com/kubernetes-sigs/cluster-api/pull/13234#issuecomment-3841669266) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#5487](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5487#issuecomment-3828798441) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#1917](https://github.com/kubernetes-sigs/image-builder/issues/1917#issuecomment-3828795170) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-4. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817272097) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
-5. 🗣 Commented on [#1919](https://github.com/kubernetes-sigs/image-builder/pull/1919#issuecomment-3817267431) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
+1. 🗣 Commented on [#189](https://github.com/k3s-io/cluster-api-k3s/pull/189#issuecomment-3846133263) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 🗣 Commented on [#189](https://github.com/k3s-io/cluster-api-k3s/pull/189#issuecomment-3846132095) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+3. 🗣 Commented on [#13234](https://github.com/kubernetes-sigs/cluster-api/pull/13234#issuecomment-3841669266) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#5487](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5487#issuecomment-3828798441) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#1917](https://github.com/kubernetes-sigs/image-builder/issues/1917#issuecomment-3828795170) in [kubernetes-sigs/image-builder](https://github.com/kubernetes-sigs/image-builder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
