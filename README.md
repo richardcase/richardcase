@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5980](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5980) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#5980](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5980) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#9381](https://github.com/kubernetes/k8s.io/pull/9381) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 💪 Opened PR [#9381](https://github.com/kubernetes/k8s.io/pull/9381) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-5. 🎉 Merged PR [#5966](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5966) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#9386](https://github.com/kubernetes/k8s.io/pull/9386) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+2. 🗣 Commented on [#9386](https://github.com/kubernetes/k8s.io/pull/9386#issuecomment-4312318063) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+3. 💪 Opened PR [#9386](https://github.com/kubernetes/k8s.io/pull/9386) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+4. 🎉 Merged PR [#5980](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5980) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#5980](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5980) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
