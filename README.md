@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5993](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5993#issuecomment-4352865890) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5997](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5997#issuecomment-4352855569) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5996](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5996#issuecomment-4352759752) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5996](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5996#issuecomment-4352757471) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#5928](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5928#issuecomment-4352751642) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#224](https://github.com/k3s-io/cluster-api-k3s/pull/224) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 💪 Opened PR [#224](https://github.com/k3s-io/cluster-api-k3s/pull/224) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+3. ❌ Closed PR [#223](https://github.com/k3s-io/cluster-api-k3s/pull/223) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🗣 Commented on [#223](https://github.com/k3s-io/cluster-api-k3s/pull/223#issuecomment-4359728074) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+5. 🗣 Commented on [#5](https://github.com/k3s-io/cluster-api-k3s/pull/5#issuecomment-4359634207) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
