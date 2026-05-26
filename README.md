@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/gobeeb/GoBeeb/pull/4) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-2. 🎉 Merged PR [#3](https://github.com/gobeeb/GoBeeb/pull/3) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-3. 💪 Opened PR [#4](https://github.com/gobeeb/GoBeeb/pull/4) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-4. 💪 Opened PR [#3](https://github.com/gobeeb/GoBeeb/pull/3) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-5. 🎉 Merged PR [#2](https://github.com/gobeeb/GoBeeb/pull/2) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
+1. ℹ️ Labeled PR [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ℹ️ Labeled PR [#6020](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6020) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#4](https://github.com/gobeeb/GoBeeb/pull/4) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
+4. 🎉 Merged PR [#3](https://github.com/gobeeb/GoBeeb/pull/3) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
+5. 💪 Opened PR [#4](https://github.com/gobeeb/GoBeeb/pull/4) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
