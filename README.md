@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#5](https://github.com/gobeeb/GoBeeb/pull/5) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-3. 💪 Opened PR [#5](https://github.com/gobeeb/GoBeeb/pull/5) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
-4. ℹ️ Labeled PR [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. ℹ️ Labeled PR [#6020](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6020) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5920](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5920#issuecomment-4546372769) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. ℹ️ Labeled PR [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#5](https://github.com/gobeeb/GoBeeb/pull/5) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
+4. 💪 Opened PR [#5](https://github.com/gobeeb/GoBeeb/pull/5) in [gobeeb/GoBeeb](https://github.com/gobeeb/GoBeeb)
+5. ℹ️ Labeled PR [#6009](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6009) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
