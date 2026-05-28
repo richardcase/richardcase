@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-4562370176) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#4](https://github.com/richardcase/pinger/pull/4) in [richardcase/pinger](https://github.com/richardcase/pinger)
-3. 🎉 Merged PR [#3](https://github.com/richardcase/pinger/pull/3) in [richardcase/pinger](https://github.com/richardcase/pinger)
-4. 💪 Opened PR [#3](https://github.com/richardcase/pinger/pull/3) in [richardcase/pinger](https://github.com/richardcase/pinger)
-5. 🎉 Merged PR [#2](https://github.com/richardcase/pinger/pull/2) in [richardcase/pinger](https://github.com/richardcase/pinger)
+1. 🎉 Merged PR [#4](https://github.com/richardcase/pinger/pull/4) in [richardcase/pinger](https://github.com/richardcase/pinger)
+2. 🎉 Merged PR [#5](https://github.com/richardcase/pinger/pull/5) in [richardcase/pinger](https://github.com/richardcase/pinger)
+3. 💪 Opened PR [#5](https://github.com/richardcase/pinger/pull/5) in [richardcase/pinger](https://github.com/richardcase/pinger)
+4. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-4562370176) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#4](https://github.com/richardcase/pinger/pull/4) in [richardcase/pinger](https://github.com/richardcase/pinger)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
