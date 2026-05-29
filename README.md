@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6002](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6002#issuecomment-4565279779) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#6034](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6034#issuecomment-4564577152) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#6034](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6034#issuecomment-4564566087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#4](https://github.com/richardcase/pinger/pull/4) in [richardcase/pinger](https://github.com/richardcase/pinger)
-5. 🎉 Merged PR [#5](https://github.com/richardcase/pinger/pull/5) in [richardcase/pinger](https://github.com/richardcase/pinger)
+1. 🗣 Commented on [#13736](https://github.com/kubernetes-sigs/cluster-api/pull/13736#issuecomment-4575094783) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+2. 💪 Opened PR [#6](https://github.com/richardcase/pinger/pull/6) in [richardcase/pinger](https://github.com/richardcase/pinger)
+3. 🗣 Commented on [#6002](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6002#issuecomment-4565279779) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#6034](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6034#issuecomment-4564577152) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6034](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6034#issuecomment-4564566087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
