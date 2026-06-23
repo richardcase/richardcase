@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5866](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5866#issuecomment-4778570168) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5854](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5854#issuecomment-4769044369) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#5992](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5992#issuecomment-4769711399) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. ℹ️ Assigned issue [#234](https://github.com/k3s-io/cluster-api-k3s/issues/234) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-5. 🗣 Commented on [#6063](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6063#issuecomment-4778492358) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-4778534524) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#5866](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5866#issuecomment-4778570168) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5854](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5854#issuecomment-4769044369) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#5992](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5992#issuecomment-4769711399) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. ℹ️ Assigned issue [#234](https://github.com/k3s-io/cluster-api-k3s/issues/234) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
