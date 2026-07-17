@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#1104](https://github.com/liquidmetal-dev/flintlock/issues/1104) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#1104](https://github.com/liquidmetal-dev/flintlock/issues/1104#issuecomment-4994446045) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🎉 Merged PR [#12](https://github.com/liquidmetal-dev/brigade/pull/12) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-4. 💪 Opened PR [#12](https://github.com/liquidmetal-dev/brigade/pull/12) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-5. 🎉 Merged PR [#31](https://github.com/liquidmetal-dev/mikrolite-images/pull/31) in [liquidmetal-dev/mikrolite-images](https://github.com/liquidmetal-dev/mikrolite-images)
+1. ℹ️ Labeled issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+2. ❗ Opened issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+3. ℹ️ Labeled issue [#19](https://github.com/liquidmetal-dev/brigade/issues/19) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+4. ❗ Opened issue [#19](https://github.com/liquidmetal-dev/brigade/issues/19) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+5. ℹ️ Labeled issue [#18](https://github.com/liquidmetal-dev/brigade/issues/18) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
