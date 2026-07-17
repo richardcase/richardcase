@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-2. ❗ Opened issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-3. ℹ️ Labeled issue [#19](https://github.com/liquidmetal-dev/brigade/issues/19) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-4. ❗ Opened issue [#19](https://github.com/liquidmetal-dev/brigade/issues/19) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
-5. ℹ️ Labeled issue [#18](https://github.com/liquidmetal-dev/brigade/issues/18) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+1. 🎉 Merged PR [#10](https://github.com/liquidmetal-dev/acceptance-tests/pull/10) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+2. 🎉 Merged PR [#11](https://github.com/liquidmetal-dev/acceptance-tests/pull/11) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+3. 💪 Opened PR [#11](https://github.com/liquidmetal-dev/acceptance-tests/pull/11) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+4. ℹ️ Labeled issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
+5. ❗ Opened issue [#20](https://github.com/liquidmetal-dev/brigade/issues/20) in [liquidmetal-dev/brigade](https://github.com/liquidmetal-dev/brigade)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
