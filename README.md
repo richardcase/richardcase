@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/richardcase/agentmux/pull/2) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
-2. 💪 Opened PR [#2](https://github.com/richardcase/agentmux/pull/2) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
-3. 🎉 Merged PR [#1](https://github.com/richardcase/agentmux/pull/1) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
-4. 💪 Opened PR [#1](https://github.com/richardcase/agentmux/pull/1) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
-5. 🗣 Commented on [#13832](https://github.com/kubernetes-sigs/cluster-api/pull/13832#issuecomment-5035634655) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🎉 Merged PR [#3](https://github.com/richardcase/agentmux/pull/3) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
+2. 💪 Opened PR [#3](https://github.com/richardcase/agentmux/pull/3) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
+3. 🎉 Merged PR [#2](https://github.com/richardcase/agentmux/pull/2) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
+4. 💪 Opened PR [#2](https://github.com/richardcase/agentmux/pull/2) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
+5. 🎉 Merged PR [#1](https://github.com/richardcase/agentmux/pull/1) in [richardcase/agentmux](https://github.com/richardcase/agentmux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
