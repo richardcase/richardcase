@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/liquidmetal-dev/acceptance-tests/pull/16) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
-2. 💪 Opened PR [#6158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#6157](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6157) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6157](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6157#issuecomment-5071682582) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#6157](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6157#issuecomment-5071471681) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#3](https://github.com/richardcase/towncrier/pull/3) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
+2. 🎉 Merged PR [#2](https://github.com/richardcase/towncrier/pull/2) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
+3. 💪 Opened PR [#2](https://github.com/richardcase/towncrier/pull/2) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
+4. 🎉 Merged PR [#1](https://github.com/richardcase/towncrier/pull/1) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
+5. 💪 Opened PR [#1](https://github.com/richardcase/towncrier/pull/1) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
