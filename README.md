@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6158](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6158) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#1](https://github.com/richardcase/skills/pull/1) in [richardcase/skills](https://github.com/richardcase/skills)
-3. 💪 Opened PR [#1](https://github.com/richardcase/skills/pull/1) in [richardcase/skills](https://github.com/richardcase/skills)
-4. 💪 Opened PR [#3](https://github.com/richardcase/towncrier/pull/3) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
-5. 🎉 Merged PR [#2](https://github.com/richardcase/towncrier/pull/2) in [richardcase/towncrier](https://github.com/richardcase/towncrier)
+1. 💪 Opened PR [#6161](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6161) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#6160](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6160) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#6160](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6160#issuecomment-5090299061) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#6160](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6160#issuecomment-5090298087) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 💪 Opened PR [#6160](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6160) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
