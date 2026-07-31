@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/liquidmetal-dev-backup/flintlock/pull/9) in [liquidmetal-dev-backup/flintlock](https://github.com/liquidmetal-dev-backup/flintlock)
-2. 🎉 Merged PR [#6](https://github.com/richardcase/pinger/pull/6) in [richardcase/pinger](https://github.com/richardcase/pinger)
-3. 🗣 Commented on [#9786](https://github.com/kubernetes/k8s.io/pull/9786#issuecomment-5120244280) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
-4. 🗣 Commented on [#6164](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6164#issuecomment-5115434412) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#6150](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6150#issuecomment-5105358811) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🚀 Published release [v0.3.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.3.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
+2. 🎉 Merged PR [#9](https://github.com/liquidmetal-dev-backup/flintlock/pull/9) in [liquidmetal-dev-backup/flintlock](https://github.com/liquidmetal-dev-backup/flintlock)
+3. 🎉 Merged PR [#6](https://github.com/richardcase/pinger/pull/6) in [richardcase/pinger](https://github.com/richardcase/pinger)
+4. 🗣 Commented on [#9786](https://github.com/kubernetes/k8s.io/pull/9786#issuecomment-5120244280) in [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io)
+5. 🗣 Commented on [#6164](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6164#issuecomment-5115434412) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
