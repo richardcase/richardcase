@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6002](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6002#issuecomment-5167518564) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#6453](https://github.com/stablyai/orca/pull/6453#issuecomment-5165086104) in [stablyai/orca](https://github.com/stablyai/orca)
-3. 🗣 Commented on [#1082](https://github.com/stablyai/orca/issues/1082#issuecomment-5165080427) in [stablyai/orca](https://github.com/stablyai/orca)
-4. 🚀 Published release [v0.3.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.3.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
-5. 🎉 Merged PR [#9](https://github.com/liquidmetal-dev-backup/flintlock/pull/9) in [liquidmetal-dev-backup/flintlock](https://github.com/liquidmetal-dev-backup/flintlock)
+1. 🗣 Commented on [#6174](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6174#issuecomment-5178053231) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#6063](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6063#issuecomment-5177871528) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#6174](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6174) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#6002](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6002#issuecomment-5167518564) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6453](https://github.com/stablyai/orca/pull/6453#issuecomment-5165086104) in [stablyai/orca](https://github.com/stablyai/orca)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
