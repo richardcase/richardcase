@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-5194914741) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 💪 Opened PR [#14033](https://github.com/kubernetes-sigs/cluster-api/pull/14033) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#235](https://github.com/k3s-io/cluster-api-k3s/pull/235#issuecomment-5192055783) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
-4. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5181660247) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. 💪 Opened PR [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🚀 Published release [v0.4.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.4.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
+2. 🗣 Commented on [#5777](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5777#issuecomment-5194914741) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 💪 Opened PR [#14033](https://github.com/kubernetes-sigs/cluster-api/pull/14033) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#235](https://github.com/k3s-io/cluster-api-k3s/pull/235#issuecomment-5192055783) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+5. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5181660247) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
