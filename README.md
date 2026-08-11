@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5254170057) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5242212598) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#15714](https://github.com/dependabot/dependabot-core/issues/15714#issuecomment-5218569905) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
-4. 🚀 Published release [v0.5.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.5.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
-5. 🗣 Commented on [#12798](https://github.com/kubernetes-sigs/cluster-api/issues/12798#issuecomment-5207484008) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 💪 Opened PR [#1](https://github.com/richardcase/clowder-site/pull/1) in [richardcase/clowder-site](https://github.com/richardcase/clowder-site)
+2. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5254170057) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5242212598) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#15714](https://github.com/dependabot/dependabot-core/issues/15714#issuecomment-5218569905) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+5. 🚀 Published release [v0.5.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.5.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
