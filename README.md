@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5269187719) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#5](https://github.com/defiantsoftware/clowder-site/pull/5) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-3. ❗ Opened issue [#6](https://github.com/defiantsoftware/clowder-site/issues/6) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-4. 💪 Opened PR [#5](https://github.com/defiantsoftware/clowder-site/pull/5) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-5. 💪 Opened PR [#1](https://github.com/defiantsoftware/homebrew-clowder/pull/1) in [defiantsoftware/homebrew-clowder](https://github.com/defiantsoftware/homebrew-clowder)
+1. ℹ️ Labeled issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+2. ❗ Opened issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+3. ℹ️ Labeled issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+4. ℹ️ Labeled issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+5. ❗ Opened issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
