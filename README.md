@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/richardcase/clowder-site/pull/1) in [richardcase/clowder-site](https://github.com/richardcase/clowder-site)
-2. 💪 Opened PR [#1](https://github.com/richardcase/clowder-site/pull/1) in [richardcase/clowder-site](https://github.com/richardcase/clowder-site)
-3. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5254170057) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5242212598) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#15714](https://github.com/dependabot/dependabot-core/issues/15714#issuecomment-5218569905) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)
+1. 🗣 Commented on [#5808](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5808#issuecomment-5269187719) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#5](https://github.com/defiantsoftware/clowder-site/pull/5) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+3. ❗ Opened issue [#6](https://github.com/defiantsoftware/clowder-site/issues/6) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+4. 💪 Opened PR [#5](https://github.com/defiantsoftware/clowder-site/pull/5) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+5. 💪 Opened PR [#1](https://github.com/defiantsoftware/homebrew-clowder/pull/1) in [defiantsoftware/homebrew-clowder](https://github.com/defiantsoftware/homebrew-clowder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
