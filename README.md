@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/defiantsoftware/clowder-site/pull/29) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-2. 🎉 Merged PR [#27](https://github.com/defiantsoftware/clowder-site/pull/27) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-3. 🔒 Closed issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-4. ℹ️ Labeled issue [#28](https://github.com/defiantsoftware/clowder-site/issues/28) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-5. ❗ Opened issue [#28](https://github.com/defiantsoftware/clowder-site/issues/28) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+1. ℹ️ Labeled issue [#25](https://github.com/richardcase/skillsctl/issues/25) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+2. ❗ Opened issue [#25](https://github.com/richardcase/skillsctl/issues/25) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+3. ℹ️ Labeled issue [#24](https://github.com/richardcase/skillsctl/issues/24) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+4. ❗ Opened issue [#24](https://github.com/richardcase/skillsctl/issues/24) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+5. ❗ Opened issue [#23](https://github.com/richardcase/skillsctl/issues/23) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
