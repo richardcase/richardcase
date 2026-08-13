@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-2. ❗ Opened issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-3. ℹ️ Labeled issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-4. ℹ️ Labeled issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
-5. ❗ Opened issue [#17](https://github.com/defiantsoftware/clowder-site/issues/17) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+1. 💪 Opened PR [#29](https://github.com/defiantsoftware/clowder-site/pull/29) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+2. 🎉 Merged PR [#27](https://github.com/defiantsoftware/clowder-site/pull/27) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+3. 🔒 Closed issue [#18](https://github.com/defiantsoftware/clowder-site/issues/18) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+4. ℹ️ Labeled issue [#28](https://github.com/defiantsoftware/clowder-site/issues/28) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
+5. ❗ Opened issue [#28](https://github.com/defiantsoftware/clowder-site/issues/28) in [defiantsoftware/clowder-site](https://github.com/defiantsoftware/clowder-site)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
