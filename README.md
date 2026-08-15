@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/richardcase/skillsctl/issues/17) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. 🎉 Merged PR [#45](https://github.com/richardcase/skillsctl/pull/45) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. 💪 Opened PR [#45](https://github.com/richardcase/skillsctl/pull/45) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. 🎉 Merged PR [#44](https://github.com/richardcase/skillsctl/pull/44) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-5. 🔒 Closed issue [#14](https://github.com/richardcase/skillsctl/issues/14) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. 🔒 Closed issue [#48](https://github.com/richardcase/skillsctl/issues/48) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+2. 🎉 Merged PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+3. 💪 Opened PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+4. ❗ Opened issue [#48](https://github.com/richardcase/skillsctl/issues/48) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+5. 🎉 Merged PR [#47](https://github.com/richardcase/skillsctl/pull/47) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
