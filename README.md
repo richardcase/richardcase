@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.1](https://github.com/richardcase/tap-probe/releases/tag/v0.6.1) in [richardcase/tap-probe](https://github.com/richardcase/tap-probe)
-2. 🔒 Closed issue [#48](https://github.com/richardcase/skillsctl/issues/48) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. 🎉 Merged PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. 💪 Opened PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-5. ❗ Opened issue [#48](https://github.com/richardcase/skillsctl/issues/48) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. 🚀 Published release [v0.7.0](https://github.com/defiantsoftware/homebrew-clowder/releases/tag/v0.7.0) in [defiantsoftware/homebrew-clowder](https://github.com/defiantsoftware/homebrew-clowder)
+2. 🚀 Published release [v0.6.1](https://github.com/richardcase/tap-probe/releases/tag/v0.6.1) in [richardcase/tap-probe](https://github.com/richardcase/tap-probe)
+3. 🔒 Closed issue [#48](https://github.com/richardcase/skillsctl/issues/48) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+4. 🎉 Merged PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+5. 💪 Opened PR [#49](https://github.com/richardcase/skillsctl/pull/49) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
