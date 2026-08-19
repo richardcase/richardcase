@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/richardcase/skillsctl/pull/74) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. 🎉 Merged PR [#73](https://github.com/richardcase/skillsctl/pull/73) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. 💪 Opened PR [#74](https://github.com/richardcase/skillsctl/pull/74) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. 💪 Opened PR [#73](https://github.com/richardcase/skillsctl/pull/73) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-5. 🎉 Merged PR [#72](https://github.com/richardcase/skillsctl/pull/72) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. ❌ Closed PR [#240](https://github.com/k3s-io/cluster-api-k3s/pull/240) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+2. 🗣 Commented on [#240](https://github.com/k3s-io/cluster-api-k3s/pull/240#issuecomment-5341489811) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+3. 🗣 Commented on [#238](https://github.com/k3s-io/cluster-api-k3s/pull/238#issuecomment-5341485182) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🗣 Commented on [#237](https://github.com/k3s-io/cluster-api-k3s/pull/237#issuecomment-5341436970) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+5. 🗣 Commented on [#239](https://github.com/k3s-io/cluster-api-k3s/pull/239#issuecomment-5341433740) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
