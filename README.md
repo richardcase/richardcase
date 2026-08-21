@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/richardcase/skillsctl/issues/94) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. ❗ Opened issue [#93](https://github.com/richardcase/skillsctl/issues/93) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. 🎉 Merged PR [#91](https://github.com/richardcase/skillsctl/pull/91) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. ❗ Opened issue [#92](https://github.com/richardcase/skillsctl/issues/92) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-5. 🎉 Merged PR [#89](https://github.com/richardcase/skillsctl/pull/89) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. 🔒 Closed issue [#94](https://github.com/richardcase/skillsctl/issues/94) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+2. 🎉 Merged PR [#96](https://github.com/richardcase/skillsctl/pull/96) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+3. 💪 Opened PR [#96](https://github.com/richardcase/skillsctl/pull/96) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+4. 🗣 Commented on [#5811](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5811#issuecomment-5371330720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6018](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6018#issuecomment-5371323422) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
