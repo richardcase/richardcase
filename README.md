@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#94](https://github.com/richardcase/skillsctl/issues/94) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. 🎉 Merged PR [#96](https://github.com/richardcase/skillsctl/pull/96) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. 💪 Opened PR [#96](https://github.com/richardcase/skillsctl/pull/96) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. 🗣 Commented on [#5811](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/5811#issuecomment-5371330720) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#6018](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6018#issuecomment-5371323422) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#25](https://github.com/richardcase/jumux/pull/25) in [richardcase/jumux](https://github.com/richardcase/jumux)
+2. 🔒 Closed issue [#9](https://github.com/richardcase/jumux/issues/9) in [richardcase/jumux](https://github.com/richardcase/jumux)
+3. 🎉 Merged PR [#24](https://github.com/richardcase/jumux/pull/24) in [richardcase/jumux](https://github.com/richardcase/jumux)
+4. 💪 Opened PR [#24](https://github.com/richardcase/jumux/pull/24) in [richardcase/jumux](https://github.com/richardcase/jumux)
+5. 🎉 Merged PR [#23](https://github.com/richardcase/jumux/pull/23) in [richardcase/jumux](https://github.com/richardcase/jumux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
