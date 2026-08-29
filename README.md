@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/richardcase/jumux/pull/27) in [richardcase/jumux](https://github.com/richardcase/jumux)
-2. 🔒 Closed issue [#10](https://github.com/richardcase/jumux/issues/10) in [richardcase/jumux](https://github.com/richardcase/jumux)
-3. 🎉 Merged PR [#28](https://github.com/richardcase/jumux/pull/28) in [richardcase/jumux](https://github.com/richardcase/jumux)
-4. 🔒 Closed issue [#8](https://github.com/richardcase/jumux/issues/8) in [richardcase/jumux](https://github.com/richardcase/jumux)
-5. 💪 Opened PR [#28](https://github.com/richardcase/jumux/pull/28) in [richardcase/jumux](https://github.com/richardcase/jumux)
+1. 💪 Opened PR [#32](https://github.com/richardcase/jumux/pull/32) in [richardcase/jumux](https://github.com/richardcase/jumux)
+2. 💪 Opened PR [#31](https://github.com/richardcase/jumux/pull/31) in [richardcase/jumux](https://github.com/richardcase/jumux)
+3. 🎉 Merged PR [#30](https://github.com/richardcase/jumux/pull/30) in [richardcase/jumux](https://github.com/richardcase/jumux)
+4. 💪 Opened PR [#30](https://github.com/richardcase/jumux/pull/30) in [richardcase/jumux](https://github.com/richardcase/jumux)
+5. 🔒 Closed issue [#16](https://github.com/richardcase/jumux/issues/16) in [richardcase/jumux](https://github.com/richardcase/jumux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
