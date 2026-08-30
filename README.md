@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/richardcase/clowder/pull/107) in [richardcase/clowder](https://github.com/richardcase/clowder)
-2. ℹ️ Labeled issue [#116](https://github.com/richardcase/clowder/issues/116) in [richardcase/clowder](https://github.com/richardcase/clowder)
-3. ❗ Opened issue [#116](https://github.com/richardcase/clowder/issues/116) in [richardcase/clowder](https://github.com/richardcase/clowder)
-4. ❗ Opened issue [#115](https://github.com/richardcase/clowder/issues/115) in [richardcase/clowder](https://github.com/richardcase/clowder)
-5. ❗ Opened issue [#114](https://github.com/richardcase/clowder/issues/114) in [richardcase/clowder](https://github.com/richardcase/clowder)
+1. 🚀 Published release [v0.8.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.8.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
+2. 🎉 Merged PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
+3. ℹ️ Labeled PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
+4. 💪 Opened PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
+5. 🎉 Merged PR [#107](https://github.com/richardcase/clowder/pull/107) in [richardcase/clowder](https://github.com/richardcase/clowder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
