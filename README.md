@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.8.0](https://github.com/richardcase/homebrew-clowder/releases/tag/v0.8.0) in [richardcase/homebrew-clowder](https://github.com/richardcase/homebrew-clowder)
-2. 🎉 Merged PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
-3. ℹ️ Labeled PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
-4. 💪 Opened PR [#118](https://github.com/richardcase/clowder/pull/118) in [richardcase/clowder](https://github.com/richardcase/clowder)
-5. 🎉 Merged PR [#107](https://github.com/richardcase/clowder/pull/107) in [richardcase/clowder](https://github.com/richardcase/clowder)
+1. ❌ Closed PR [#6](https://github.com/liquidmetal-dev-backup/microvm-operator/pull/6) in [liquidmetal-dev-backup/microvm-operator](https://github.com/liquidmetal-dev-backup/microvm-operator)
+2. ❌ Closed PR [#1](https://github.com/liquidmetal-dev-backup/fl/pull/1) in [liquidmetal-dev-backup/fl](https://github.com/liquidmetal-dev-backup/fl)
+3. ❌ Closed PR [#6](https://github.com/richardcase/release-notes-test/pull/6) in [richardcase/release-notes-test](https://github.com/richardcase/release-notes-test)
+4. ❌ Closed PR [#322](https://github.com/fidelity/kconnect/pull/322) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
+5. ❌ Closed PR [#319](https://github.com/fidelity/kconnect/pull/319) in [fidelity/kconnect](https://github.com/fidelity/kconnect)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
