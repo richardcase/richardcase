@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/richardcase/jumux/pull/38) in [richardcase/jumux](https://github.com/richardcase/jumux)
-2. 🔒 Closed issue [#18](https://github.com/richardcase/jumux/issues/18) in [richardcase/jumux](https://github.com/richardcase/jumux)
-3. 🔒 Closed issue [#11](https://github.com/richardcase/jumux/issues/11) in [richardcase/jumux](https://github.com/richardcase/jumux)
-4. 🎉 Merged PR [#36](https://github.com/richardcase/jumux/pull/36) in [richardcase/jumux](https://github.com/richardcase/jumux)
-5. 🔒 Closed issue [#7](https://github.com/richardcase/jumux/issues/7) in [richardcase/jumux](https://github.com/richardcase/jumux)
+1. 🎉 Merged PR [#107](https://github.com/richardcase/clowder/pull/107) in [richardcase/clowder](https://github.com/richardcase/clowder)
+2. ℹ️ Labeled issue [#116](https://github.com/richardcase/clowder/issues/116) in [richardcase/clowder](https://github.com/richardcase/clowder)
+3. ❗ Opened issue [#116](https://github.com/richardcase/clowder/issues/116) in [richardcase/clowder](https://github.com/richardcase/clowder)
+4. ❗ Opened issue [#115](https://github.com/richardcase/clowder/issues/115) in [richardcase/clowder](https://github.com/richardcase/clowder)
+5. ❗ Opened issue [#114](https://github.com/richardcase/clowder/issues/114) in [richardcase/clowder](https://github.com/richardcase/clowder)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
