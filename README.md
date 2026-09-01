@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/richardcase/skillsctl/pull/137) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. 💪 Opened PR [#137](https://github.com/richardcase/skillsctl/pull/137) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. ❗ Opened issue [#138](https://github.com/richardcase/clowder/issues/138) in [richardcase/clowder](https://github.com/richardcase/clowder)
-4. ❗ Opened issue [#135](https://github.com/richardcase/clowder/issues/135) in [richardcase/clowder](https://github.com/richardcase/clowder)
-5. ❗ Opened issue [#134](https://github.com/richardcase/clowder/issues/134) in [richardcase/clowder](https://github.com/richardcase/clowder)
+1. ℹ️ Labeled issue [#8](https://github.com/liquidmetal-dev/flintlock/issues/8) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 🗣 Commented on [#56](https://github.com/richardcase/clowder/issues/56#issuecomment-5490691941) in [richardcase/clowder](https://github.com/richardcase/clowder)
+3. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5494644677) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+4. 🗣 Commented on [#1049](https://github.com/liquidmetal-dev/flintlock/pull/1049#issuecomment-5494623964) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 🗣 Commented on [#237](https://github.com/k3s-io/cluster-api-k3s/pull/237#issuecomment-5494578917) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
