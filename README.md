@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#127](https://github.com/richardcase/skillsctl/issues/127) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-2. 🎉 Merged PR [#129](https://github.com/richardcase/skillsctl/pull/129) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-3. ❗ Opened issue [#122](https://github.com/richardcase/skillsctl/issues/122) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-4. ❗ Opened issue [#121](https://github.com/richardcase/skillsctl/issues/121) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
-5. ❗ Opened issue [#120](https://github.com/richardcase/skillsctl/issues/120) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. 🎉 Merged PR [#67](https://github.com/richardcase/jumux/pull/67) in [richardcase/jumux](https://github.com/richardcase/jumux)
+2. 🎉 Merged PR [#144](https://github.com/richardcase/clowder/pull/144) in [richardcase/clowder](https://github.com/richardcase/clowder)
+3. 🔒 Closed issue [#136](https://github.com/richardcase/clowder/issues/136) in [richardcase/clowder](https://github.com/richardcase/clowder)
+4. 🔒 Closed issue [#54](https://github.com/richardcase/jumux/issues/54) in [richardcase/jumux](https://github.com/richardcase/jumux)
+5. 🎉 Merged PR [#66](https://github.com/richardcase/jumux/pull/66) in [richardcase/jumux](https://github.com/richardcase/jumux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
