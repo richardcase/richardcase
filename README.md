@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5497490637) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. ❗ Opened issue [#1158](https://github.com/liquidmetal-dev/flintlock/issues/1158) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. ❗ Opened issue [#1159](https://github.com/liquidmetal-dev/flintlock/issues/1159) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. ❗ Opened issue [#1161](https://github.com/liquidmetal-dev/flintlock/issues/1161) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#30](https://github.com/richardcase/skillsctl/issues/30#issuecomment-5493157236) in [richardcase/skillsctl](https://github.com/richardcase/skillsctl)
+1. 💪 Opened PR [#1167](https://github.com/liquidmetal-dev/flintlock/pull/1167) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 💪 Opened PR [#1166](https://github.com/liquidmetal-dev/flintlock/pull/1166) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+3. 💪 Opened PR [#1165](https://github.com/liquidmetal-dev/flintlock/pull/1165) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. ℹ️ Assigned issue [#665](https://github.com/liquidmetal-dev/flintlock/issues/665) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. ℹ️ Assigned issue [#1161](https://github.com/liquidmetal-dev/flintlock/issues/1161) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
