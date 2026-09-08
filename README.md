@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6216](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6216#issuecomment-5588020358) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220#issuecomment-5587899988) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🎉 Merged PR [#19](https://github.com/liquidmetal-dev/acceptance-tests/pull/19) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
-5. 💪 Opened PR [#19](https://github.com/liquidmetal-dev/acceptance-tests/pull/19) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+1. 🎉 Merged PR [#60](https://github.com/liquidmetal-dev/battery/pull/60) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+2. 💪 Opened PR [#60](https://github.com/liquidmetal-dev/battery/pull/60) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. 🗣 Commented on [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220#issuecomment-5588976992) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220#issuecomment-5588148828) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6216](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6216#issuecomment-5588020358) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
