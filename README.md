@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/liquidmetal-dev/battery/pull/60) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-2. 💪 Opened PR [#60](https://github.com/liquidmetal-dev/battery/pull/60) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-3. 🗣 Commented on [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220#issuecomment-5588976992) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-4. 🗣 Commented on [#6220](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6220#issuecomment-5588148828) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#6216](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6216#issuecomment-5588020358) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#87](https://github.com/richardcase/jumux/pull/87) in [richardcase/jumux](https://github.com/richardcase/jumux)
+2. 💪 Opened PR [#86](https://github.com/richardcase/jumux/pull/86) in [richardcase/jumux](https://github.com/richardcase/jumux)
+3. ℹ️ Assigned issue [#74](https://github.com/richardcase/jumux/issues/74) in [richardcase/jumux](https://github.com/richardcase/jumux)
+4. ℹ️ Assigned issue [#71](https://github.com/richardcase/jumux/issues/71) in [richardcase/jumux](https://github.com/richardcase/jumux)
+5. ℹ️ Assigned issue [#72](https://github.com/richardcase/jumux/issues/72) in [richardcase/jumux](https://github.com/richardcase/jumux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
