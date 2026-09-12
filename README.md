@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/liquidmetal-dev/battery/pull/82) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-2. 💪 Opened PR [#275](https://github.com/raine/workmux/pull/275) in [raine/workmux](https://github.com/raine/workmux)
-3. 💪 Opened PR [#82](https://github.com/liquidmetal-dev/battery/pull/82) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-4. ℹ️ Labeled issue [#93](https://github.com/richardcase/jumux/issues/93) in [richardcase/jumux](https://github.com/richardcase/jumux)
-5. ℹ️ Labeled issue [#93](https://github.com/richardcase/jumux/issues/93) in [richardcase/jumux](https://github.com/richardcase/jumux)
+1. 💪 Opened PR [#21](https://github.com/richardcase/fabrik/pull/21) in [richardcase/fabrik](https://github.com/richardcase/fabrik)
+2. 🔒 Closed issue [#59](https://github.com/liquidmetal-dev/battery/issues/59) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. ℹ️ Assigned issue [#20](https://github.com/richardcase/fabrik/issues/20) in [richardcase/fabrik](https://github.com/richardcase/fabrik)
+4. ℹ️ Labeled issue [#20](https://github.com/richardcase/fabrik/issues/20) in [richardcase/fabrik](https://github.com/richardcase/fabrik)
+5. ❗ Opened issue [#20](https://github.com/richardcase/fabrik/issues/20) in [richardcase/fabrik](https://github.com/richardcase/fabrik)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
