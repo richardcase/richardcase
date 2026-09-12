@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#76](https://github.com/richardcase/jumux/issues/76) in [richardcase/jumux](https://github.com/richardcase/jumux)
-2. 🎉 Merged PR [#88](https://github.com/richardcase/jumux/pull/88) in [richardcase/jumux](https://github.com/richardcase/jumux)
-3. 💪 Opened PR [#90](https://github.com/richardcase/jumux/pull/90) in [richardcase/jumux](https://github.com/richardcase/jumux)
-4. 💪 Opened PR [#89](https://github.com/richardcase/jumux/pull/89) in [richardcase/jumux](https://github.com/richardcase/jumux)
-5. 💪 Opened PR [#88](https://github.com/richardcase/jumux/pull/88) in [richardcase/jumux](https://github.com/richardcase/jumux)
+1. 🎉 Merged PR [#82](https://github.com/liquidmetal-dev/battery/pull/82) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+2. 💪 Opened PR [#275](https://github.com/raine/workmux/pull/275) in [raine/workmux](https://github.com/raine/workmux)
+3. 💪 Opened PR [#82](https://github.com/liquidmetal-dev/battery/pull/82) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. ℹ️ Labeled issue [#93](https://github.com/richardcase/jumux/issues/93) in [richardcase/jumux](https://github.com/richardcase/jumux)
+5. ℹ️ Labeled issue [#93](https://github.com/richardcase/jumux/issues/93) in [richardcase/jumux](https://github.com/richardcase/jumux)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
