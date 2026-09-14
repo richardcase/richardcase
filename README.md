@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/bootc-dev/bootc-operator/issues/113#issuecomment-5661852789) in [bootc-dev/bootc-operator](https://github.com/bootc-dev/bootc-operator)
-2. 💪 Opened PR [#84](https://github.com/liquidmetal-dev/battery/pull/84) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-3. 💪 Opened PR [#83](https://github.com/liquidmetal-dev/battery/pull/83) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-4. 💪 Opened PR [#21](https://github.com/richardcase/fabrik/pull/21) in [richardcase/fabrik](https://github.com/richardcase/fabrik)
-5. 🔒 Closed issue [#59](https://github.com/liquidmetal-dev/battery/issues/59) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+1. 🗣 Commented on [#6200](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6200#issuecomment-5666454406) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#6202](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6202#issuecomment-5666410223) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🗣 Commented on [#6195](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6195#issuecomment-5665428301) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#6200](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6200#issuecomment-5665423639) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+5. 🗣 Commented on [#6200](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6200#issuecomment-5665421656) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
