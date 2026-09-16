@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/liquidmetal-dev/flintlock/pull/1179#issuecomment-5700568030) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#1223](https://github.com/liquidmetal-dev/flintlock/pull/1223#issuecomment-5700560812) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 💪 Opened PR [#1223](https://github.com/liquidmetal-dev/flintlock/pull/1223) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 🗣 Commented on [#1208](https://github.com/liquidmetal-dev/flintlock/pull/1208#issuecomment-5699968207) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#1220](https://github.com/liquidmetal-dev/flintlock/pull/1220#issuecomment-5699961348) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. ❌ Closed PR [#1179](https://github.com/liquidmetal-dev/flintlock/pull/1179) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 🎉 Merged PR [#1223](https://github.com/liquidmetal-dev/flintlock/pull/1223) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+3. 🗣 Commented on [#249](https://github.com/k3s-io/cluster-api-k3s/pull/249#issuecomment-5702598493) in [k3s-io/cluster-api-k3s](https://github.com/k3s-io/cluster-api-k3s)
+4. 🗣 Commented on [#1223](https://github.com/liquidmetal-dev/flintlock/pull/1223#issuecomment-5700608177) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. 🗣 Commented on [#1179](https://github.com/liquidmetal-dev/flintlock/pull/1179#issuecomment-5700568030) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
