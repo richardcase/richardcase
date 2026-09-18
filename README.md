@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37879](https://github.com/kubernetes/test-infra/pull/37879) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-2. 💪 Opened PR [#6247](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6247) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 💪 Opened PR [#37879](https://github.com/kubernetes/test-infra/pull/37879) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
-4. 🎉 Merged PR [#6653](https://github.com/kubernetes/org/pull/6653) in [kubernetes/org](https://github.com/kubernetes/org)
-5. 💪 Opened PR [#6653](https://github.com/kubernetes/org/pull/6653) in [kubernetes/org](https://github.com/kubernetes/org)
+1. 🗣 Commented on [#6235](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6235#issuecomment-5732218287) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🎉 Merged PR [#86](https://github.com/liquidmetal-dev/battery/pull/86) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. 💪 Opened PR [#86](https://github.com/liquidmetal-dev/battery/pull/86) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. 🎉 Merged PR [#37879](https://github.com/kubernetes/test-infra/pull/37879) in [kubernetes/test-infra](https://github.com/kubernetes/test-infra)
+5. 💪 Opened PR [#6247](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6247) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
