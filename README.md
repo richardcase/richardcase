@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1230](https://github.com/liquidmetal-dev/flintlock/issues/1230) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. ℹ️ Assigned issue [#7](https://github.com/liquidmetal-dev/flintlock/issues/7) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#46](https://github.com/liquidmetal-dev/battery/issues/46#issuecomment-5792747835) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-4. 🗣 Commented on [#46](https://github.com/liquidmetal-dev/battery/issues/46#issuecomment-5792289204) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-5. 🗣 Commented on [#1237](https://github.com/liquidmetal-dev/flintlock/issues/1237#issuecomment-5792027003) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🗣 Commented on [#46](https://github.com/liquidmetal-dev/battery/issues/46#issuecomment-5796443026) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+2. 🗣 Commented on [#6208](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6208#issuecomment-5796422755) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. ℹ️ Labeled issue [#1248](https://github.com/liquidmetal-dev/flintlock/issues/1248) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. ℹ️ Labeled issue [#1248](https://github.com/liquidmetal-dev/flintlock/issues/1248) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. ❗ Opened issue [#1248](https://github.com/liquidmetal-dev/flintlock/issues/1248) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
