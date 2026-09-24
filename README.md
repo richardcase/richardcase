@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14234](https://github.com/kubernetes-sigs/cluster-api/pull/14234#issuecomment-5810219259) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5809739413) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-3. 🗣 Commented on [#14030](https://github.com/kubernetes-sigs/cluster-api/pull/14030#issuecomment-5798493932) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-4. 🗣 Commented on [#46](https://github.com/liquidmetal-dev/battery/issues/46#issuecomment-5796443026) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-5. 🗣 Commented on [#6208](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6208#issuecomment-5796422755) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 💪 Opened PR [#1896](https://github.com/cncf/people/pull/1896) in [cncf/people](https://github.com/cncf/people)
+2. ℹ️ Assigned issue [#57](https://github.com/liquidmetal-dev/battery/issues/57) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. ℹ️ Assigned issue [#66](https://github.com/liquidmetal-dev/battery/issues/66) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. ℹ️ Assigned issue [#74](https://github.com/liquidmetal-dev/battery/issues/74) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+5. 🎉 Merged PR [#99](https://github.com/liquidmetal-dev/battery/pull/99) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
