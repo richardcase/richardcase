@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13111](https://github.com/containerd/containerd/pull/13111#issuecomment-5827549084) in [containerd/containerd](https://github.com/containerd/containerd)
-2. 🗣 Commented on [#1249](https://github.com/liquidmetal-dev/flintlock/pull/1249#issuecomment-5827506019) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 💪 Opened PR [#1250](https://github.com/liquidmetal-dev/flintlock/pull/1250) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#1896](https://github.com/cncf/people/pull/1896) in [cncf/people](https://github.com/cncf/people)
-5. ℹ️ Assigned issue [#57](https://github.com/liquidmetal-dev/battery/issues/57) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+1. 🎉 Merged PR [#83](https://github.com/liquidmetal-dev/battery/pull/83) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+2. 🔒 Closed issue [#66](https://github.com/liquidmetal-dev/battery/issues/66) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. 🗣 Commented on [#83](https://github.com/liquidmetal-dev/battery/pull/83#issuecomment-5830973341) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. 🗣 Commented on [#83](https://github.com/liquidmetal-dev/battery/pull/83#issuecomment-5830669786) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+5. ❗ Opened issue [#104](https://github.com/liquidmetal-dev/battery/issues/104) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
