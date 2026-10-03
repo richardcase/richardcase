@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/liquidmetal-dev/acceptance-tests/pull/23) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
-2. 💪 Opened PR [#23](https://github.com/liquidmetal-dev/acceptance-tests/pull/23) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
-3. 🎉 Merged PR [#1282](https://github.com/liquidmetal-dev/flintlock/pull/1282) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#1282](https://github.com/liquidmetal-dev/flintlock/pull/1282) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🔒 Closed issue [#1265](https://github.com/liquidmetal-dev/flintlock/issues/1265) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🎉 Merged PR [#125](https://github.com/liquidmetal-dev/battery/pull/125) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+2. 🔒 Closed issue [#113](https://github.com/liquidmetal-dev/battery/issues/113) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+3. 🎉 Merged PR [#122](https://github.com/liquidmetal-dev/battery/pull/122) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. 🔒 Closed issue [#116](https://github.com/liquidmetal-dev/battery/issues/116) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+5. 🎉 Merged PR [#121](https://github.com/liquidmetal-dev/battery/pull/121) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
