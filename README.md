@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1283](https://github.com/liquidmetal-dev/flintlock/issues/1283) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. ℹ️ Labeled issue [#1283](https://github.com/liquidmetal-dev/flintlock/issues/1283) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#1263](https://github.com/liquidmetal-dev/flintlock/issues/1263#issuecomment-5992246725) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 🎉 Merged PR [#125](https://github.com/liquidmetal-dev/battery/pull/125) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-5. 🔒 Closed issue [#113](https://github.com/liquidmetal-dev/battery/issues/113) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+1. 🎉 Merged PR [#24](https://github.com/liquidmetal-dev/acceptance-tests/pull/24) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+2. 💪 Opened PR [#24](https://github.com/liquidmetal-dev/acceptance-tests/pull/24) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+3. ❗ Opened issue [#1285](https://github.com/liquidmetal-dev/flintlock/issues/1285) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. ℹ️ Labeled issue [#1285](https://github.com/liquidmetal-dev/flintlock/issues/1285) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. ℹ️ Labeled issue [#1285](https://github.com/liquidmetal-dev/flintlock/issues/1285) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
