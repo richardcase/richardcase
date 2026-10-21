@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1335](https://github.com/liquidmetal-dev/flintlock/pull/1335) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. 🗣 Commented on [#206](https://github.com/liquidmetal-dev/flintlock/issues/206#issuecomment-6173206925) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. 🗣 Commented on [#124](https://github.com/liquidmetal-dev/battery/issues/124#issuecomment-6173474039) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
-4. 🗣 Commented on [#1057](https://github.com/liquidmetal-dev/flintlock/issues/1057#issuecomment-6168163256) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#1304](https://github.com/liquidmetal-dev/flintlock/issues/1304#issuecomment-6170455165) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. ❗ Opened issue [#26](https://github.com/omniva-ai/sweeper/issues/26) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+2. ❗ Opened issue [#25](https://github.com/omniva-ai/sweeper/issues/25) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+3. ❗ Opened issue [#24](https://github.com/omniva-ai/sweeper/issues/24) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+4. ❗ Opened issue [#23](https://github.com/omniva-ai/sweeper/issues/23) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+5. ❗ Opened issue [#22](https://github.com/omniva-ai/sweeper/issues/22) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
