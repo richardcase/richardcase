@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/omniva-ai/sweeper/issues/26) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-2. ❗ Opened issue [#25](https://github.com/omniva-ai/sweeper/issues/25) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-3. ❗ Opened issue [#24](https://github.com/omniva-ai/sweeper/issues/24) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-4. ❗ Opened issue [#23](https://github.com/omniva-ai/sweeper/issues/23) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-5. ❗ Opened issue [#22](https://github.com/omniva-ai/sweeper/issues/22) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+1. 🎉 Merged PR [#1](https://github.com/omniva-ai/sweeper/pull/1) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+2. ℹ️ Assigned issue [#3](https://github.com/omniva-ai/sweeper/issues/3) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+3. ℹ️ Assigned issue [#2](https://github.com/omniva-ai/sweeper/issues/2) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+4. ❗ Opened issue [#26](https://github.com/omniva-ai/sweeper/issues/26) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+5. ❗ Opened issue [#25](https://github.com/omniva-ai/sweeper/issues/25) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
