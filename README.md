@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/omniva-ai/sweeper/pull/1) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-2. ℹ️ Assigned issue [#3](https://github.com/omniva-ai/sweeper/issues/3) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-3. ℹ️ Assigned issue [#2](https://github.com/omniva-ai/sweeper/issues/2) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-4. ❗ Opened issue [#26](https://github.com/omniva-ai/sweeper/issues/26) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-5. ❗ Opened issue [#25](https://github.com/omniva-ai/sweeper/issues/25) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+1. 💪 Opened PR [#11](https://github.com/richardcase/skills/pull/11) in [richardcase/skills](https://github.com/richardcase/skills)
+2. 💪 Opened PR [#10](https://github.com/richardcase/skills/pull/10) in [richardcase/skills](https://github.com/richardcase/skills)
+3. ℹ️ Labeled issue [#143](https://github.com/liquidmetal-dev/battery/issues/143) in [liquidmetal-dev/battery](https://github.com/liquidmetal-dev/battery)
+4. 💪 Opened PR [#9](https://github.com/richardcase/skills/pull/9) in [richardcase/skills](https://github.com/richardcase/skills)
+5. 💪 Opened PR [#33](https://github.com/omniva-ai/sweeper/pull/33) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
