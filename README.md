@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/omniva-ai/sweeper/pull/35) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-2. 💪 Opened PR [#34](https://github.com/omniva-ai/sweeper/pull/34) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-3. 🗣 Commented on [#3](https://github.com/richardcase/skills/pull/3#issuecomment-6334278218) in [richardcase/skills](https://github.com/richardcase/skills)
-4. 💪 Opened PR [#11](https://github.com/richardcase/skills/pull/11) in [richardcase/skills](https://github.com/richardcase/skills)
-5. 💪 Opened PR [#10](https://github.com/richardcase/skills/pull/10) in [richardcase/skills](https://github.com/richardcase/skills)
+1. 🎉 Merged PR [#7](https://github.com/richardcase/skills/pull/7) in [richardcase/skills](https://github.com/richardcase/skills)
+2. 🎉 Merged PR [#8](https://github.com/richardcase/skills/pull/8) in [richardcase/skills](https://github.com/richardcase/skills)
+3. 🎉 Merged PR [#9](https://github.com/richardcase/skills/pull/9) in [richardcase/skills](https://github.com/richardcase/skills)
+4. 🎉 Merged PR [#11](https://github.com/richardcase/skills/pull/11) in [richardcase/skills](https://github.com/richardcase/skills)
+5. 🎉 Merged PR [#10](https://github.com/richardcase/skills/pull/10) in [richardcase/skills](https://github.com/richardcase/skills)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
