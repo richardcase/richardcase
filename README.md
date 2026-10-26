@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5836#issuecomment-6362664385) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🗣 Commented on [#5837](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5837#issuecomment-6362681084) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🎉 Merged PR [#7](https://github.com/richardcase/skills/pull/7) in [richardcase/skills](https://github.com/richardcase/skills)
-4. 🎉 Merged PR [#8](https://github.com/richardcase/skills/pull/8) in [richardcase/skills](https://github.com/richardcase/skills)
-5. 🎉 Merged PR [#9](https://github.com/richardcase/skills/pull/9) in [richardcase/skills](https://github.com/richardcase/skills)
+1. 🎉 Merged PR [#12](https://github.com/liquidmetal-dev/controller-pkg/pull/12) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+2. 💪 Opened PR [#12](https://github.com/liquidmetal-dev/controller-pkg/pull/12) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+3. 🎉 Merged PR [#1342](https://github.com/liquidmetal-dev/flintlock/pull/1342) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 💪 Opened PR [#26](https://github.com/liquidmetal-dev/acceptance-tests/pull/26) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
+5. ℹ️ Labeled PR [#1342](https://github.com/liquidmetal-dev/flintlock/pull/1342) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
