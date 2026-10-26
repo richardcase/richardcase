@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/liquidmetal-dev/controller-pkg/pull/12) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-2. 💪 Opened PR [#12](https://github.com/liquidmetal-dev/controller-pkg/pull/12) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
-3. 🎉 Merged PR [#1342](https://github.com/liquidmetal-dev/flintlock/pull/1342) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#26](https://github.com/liquidmetal-dev/acceptance-tests/pull/26) in [liquidmetal-dev/acceptance-tests](https://github.com/liquidmetal-dev/acceptance-tests)
-5. ℹ️ Labeled PR [#1342](https://github.com/liquidmetal-dev/flintlock/pull/1342) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. 🎉 Merged PR [#13](https://github.com/liquidmetal-dev/controller-pkg/pull/13) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
+2. ℹ️ Assigned issue [#22](https://github.com/liquidmetal-dev/guest-agent/issues/22) in [liquidmetal-dev/guest-agent](https://github.com/liquidmetal-dev/guest-agent)
+3. ℹ️ Labeled PR [#71](https://github.com/liquidmetal-dev/microvm-operator/pull/71) in [liquidmetal-dev/microvm-operator](https://github.com/liquidmetal-dev/microvm-operator)
+4. 💪 Opened PR [#71](https://github.com/liquidmetal-dev/microvm-operator/pull/71) in [liquidmetal-dev/microvm-operator](https://github.com/liquidmetal-dev/microvm-operator)
+5. 💪 Opened PR [#13](https://github.com/liquidmetal-dev/controller-pkg/pull/13) in [liquidmetal-dev/controller-pkg](https://github.com/liquidmetal-dev/controller-pkg)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
