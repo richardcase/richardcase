@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#7](https://github.com/liquidmetal-dev/muster/issues/7) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-2. 💪 Opened PR [#33](https://github.com/liquidmetal-dev/muster/pull/33) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-3. 🔒 Closed issue [#3](https://github.com/liquidmetal-dev/muster/issues/3) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-4. 💪 Opened PR [#32](https://github.com/liquidmetal-dev/muster/pull/32) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-5. 🗣 Commented on [#6](https://github.com/omniva-ai/sweeper/issues/6#issuecomment-6471696137) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+1. 🎉 Merged PR [#40](https://github.com/omniva-ai/sweeper/pull/40) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+2. 🎉 Merged PR [#32](https://github.com/liquidmetal-dev/muster/pull/32) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+3. 🔒 Closed issue [#7](https://github.com/omniva-ai/sweeper/issues/7) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+4. 💪 Opened PR [#40](https://github.com/omniva-ai/sweeper/pull/40) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+5. 🎉 Merged PR [#39](https://github.com/omniva-ai/sweeper/pull/39) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
