@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/kubernetes-sigs/boskos/pull/264#issuecomment-6501436550) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-2. 🗣 Commented on [#5836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5836#issuecomment-6501915975) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-3. 🗣 Commented on [#264](https://github.com/kubernetes-sigs/boskos/pull/264#issuecomment-6501415706) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-4. 🎉 Merged PR [#40](https://github.com/omniva-ai/sweeper/pull/40) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-5. 🎉 Merged PR [#32](https://github.com/liquidmetal-dev/muster/pull/32) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+1. ℹ️ Assigned issue [#8](https://github.com/omniva-ai/sweeper/issues/8) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+2. 🗣 Commented on [#264](https://github.com/kubernetes-sigs/boskos/pull/264#issuecomment-6501436550) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
+3. 🗣 Commented on [#5836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5836#issuecomment-6501915975) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+4. 🗣 Commented on [#264](https://github.com/kubernetes-sigs/boskos/pull/264#issuecomment-6501415706) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
+5. 🎉 Merged PR [#40](https://github.com/omniva-ai/sweeper/pull/40) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
