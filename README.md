@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/omniva-ai/sweeper/pull/43) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-2. 🗣 Commented on [#8](https://github.com/omniva-ai/sweeper/issues/8#issuecomment-6527312090) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-3. ℹ️ Assigned issue [#8](https://github.com/omniva-ai/sweeper/issues/8) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
-4. 🗣 Commented on [#264](https://github.com/kubernetes-sigs/boskos/pull/264#issuecomment-6501436550) in [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos)
-5. 🗣 Commented on [#5836](https://github.com/kubernetes-sigs/cluster-api-provider-aws/issues/5836#issuecomment-6501915975) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+1. 🎉 Merged PR [#14](https://github.com/richardcase/skills/pull/14) in [richardcase/skills](https://github.com/richardcase/skills)
+2. 💪 Opened PR [#14](https://github.com/richardcase/skills/pull/14) in [richardcase/skills](https://github.com/richardcase/skills)
+3. ℹ️ Assigned issue [#12](https://github.com/richardcase/skills/issues/12) in [richardcase/skills](https://github.com/richardcase/skills)
+4. 🎉 Merged PR [#6](https://github.com/richardcase/skills/pull/6) in [richardcase/skills](https://github.com/richardcase/skills)
+5. 💪 Opened PR [#43](https://github.com/omniva-ai/sweeper/pull/43) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
