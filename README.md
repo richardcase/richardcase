@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/richardcase/skills/pull/21) in [richardcase/skills](https://github.com/richardcase/skills)
-2. 💪 Opened PR [#21](https://github.com/richardcase/skills/pull/21) in [richardcase/skills](https://github.com/richardcase/skills)
-3. 🎉 Merged PR [#153](https://github.com/richardcase/satchel/pull/153) in [richardcase/satchel](https://github.com/richardcase/satchel)
-4. 💪 Opened PR [#153](https://github.com/richardcase/satchel/pull/153) in [richardcase/satchel](https://github.com/richardcase/satchel)
-5. ℹ️ Assigned issue [#5](https://github.com/liquidmetal-dev/muster/issues/5) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+1. 💪 Opened PR [#6340](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6340) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+2. 🗣 Commented on [#12](https://github.com/liquidmetal-dev/muster/issues/12#issuecomment-6608093736) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+3. ℹ️ Assigned issue [#10](https://github.com/liquidmetal-dev/muster/issues/10) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+4. ❗ Opened issue [#24](https://github.com/richardcase/skills/issues/24) in [richardcase/skills](https://github.com/richardcase/skills)
+5. 🗣 Commented on [#9](https://github.com/liquidmetal-dev/muster/issues/9#issuecomment-6608043763) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
