@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/liquidmetal-dev/muster/pull/40) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-2. 🗣 Commented on [#10](https://github.com/liquidmetal-dev/muster/issues/10#issuecomment-6610277845) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-3. 🗣 Commented on [#10](https://github.com/liquidmetal-dev/muster/issues/10#issuecomment-6610103973) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-4. 💪 Opened PR [#6340](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6340) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-5. 🗣 Commented on [#12](https://github.com/liquidmetal-dev/muster/issues/12#issuecomment-6608093736) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+1. 🔒 Closed issue [#8](https://github.com/omniva-ai/sweeper/issues/8) in [omniva-ai/sweeper](https://github.com/omniva-ai/sweeper)
+2. 🗣 Commented on [#4350](https://github.com/herdrdev/herdr/issues/4350#issuecomment-6628035277) in [herdrdev/herdr](https://github.com/herdrdev/herdr)
+3. 💪 Opened PR [#40](https://github.com/liquidmetal-dev/muster/pull/40) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+4. 🗣 Commented on [#10](https://github.com/liquidmetal-dev/muster/issues/10#issuecomment-6610277845) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+5. 🗣 Commented on [#10](https://github.com/liquidmetal-dev/muster/issues/10#issuecomment-6610103973) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
