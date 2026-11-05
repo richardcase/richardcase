@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/liquidmetal-dev/muster/issues/17#issuecomment-6662676934) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-2. 🎉 Merged PR [#32](https://github.com/liquidmetal-dev/site/pull/32) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-3. 🎉 Merged PR [#1346](https://github.com/liquidmetal-dev/flintlock/pull/1346) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. 💪 Opened PR [#32](https://github.com/liquidmetal-dev/site/pull/32) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
-5. 🎉 Merged PR [#31](https://github.com/liquidmetal-dev/site/pull/31) in [liquidmetal-dev/site](https://github.com/liquidmetal-dev/site)
+1. 🗣 Commented on [#18](https://github.com/liquidmetal-dev/muster/issues/18#issuecomment-6665842422) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+2. ❗ Opened issue [#50](https://github.com/liquidmetal-dev/muster/issues/50) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+3. ❗ Opened issue [#49](https://github.com/liquidmetal-dev/muster/issues/49) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+4. 🗣 Commented on [#38](https://github.com/liquidmetal-dev/muster/issues/38#issuecomment-6665678652) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+5. 🗣 Commented on [#18](https://github.com/liquidmetal-dev/muster/issues/18#issuecomment-6665677181) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
