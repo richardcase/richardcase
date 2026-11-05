@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/liquidmetal-dev/muster/issues/38#issuecomment-6639507260) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-2. ℹ️ Assigned issue [#17](https://github.com/liquidmetal-dev/muster/issues/17) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-3. 🗣 Commented on [#15](https://github.com/liquidmetal-dev/muster/issues/15#issuecomment-6639363463) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-4. 🗣 Commented on [#6](https://github.com/liquidmetal-dev/muster/issues/6#issuecomment-6639351661) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-5. 🔒 Closed issue [#15](https://github.com/liquidmetal-dev/muster/issues/15) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+1. ℹ️ Assigned issue [#16](https://github.com/liquidmetal-dev/muster/issues/16) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+2. ❗ Opened issue [#26](https://github.com/richardcase/skills/issues/26) in [richardcase/skills](https://github.com/richardcase/skills)
+3. 🎉 Merged PR [#382](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/382) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+4. ℹ️ Labeled PR [#382](https://github.com/liquidmetal-dev/cluster-api-provider-microvm/pull/382) in [liquidmetal-dev/cluster-api-provider-microvm](https://github.com/liquidmetal-dev/cluster-api-provider-microvm)
+5. 🎉 Merged PR [#1](https://github.com/liquidmetal-dev/hammertime/pull/1) in [liquidmetal-dev/hammertime](https://github.com/liquidmetal-dev/hammertime)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
