@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6334](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6334#issuecomment-6746549794) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
-2. 🎉 Merged PR [#59](https://github.com/liquidmetal-dev/muster/pull/59) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-3. 💪 Opened PR [#59](https://github.com/liquidmetal-dev/muster/pull/59) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-4. 🔒 Closed issue [#55](https://github.com/liquidmetal-dev/muster/issues/55) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
-5. 🎉 Merged PR [#58](https://github.com/liquidmetal-dev/muster/pull/58) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+1. ❗ Opened issue [#6806](https://github.com/kubernetes/org/issues/6806) in [kubernetes/org](https://github.com/kubernetes/org)
+2. 🗣 Commented on [#6334](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pull/6334#issuecomment-6746549794) in [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+3. 🎉 Merged PR [#59](https://github.com/liquidmetal-dev/muster/pull/59) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+4. 💪 Opened PR [#59](https://github.com/liquidmetal-dev/muster/pull/59) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
+5. 🔒 Closed issue [#55](https://github.com/liquidmetal-dev/muster/issues/55) in [liquidmetal-dev/muster](https://github.com/liquidmetal-dev/muster)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
