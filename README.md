@@ -14,11 +14,11 @@
 ### GitHub Activity 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1396](https://github.com/liquidmetal-dev/flintlock/issues/1396) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-2. ℹ️ Labeled issue [#1396](https://github.com/liquidmetal-dev/flintlock/issues/1396) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-3. ℹ️ Labeled issue [#1395](https://github.com/liquidmetal-dev/flintlock/issues/1395) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-4. ❗ Opened issue [#1395](https://github.com/liquidmetal-dev/flintlock/issues/1395) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
-5. 🗣 Commented on [#1393](https://github.com/liquidmetal-dev/flintlock/pull/1393#issuecomment-6856744161) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+1. ℹ️ Assigned issue [#1377](https://github.com/liquidmetal-dev/flintlock/issues/1377) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+2. 🔒 Closed issue [#1369](https://github.com/liquidmetal-dev/flintlock/issues/1369) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+3. 🗣 Commented on [#1369](https://github.com/liquidmetal-dev/flintlock/issues/1369#issuecomment-6860744752) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+4. 🗣 Commented on [#1393](https://github.com/liquidmetal-dev/flintlock/pull/1393#issuecomment-6860744138) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
+5. ℹ️ Assigned issue [#1369](https://github.com/liquidmetal-dev/flintlock/issues/1369) in [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
